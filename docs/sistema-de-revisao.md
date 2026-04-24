@@ -2,7 +2,9 @@
 
 ## Objetivo
 
-O sistema de revisão existe para garantir que conteúdo estudado continue recuperável ao longo do tempo. Ele depende do frontmatter das notas atômicas e das consultas Dataview no dashboard e nos índices.
+O sistema de revisão existe para garantir que conteúdo estudado continue
+recuperável ao longo do tempo. Ele depende do frontmatter das notas atômicas e
+das consultas Dataview no dashboard e nos índices.
 
 ## Campos usados
 
@@ -94,4 +96,5 @@ tags: [CIE, fogo, incêndio]
 
 ## Regra prática
 
-Revisão boa não é só “li de novo”. Ela envolve tentar lembrar, responder, errar pouco e atualizar o sistema para a próxima janela correta.
+Revisão boa não é só “li de novo”. Ela envolve tentar lembrar, responder,
+errar pouco e atualizar o sistema para a próxima janela correta.

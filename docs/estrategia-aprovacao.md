@@ -2,7 +2,9 @@
 
 ## Princípio central
 
-A prova não recompensa volume bruto de leitura. Ela recompensa priorização correta, retenção e capacidade de não repetir erros. A estratégia deste projeto parte desse princípio.
+A prova não recompensa volume bruto de leitura. Ela recompensa priorização
+correta, retenção e capacidade de não repetir erros. A estratégia deste
+projeto parte desse princípio.
 
 ## Diretrizes
 
@@ -21,20 +23,23 @@ A prova não recompensa volume bruto de leitura. Ela recompensa priorização co
 - CIE
 - CBAE
 
-Essas áreas tendem a carregar peso técnico direto e exigem domínio operacional, não só reconhecimento superficial.
+Essas áreas tendem a carregar peso técnico direto e exigem domínio
+operacional, não só reconhecimento superficial.
 
 ### Média prioridade
 
 - IG
 - Português crítico
 
-São disciplinas importantes, mas o esforço deve ser calibrado conforme incidência, dificuldade pessoal e momento da preparação.
+São disciplinas importantes, mas o esforço deve ser calibrado conforme
+incidência, dificuldade pessoal e momento da preparação.
 
 ### Baixa prioridade
 
 - tópicos raros de Português
 
-Conteúdos pouco cobrados ou de baixo retorno relativo não devem disputar tempo com falhas recorrentes em blocos centrais.
+Conteúdos pouco cobrados ou de baixo retorno relativo não devem disputar tempo
+com falhas recorrentes em blocos centrais.
 
 ## Matriz de prioridade
 
@@ -64,4 +69,5 @@ Simulado só é útil quando produz diagnóstico. Após cada simulado:
 
 ## Resultado esperado
 
-Essa estratégia evita desperdício de esforço em tópicos periféricos e mantém o sistema concentrado no que mais aumenta a probabilidade de aprovação.
+Essa estratégia evita desperdício de esforço em tópicos periféricos e mantém o
+sistema concentrado no que mais aumenta a probabilidade de aprovação.

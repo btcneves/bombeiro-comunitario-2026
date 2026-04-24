@@ -77,4 +77,6 @@ O tema é importante?::Sim.
 
 ## Critério de qualidade
 
-Se a resposta correta não puder ser lembrada em poucos segundos, o card provavelmente está largo demais ou mal formulado. O objetivo do card é testar recuperação, não reproduzir capítulo inteiro.
+Se a resposta correta não puder ser lembrada em poucos segundos, o card
+provavelmente está largo demais ou mal formulado. O objetivo do card é testar
+recuperação, não reproduzir capítulo inteiro.

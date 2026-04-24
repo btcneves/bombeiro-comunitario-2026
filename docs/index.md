@@ -1,21 +1,38 @@
 # Bombeiro Comunitário 2026
 
-Landing page documental para GitHub Pages.
+Sistema de estudo em Obsidian para preparação de Bombeiro Comunitário 2026,
+com notas atômicas, flashcards, revisão espaçada, dashboard e registro de
+erros.
 
-## Navegação rápida
+## Navegação
 
-- [README do projeto](../README.md)
+- [Visão geral do repositório](../README.md)
 - [Metodologia](metodologia.md)
 - [Como usar](como-usar.md)
 - [Fluxo de estudo](fluxo-de-estudo.md)
 - [Arquitetura](arquitetura.md)
-- [Estratégia de aprovação](estrategia-aprovacao.md)
 - [Sistema de revisão](sistema-de-revisao.md)
 - [Flashcards](flashcards.md)
 - [Sistema de erros](sistema-de-erros.md)
-- [Adaptando para outros concursos](adaptando-para-outros-concursos.md)
-- [FAQ](faq.md)
+- [Fontes oficiais](../SOURCES.md)
+- [Notice](../NOTICE.md)
+- [Publicação no GitHub](publicacao-github.md)
 
-## Visão geral
+## O que este projeto entrega
 
-Este projeto organiza o estudo para o concurso de Bombeiro Comunitário 2026 como um sistema de conhecimento operável em Obsidian, com revisão espaçada, estudo ativo e controle de erros.
+O repositório transforma estudo disperso em um sistema executável de
+aprendizado. O vault concentra a rotina diária, a documentação externa explica
+o método e a camada pública do projeto permite apresentar a solução como
+portfólio técnico.
+
+## Fluxo resumido
+
+`Dashboard → Revisão → Flashcards → Estudo novo → Questões → Erros → Revisão`
+
+## Leitura recomendada
+
+- Comece por [Como usar](como-usar.md) para abrir o vault corretamente.
+- Leia [Metodologia](metodologia.md) para entender a lógica do sistema.
+- Consulte [Arquitetura](arquitetura.md) para mapear as camadas do vault.
+- Use [Publicação no GitHub](publicacao-github.md) para configurar metadados,
+  Pages e release pública.

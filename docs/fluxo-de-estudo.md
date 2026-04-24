@@ -2,19 +2,25 @@
 
 ## Rotina diária recomendada
 
-O fluxo foi desenhado para impedir que o estudante acumule conteúdo novo sem consolidar o que já estudou.
+O fluxo foi desenhado para impedir que o estudante acumule conteúdo novo sem
+consolidar o que já estudou.
 
 ### 1. Revisão vencida
 
-Comece pelas notas com `próxima-revisão` igual ao dia atual ou já atrasada. Esse passo protege a retenção e evita que o sistema vire apenas um repositório de leitura.
+Comece pelas notas com `próxima-revisão` igual ao dia atual ou já atrasada.
+Esse passo protege a retenção e evita que o sistema vire apenas um repositório
+de leitura.
 
 ### 2. Flashcards
 
-Execute os cards da disciplina em foco e dos pontos fracos recentes. O objetivo aqui é testar recuperação, não releitura.
+Execute os cards da disciplina em foco e dos pontos fracos recentes. O
+objetivo aqui é testar recuperação, não releitura.
 
 ### 3. Estudo novo
 
-Depois de limpar ou reduzir a fila de revisão, estude o conteúdo novo previsto no cronograma. Sempre que possível, o estudo deve terminar em uma nota atômica clara.
+Depois de limpar ou reduzir a fila de revisão, estude o conteúdo novo previsto
+no cronograma. Sempre que possível, o estudo deve terminar em uma nota atômica
+clara.
 
 ### 4. Questões
 
@@ -78,4 +84,5 @@ Sempre que o tempo estiver curto, priorize:
 3. questões de pontos fracos
 4. só então conteúdo novo
 
-O ganho real do projeto aparece quando o estudo deixa de ser apenas avanço linear e passa a ser manutenção consciente do que já foi visto.
+O ganho real do projeto aparece quando o estudo deixa de ser apenas avanço
+linear e passa a ser manutenção consciente do que já foi visto.

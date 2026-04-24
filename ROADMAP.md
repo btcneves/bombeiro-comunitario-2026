@@ -6,6 +6,14 @@
 - documentar metodologia, arquitetura e operação
 - preparar o repositório para publicação no GitHub
 
+## v1.0.1 — Publicação e acabamento GitHub
+
+- adicionar metadados do GitHub
+- ativar GitHub Pages
+- adicionar imagens reais do Obsidian
+- revisar fontes oficiais
+- publicar release inicial
+
 ## v1.1 — Diagramas e imagens
 
 - adicionar fluxos visuais do sistema de estudo

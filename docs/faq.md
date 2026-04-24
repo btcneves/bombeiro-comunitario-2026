@@ -2,11 +2,13 @@
 
 ## Preciso saber programar?
 
-Não. O projeto usa Markdown e Obsidian, não desenvolvimento de software tradicional para o uso diário.
+Não. O projeto usa Markdown e Obsidian, não desenvolvimento de software
+tradicional para o uso diário.
 
 ## Preciso usar Obsidian?
 
-Para aproveitar o sistema completo, sim. Parte do valor está nas consultas, links internos e plugins do ecossistema Obsidian.
+Para aproveitar o sistema completo, sim. Parte do valor está nas consultas,
+links internos e plugins do ecossistema Obsidian.
 
 ## Posso usar no celular?
 
@@ -14,7 +16,9 @@ Sim. O vault pode ser aberto no aplicativo móvel do Obsidian, desde que os arqu
 
 ## Como adapto para outro concurso?
 
-Substitua edital, reorganize disciplinas, recrie notas atômicas e ajuste dashboard, cronograma e README. O guia completo está em `docs/adaptando-para-outros-concursos.md`.
+Substitua edital, reorganize disciplinas, recrie notas atômicas e ajuste
+dashboard, cronograma e README. O guia completo está em
+`docs/adaptando-para-outros-concursos.md`.
 
 ## Como sei o que revisar hoje?
 
@@ -22,7 +26,8 @@ Pelo `🎯 Dashboard` e pelos índices de revisão. O campo `próxima-revisão` 
 
 ## Como usar flashcards?
 
-Abra os decks ou notas que contêm cards e revise com o plugin Spaced Repetition. O formato principal é `pergunta::resposta`.
+Abra os decks ou notas que contêm cards e revise com o plugin Spaced
+Repetition. O formato principal é `pergunta::resposta`.
 
 ## O que fazer quando erro uma questão?
 

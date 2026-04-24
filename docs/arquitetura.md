@@ -2,25 +2,31 @@
 
 ## Visão geral
 
-O projeto foi estruturado como um sistema de estudo em camadas. Cada pasta do vault tem função operacional clara, evitando mistura entre fonte, síntese, prática e revisão.
+O projeto foi estruturado como um sistema de estudo em camadas. Cada pasta do
+vault tem função operacional clara, evitando mistura entre fonte, síntese,
+prática e revisão.
 
 ## Estrutura principal
 
 ### `00 - Dashboard`
 
-Centro operacional do vault. Reúne indicadores, revisões do dia, prioridades, atrasos, checklist do edital e atalhos rápidos.
+Centro operacional do vault. Reúne indicadores, revisões do dia, prioridades,
+atrasos, checklist do edital e atalhos rápidos.
 
 ### `01 - Edital`
 
-Camada de referência formal. Organiza o edital, cronograma oficial e atribuições do cargo para manter o estudo alinhado à fonte de cobrança.
+Camada de referência formal. Organiza o edital, cronograma oficial e
+atribuições do cargo para manter o estudo alinhado à fonte de cobrança.
 
 ### `02 - Disciplinas`
 
-Páginas centrais por disciplina. Funcionam como pontos de navegação e organização do conteúdo macro.
+Páginas centrais por disciplina. Funcionam como pontos de navegação e
+organização do conteúdo macro.
 
 ### `03 - Tópicos Atômicos`
 
-Núcleo do conhecimento. Cada nota representa um conceito, tema ou subtópico com granularidade suficiente para revisão e conexão semântica.
+Núcleo do conhecimento. Cada nota representa um conceito, tema ou subtópico
+com granularidade suficiente para revisão e conexão semântica.
 
 ### `04 - Flashcards`
 
@@ -28,7 +34,8 @@ Decks por disciplina e cards derivados das notas. É a camada de recuperação a
 
 ### `05 - Revisões`
 
-Índices e regras de revisão espaçada. Faz a leitura do frontmatter das notas atômicas para exibir o que deve ser revisado.
+Índices e regras de revisão espaçada. Faz a leitura do frontmatter das notas
+atômicas para exibir o que deve ser revisado.
 
 ### `06 - Questões`
 
@@ -44,7 +51,8 @@ Camada de condensação de alta utilidade para reta final, revisão rápida e id
 
 ### `09 - Erros e Aprendizados`
 
-Sistema de captura de falhas, causas-raiz e correções. Transforma desempenho ruim em revisão dirigida.
+Sistema de captura de falhas, causas-raiz e correções. Transforma desempenho
+ruim em revisão dirigida.
 
 ### `_Templates`
 

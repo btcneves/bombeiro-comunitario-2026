@@ -1,16 +1,23 @@
 # Portfólio Técnico
 
-## Projeto
-
 **Bombeiro Comunitário 2026 — Sistema de Estudo com Obsidian**
 
-Sistema documental e operacional de estudo para concurso público, estruturado como um second brain em Obsidian e versionado como repositório GitHub profissional.
+Sistema documental e operacional de estudo para concurso público, estruturado
+como um second brain em Obsidian e versionado como repositório GitHub
+profissional.
 
-## Problema resolvido
+## Problema
 
-O projeto resolve um problema comum em preparação para concursos: conteúdo espalhado, revisão inconsistente, dificuldade de rastrear o edital e baixa capacidade de transformar erro em aprendizado acionável.
+Preparação para concurso costuma degradar quando o conteúdo fica espalhado, a
+revisão é inconsistente e o estudante perde a conexão entre edital, estudo,
+questões, erro e retomada.
 
-Em vez de depender de um conjunto fragmentado de PDFs, resumos e marcações soltas, o sistema centraliza estudo, revisão, flashcards, cronograma e controle de erros em uma arquitetura única.
+## Solução
+
+O projeto centraliza estudo, revisão, flashcards, cronograma, documentação e
+controle de erros em uma arquitetura única. Em vez de depender de PDFs,
+resumos e marcações soltas, o estudante opera um fluxo rastreável dentro de um
+vault Obsidian versionado no GitHub.
 
 ## Tecnologias usadas
 
@@ -22,13 +29,30 @@ Em vez de depender de um conjunto fragmentado de PDFs, resumos e marcações sol
 - GitHub
 - GitHub Pages
 
+## Decisões técnicas
+
+- uso de Markdown como formato principal para longevidade e portabilidade
+- frontmatter estruturado para rastrear revisão, domínio e prioridade
+- documentação externa ao vault para apresentação pública e manutenção
+- separação entre conteúdo operacional, documentação e materiais de referência
+- versionamento com Git para histórico, auditoria e publicação
+
 ## Decisões de arquitetura
 
-- Separação por camadas: dashboard, edital, disciplinas, notas atômicas, flashcards, revisões, questões, resumos e erros.
-- Uso de frontmatter estruturado para permitir consultas, rastreamento e priorização.
-- Notas atômicas para granularidade cognitiva e reutilização.
-- Flashcards no próprio ambiente de estudo para reduzir fricção operacional.
-- Documentação externa ao vault para transformar o sistema em produto técnico apresentável.
+- separação por camadas: dashboard, edital, disciplinas, notas atômicas,
+  flashcards, revisões, questões, resumos e erros
+- notas atômicas para granularidade cognitiva e reutilização
+- flashcards no próprio ambiente de estudo para reduzir fricção operacional
+- sistema de erros como mecanismo de realimentação
+- documentação externa ao vault para transformar o sistema em produto técnico
+  apresentável
+
+## Metodologia de aprendizado
+
+- active recall para medir recuperação em vez de releitura
+- spaced repetition com ciclos `D+1`, `D+7` e `D+30`
+- notas atômicas para reduzir ambiguidade e facilitar revisão
+- ligação entre erro, nota, card e revisão para reforço dirigido
 
 ## Impacto prático
 
@@ -42,16 +66,22 @@ Em vez de depender de um conjunto fragmentado de PDFs, resumos e marcações sol
 
 - organização de conhecimento
 - documentação técnica
-- automação e operacionalização de estudo
+- Markdown
+- Git/GitHub
+- Obsidian
+- arquitetura de informação
+- pensamento sistêmico
+- automação de estudo
+- versionamento
 - modelagem de informação em Markdown
-- uso profissional de GitHub
-- pensamento sistêmico aplicado a aprendizado
 
-## Valor como case
+## Como apresentar esse projeto em entrevista ou portfólio
 
-Este projeto demonstra capacidade de:
+Uma narrativa objetiva para apresentação:
 
-- transformar necessidade pessoal em sistema replicável
-- desenhar arquitetura documental com uso real
-- documentar fluxo, estrutura e governança com padrão profissional
-- preparar um artefato técnico para publicação e apresentação pública
+1. descrever o problema de estudo fragmentado e revisão inconsistente
+2. explicar que a solução foi projetar um sistema de conhecimento em Obsidian
+3. mostrar a arquitetura em camadas e o fluxo diário de uso
+4. destacar decisões de documentação, versionamento e publicação
+5. concluir com o valor prático: organização, retenção, rastreabilidade e
+   transformação de necessidade real em produto técnico publicável

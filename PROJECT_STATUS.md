@@ -2,16 +2,17 @@
 
 ## Status geral
 
-Projeto ativo, documentado e pronto para versionamento inicial.
+Projeto ativo, documentado e em padrão de publicação pública.
 
 ## Snapshot atual
 
-- Vault estruturado e preservado como núcleo do sistema.
-- `85` notas atômicas organizadas por disciplina.
-- `191` flashcards ativos no sistema de estudo.
-- `0` links quebrados conforme auditoria anterior registrada para o projeto.
-- Revisão espaçada configurada com ciclo operacional.
-- Dashboard funcional para acompanhamento diário.
+- Data: `2026-04-24`
+- Branch: `main`
+- Commit atual: `cf26e6b`
+- Vault estruturado e preservado como núcleo do sistema
+- Auditoria documental: `links Markdown externos verificados, sem quebras detectadas`
+- Total de arquivos Markdown: `147`
+- Total aproximado de flashcards: `567` ocorrências de `::` no vault
 
 ## Componentes presentes
 
@@ -23,11 +24,20 @@ Projeto ativo, documentado e pronto para versionamento inicial.
 - Índices de revisão e de erros.
 - Resumos estratégicos e templates operacionais.
 
+## Integridade
+
+- O `Obsidian Vault` foi preservado como ambiente operacional do projeto.
+- A documentação pública cobre uso, metodologia, arquitetura, fontes e aviso
+  institucional.
+- Em caso de divergência entre resumos e materiais-base, prevalecem as fontes
+  oficiais.
+
 ## Pronto para publicação
 
 O repositório está organizado para:
 
-- commit inicial em Git
 - hospedagem pública no GitHub
 - documentação navegável
 - apresentação como item de portfólio técnico
+- publicação via GitHub Pages
+- release inicial `v1.0.0`

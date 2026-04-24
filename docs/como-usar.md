@@ -19,7 +19,9 @@ O vault já foi pensado para funcionar melhor com estes plugins:
 - `Calendar` opcional
 - `Templater` opcional
 
-Pelo estado atual do vault, os plugins também configurados localmente incluem `Excalidraw` e `Tasks`, mas os dois citados como opcionais acima não são obrigatórios para começar a usar o sistema.
+Pelo estado atual do vault, os plugins também configurados localmente incluem
+`Excalidraw` e `Tasks`, mas os dois citados como opcionais acima não são
+obrigatórios para começar a usar o sistema.
 
 ## Como ativar plugins
 
@@ -58,20 +60,27 @@ Após abrir o vault:
 
 ### Notas não aparecem
 
-Verifique se você abriu a pasta correta. O vault deve ser a pasta `Obsidian Vault`, não a raiz do repositório.
+Verifique se você abriu a pasta correta. O vault deve ser a pasta
+`Obsidian Vault`, não a raiz do repositório.
 
 ### Dataview não renderiza
 
-Confirme que o plugin `Dataview` está instalado e habilitado. Sem ele, as tabelas do dashboard e dos índices aparecerão como blocos de código.
+Confirme que o plugin `Dataview` está instalado e habilitado. Sem ele, as
+tabelas do dashboard e dos índices aparecerão como blocos de código.
 
 ### Flashcards não aparecem
 
-Confirme que o plugin `Spaced Repetition` está ativo e que os cards estão no formato esperado, como `Pergunta::Resposta` ou no padrão aceito pelo plugin usado no vault.
+Confirme que o plugin `Spaced Repetition` está ativo e que os cards estão no
+formato esperado, como `Pergunta::Resposta` ou no padrão aceito pelo plugin
+usado no vault.
 
 ### Caracteres especiais em nomes de pastas
 
-Este projeto usa nomes em português com espaços e acentos. Em sistemas que extraem ZIP incorretamente ou ferramentas que alteram codificação, prefira clonar com Git para preservar os nomes dos diretórios.
+Este projeto usa nomes em português com espaços e acentos. Em sistemas que
+extraem ZIP incorretamente ou ferramentas que alteram codificação, prefira
+clonar com Git para preservar os nomes dos diretórios.
 
 ### Links do Obsidian não funcionam
 
-Isso normalmente indica que o vault foi aberto de forma parcial ou fora da pasta correta. Reabra especificamente `Obsidian Vault`.
+Isso normalmente indica que o vault foi aberto de forma parcial ou fora da
+pasta correta. Reabra especificamente `Obsidian Vault`.

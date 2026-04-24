@@ -2,7 +2,9 @@
 
 ## Por que registrar erros
 
-Erro registrado é insumo de melhoria. Erro ignorado tende a se repetir com aparência de surpresa. Em preparação para concurso, isso custa pontos e distorce a percepção de domínio.
+Erro registrado é insumo de melhoria. Erro ignorado tende a se repetir com
+aparência de surpresa. Em preparação para concurso, isso custa pontos e
+distorce a percepção de domínio.
 
 ## Como registrar um erro
 
@@ -28,7 +30,9 @@ O erro não deve terminar no registro textual. Ele precisa gerar ação concreta
 
 ## Como ligar erro à nota atômica
 
-Toda vez que possível, conecte o erro à nota que representa o conceito correto. Isso cria uma trilha clara entre desempenho ruim e base de estudo correspondente.
+Toda vez que possível, conecte o erro à nota que representa o conceito correto.
+Isso cria uma trilha clara entre desempenho ruim e base de estudo
+correspondente.
 
 ## Como priorizar erros recorrentes
 
@@ -65,4 +69,5 @@ Ação de revisão: revisar nota e responder 5 cards da disciplina
 
 ## Ganho sistêmico
 
-O sistema de erros impede que o estudo seja guiado só pelo que é confortável. Ele traz para o centro exatamente o que está falhando em desempenho real.
+O sistema de erros impede que o estudo seja guiado só pelo que é confortável.
+Ele traz para o centro exatamente o que está falhando em desempenho real.
