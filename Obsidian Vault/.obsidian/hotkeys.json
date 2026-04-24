@@ -1,0 +1,8 @@
+{
+  "editor:toggle-bold": [{"modifiers":["Mod"],"key":"B"}],
+  "editor:toggle-italics": [{"modifiers":["Mod"],"key":"I"}],
+  "app:go-back": [{"modifiers":["Alt"],"key":"ArrowLeft"}],
+  "app:go-forward": [{"modifiers":["Alt"],"key":"ArrowRight"}],
+  "daily-notes": [{"modifiers":["Mod","Shift"],"key":"D"}],
+  "obsidian-spaced-repetition:srs-note-review-open-note": [{"modifiers":["Mod","Shift"],"key":"R"}]
+}
