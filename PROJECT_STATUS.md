@@ -8,7 +8,7 @@ Projeto ativo, documentado e em padrão de publicação pública.
 
 - Data: `2026-04-24`
 - Branch: `main`
-- Commit atual: `cf26e6b`
+- Commit de referência da última auditoria documental: `a49109c`
 - Vault estruturado e preservado como núcleo do sistema
 - Auditoria documental: `links Markdown externos verificados, sem quebras detectadas`
 - Total de arquivos Markdown: `147`
