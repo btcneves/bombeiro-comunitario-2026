@@ -12,7 +12,7 @@ fluxo operacional construído sobre essas fontes.
 
 - Edital do Concurso Público `001/2026` do Município de Imaruí/SC.
 - Biblioteca de Manuais CBMSC — Manuais CEBM.
-  URL: <https://www.cbm.sc.gov.br/index.php/biblioteca/manuais-cbmsc>
+  URL: https://www.cbm.sc.gov.br/index.php/biblioteca/manuais-cbmsc
 - Código de Trânsito Brasileiro, quando aplicável ao conteúdo estudado.
 - Manuais Brasileiros de Sinalização de Trânsito, quando aplicável.
 - Demais normas, legislações e materiais públicos referenciados no edital.
@@ -25,7 +25,7 @@ Catarina, na seção “Manuais CEBM”, descrita como materiais de formação,
 capacitação e documentação técnico-didática.
 
 Fonte oficial:
-<https://www.cbm.sc.gov.br/index.php/biblioteca/manuais-cbmsc>
+https://www.cbm.sc.gov.br/index.php/biblioteca/manuais-cbmsc
 
 Categorias publicamente listadas na página oficial:
 
@@ -42,6 +42,8 @@ Categorias publicamente listadas na página oficial:
 - O conteúdo autoral do repositório é a organização, a metodologia, a
   estrutura de estudo, as notas, os resumos e a documentação produzida para
   apoiar o aprendizado.
+- Os manuais utilizados como referência são materiais públicos e estão
+  referenciados pela biblioteca oficial do CBMSC.
 - Em caso de divergência, prevalecem sempre as fontes oficiais.
 - Se algum material público mudar de endereço ou deixar de estar disponível,
   esta documentação deve ser atualizada para refletir a nova fonte oficial.

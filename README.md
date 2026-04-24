@@ -119,6 +119,7 @@ Pontos principais de navegação:
 
 Documentação detalhada:
 
+- [Landing page da documentação](docs/index.md)
 - [Como usar](docs/como-usar.md)
 - [Fluxo de estudo](docs/fluxo-de-estudo.md)
 - [Arquitetura](docs/arquitetura.md)
@@ -173,6 +174,8 @@ Consulte também:
 
 - [SOURCES.md](SOURCES.md)
 - [NOTICE.md](NOTICE.md)
+- [docs/index.md](docs/index.md)
+- [docs/publicacao-github.md](docs/publicacao-github.md)
 
 Em caso de divergência, prevalecem sempre as fontes oficiais.
 
