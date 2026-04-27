@@ -56,6 +56,15 @@ Após abrir o vault:
 - Use `05 - Revisões` para controlar o ciclo.
 - Use `09 - Erros e Aprendizados` para reforço dirigido.
 
+## Guia completo
+
+Para rotinas detalhadas por tempo disponível, hierarquia de fonte, checklist
+diário e orientações específicas sobre CBAE, consulte:
+
+[**docs/guia-de-estudo-eficiente.md**](guia-de-estudo-eficiente.md)
+
+---
+
 ## Solução de problemas
 
 ### Notas não aparecem

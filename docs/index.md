@@ -7,6 +7,7 @@ erros.
 ## Navegação rápida
 
 - [Visão geral do repositório](../README.md)
+- [**Guia de estudo eficiente**](guia-de-estudo-eficiente.md) — como usar o sistema com máxima eficiência
 - [Metodologia](metodologia.md)
 - [Como usar](como-usar.md)
 - [Fluxo de estudo](fluxo-de-estudo.md)
@@ -14,6 +15,7 @@ erros.
 - [Sistema de revisão](sistema-de-revisao.md)
 - [Flashcards](flashcards.md)
 - [Sistema de erros](sistema-de-erros.md)
+- [Auditoria educacional — CBAE](auditoria-protocolo-aph.md)
 - [Fontes oficiais](../SOURCES.md)
 - [Notice](../NOTICE.md)
 - [Publicação no GitHub](publicacao-github.md)
@@ -44,6 +46,7 @@ organização de conhecimento.
 
 ## Comece por aqui
 
+- [**Guia de estudo eficiente**](guia-de-estudo-eficiente.md)
 - [Como usar](como-usar.md)
 - [Metodologia](metodologia.md)
 - [Arquitetura](arquitetura.md)

@@ -6,13 +6,30 @@ Projeto ativo, documentado e em padrão de publicação pública.
 
 ## Snapshot atual
 
-- Data: `2026-04-24`
+- Data: `2026-04-27`
 - Branch: `main`
-- Commit de referência da última auditoria documental: `a49109c`
+- Último commit de conteúdo: `35954e6` — auditoria CBAE (nomenclatura oficial)
+- Commit de referência documental anterior: `a49109c`
+- Release atual: `v1.0.0`
+- Próxima versão preparada: `v1.0.1` (tag pendente de confirmação)
 - Vault estruturado e preservado como núcleo do sistema
-- Auditoria documental: `links Markdown externos verificados, sem quebras detectadas`
-- Total de arquivos Markdown: `147`
-- Total aproximado de flashcards: `567` ocorrências de `::` no vault
+
+## Auditoria educacional concluída (2026-04-27)
+
+- Fonte primária auditada: `MANUAL_CBAE.pdf` (pdftotext, Lição IV, pp. 97-120)
+- Resultado: Manual CBAE não usa ABCDE/XABCDE — usa "Avaliação Geral da Vítima"
+- Sequência oficial corrigida em todas as notas CBAE afetadas
+- Distinção trauma × clínico formalizada (manobras VA, p. 108 do manual)
+- Torniquete marcado como técnica avançada (não conduta básica, p. 118)
+- XABCDE não introduzido — sem respaldo nas fontes oficiais do projeto
+- Relatório: `docs/auditoria-protocolo-aph.md`
+- Nota estratégica: `Obsidian Vault/08 - Resumos Estratégicos/Avaliação Geral da Vítima vs ABCDE e XABCDE.md`
+
+## Novidades v1.0.1
+
+- Guia de estudo eficiente: `docs/guia-de-estudo-eficiente.md`
+- Release notes: `RELEASE_NOTES_v1.0.1.md`
+- Documentação atualizada com links para guia e auditoria
 
 ## Componentes presentes
 
@@ -23,14 +40,17 @@ Projeto ativo, documentado e em padrão de publicação pública.
 - Decks de flashcards por disciplina.
 - Índices de revisão e de erros.
 - Resumos estratégicos e templates operacionais.
+- Guia de estudo eficiente com rotinas por tempo disponível.
+- Relatório de auditoria educacional de fonte.
 
 ## Integridade
 
 - O `Obsidian Vault` foi preservado como ambiente operacional do projeto.
 - A documentação pública cobre uso, metodologia, arquitetura, fontes e aviso
   institucional.
+- Todo o conteúdo CBAE está alinhado ao Manual CBAE oficial — fonte primária.
 - Em caso de divergência entre resumos e materiais-base, prevalecem as fontes
-  oficiais.
+  oficiais (edital → apostila oficial → manual CBMSC).
 
 ## Pronto para publicação
 
@@ -40,4 +60,10 @@ O repositório está organizado para:
 - documentação navegável
 - apresentação como item de portfólio técnico
 - publicação via GitHub Pages
-- release inicial `v1.0.0`
+- release `v1.0.0` publicado, `v1.0.1` preparado (criar tag após conferência)
+
+## Observação
+
+- O arquivo `Transporte de Urgência e Emergência.md` contém modificação
+  pré-existente de formatação YAML não relacionada à auditoria. Pendente de
+  commit separado quando conveniente.

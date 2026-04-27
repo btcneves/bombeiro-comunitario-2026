@@ -75,6 +75,15 @@ Revisão de sustentação. Se o conteúdo estiver estável, o tópico pode ser t
 - 30 min de questões e registro de erros
 - 15 min de atualização do sistema
 
+## Guia completo de estudo eficiente
+
+Para rotinas por tempo disponível (30 min / 1h / 2h / 3h), checklist diário,
+orientações específicas sobre CBAE e método de máxima eficiência, consulte:
+
+[**docs/guia-de-estudo-eficiente.md**](guia-de-estudo-eficiente.md)
+
+---
+
 ## Regra operacional importante
 
 Sempre que o tempo estiver curto, priorize:

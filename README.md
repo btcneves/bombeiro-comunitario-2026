@@ -119,12 +119,14 @@ Pontos principais de navegação:
 
 Documentação detalhada:
 
+- [**Guia de estudo eficiente**](docs/guia-de-estudo-eficiente.md) — comece aqui
 - [Landing page da documentação](docs/index.md)
 - [Como usar](docs/como-usar.md)
 - [Fluxo de estudo](docs/fluxo-de-estudo.md)
 - [Arquitetura](docs/arquitetura.md)
 - [Sistema de revisão](docs/sistema-de-revisao.md)
 - [Publicação no GitHub](docs/publicacao-github.md)
+- [Auditoria educacional — CBAE](docs/auditoria-protocolo-aph.md)
 
 ## Fluxo diário recomendado
 
@@ -139,6 +141,9 @@ O ciclo diário sugerido é simples e disciplinado:
 
 Esse fluxo reduz a tendência de “consumir conteúdo” sem consolidar memória de
 longo prazo.
+
+Para rotinas por tempo disponível, método de máxima eficiência e checklist
+diário, consulte o [Guia de estudo eficiente](docs/guia-de-estudo-eficiente.md).
 
 ## Metodologia
 
