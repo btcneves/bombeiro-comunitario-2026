@@ -37,20 +37,19 @@ Configuração recomendada:
 
 ## Release
 
-Para criar a tag da primeira release pública:
+Para criar uma release pública:
 
 ```bash
 git tag -a v1.0.0 -m "First public release"
 git push origin v1.0.0
 ```
 
-Depois, crie a release no GitHub usando o conteúdo de
-`RELEASE_NOTES_v1.0.0.md` como base para a descrição.
+Depois, crie a release no GitHub usando o arquivo `RELEASE_NOTES_*.md`
+correspondente como base para a descrição.
 
-## Validação antes de publicar v1.0.1
+## Estado das versões
 
-- Conferir auditorias em `docs/auditoria-*.md`.
-- Conferir simulados em `Obsidian Vault/06 - Questões/`.
-- Rodar `git status --short`.
-- Rodar `git diff --stat`.
-- Não criar tag `v1.0.1` sem confirmação explícita.
+- `v1.0.0`: primeira release pública.
+- `v1.0.1`: auditorias, guia de estudo e simulados estilo Instituto Fucap.
+- Próxima consolidação planejada: `v1.1.0`, com diagramas, Anki documentado,
+  simulados avançados, Pages consolidado e roadmap atualizado.

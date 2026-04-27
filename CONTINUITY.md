@@ -3,62 +3,60 @@
 ## Estado atual
 
 - Data: 2026-04-27.
-- Branch esperada: `main`.
-- Vault preservado.
-- PDFs oficiais não foram alterados.
-- Simulados e auditorias foram criados.
-- Tag `v1.0.1` não deve ser criada sem confirmação do usuário.
+- Branch: `main`.
+- HEAD confirmado: `43ba149`.
+- `main` sincronizada com `origin/main` no momento do diagnóstico.
+- `git status --short`: limpo.
+- Tags locais existentes: `v1.0.0`, `v1.0.1`.
+- Vault Obsidian preservado.
+- PDFs oficiais preservados.
+- Vault validado com 125 arquivos Markdown e 0 wikilinks quebrados.
+- Release GitHub `v1.0.1`: não confirmada localmente por falha de conexão com `api.github.com`.
 
-## Fontes consultadas
+## Sem pendência local crítica
 
-- `Edital/EDITAL DE CONCURSO PUBLICO.pdf`
-- `CONTEÚDO PROGRAMÁTICO/CONHECIMENTOS GERAIS/Língua Portuguesa.pdf`
-- `CONTEÚDO PROGRAMÁTICO/CONHECIMENTOS ESPECÍFICOS/MANUAL_CBAE.pdf`
-- `CONTEÚDO PROGRAMÁTICO/CONHECIMENTOS ESPECÍFICOS/MANUAL_CIE.pdf`
-- `CONTEÚDO PROGRAMÁTICO/CONHECIMENTOS ESPECÍFICOS/IG 10-03-BM.pdf`
-- `README.md`, `SOURCES.md`, `NOTICE.md`, `docs/`
-- `Obsidian Vault/`
+A versão `v1.0.1` já existe no Git. Não há pendência local crítica para essa
+versão. A próxima missão é fechar o roadmap atual e preparar a versão `v1.1.0`
+como consolidação madura do projeto.
 
-## Arquivos alterados ou criados
+## Próximos blocos de trabalho
 
-- Auditorias em `docs/auditoria-*.md`.
-- Metodologia de simulados em `docs/simulados-fucap.md`.
-- Simulados, gabaritos e matriz em `Obsidian Vault/06 - Questões/`.
-- Integração do sistema de erros em `docs/sistema-de-erros.md` e `_Índice de Erros.md`.
-- Atualizações públicas em `README.md`, `docs/`, `ROADMAP.md`,
-  `PORTFOLIO.md`, `PROJECT_STATUS.md`, `CHANGELOG.md` e
-  `RELEASE_NOTES_v1.0.1.md`.
+1. Diagramas e imagens:
+   - arquitetura do vault;
+   - fluxo de estudo completo;
+   - ciclo de melhoria;
+   - fidelidade ao edital;
+   - placeholder documental para screenshots reais.
 
-## Simulados criados
+2. Integração Anki:
+   - guia `docs/integracao-anki.md`;
+   - README dos decks em `Obsidian Vault/04 - Flashcards/README.md`;
+   - links em README, docs/index e docs/flashcards.
 
-- `Simulado 01 - Diagnóstico.md`: 35 questões.
-- `Simulado 02 - Conhecimentos Específicos.md`: 30 questões.
-- `Simulado 03 - Reta Final.md`: 35 questões.
-- Total: 100 questões.
+3. Simulados avançados:
+   - guia `docs/simulados-avancados.md`;
+   - `Plano de Simulados.md`;
+   - `Checklist Pós-Simulado.md`;
+   - integração com matriz de desempenho e banco de questões.
 
-## Decisões metodológicas
+4. GitHub Pages consolidado:
+   - `docs/index.md` como landing page final;
+   - `docs/_config.yml` para Jekyll;
+   - link inferido: `https://btcneves.github.io/bombeiro-comunitario-2026/`.
 
-- Edital e PDFs oficiais prevalecem.
-- Simulados usam 5 alternativas, pois o edital define esse formato.
-- CBAE usa Avaliação da Cena e Avaliação Geral da Vítima como nomenclatura oficial.
-- ABCDE só aparece como observação complementar.
-- XABCDE não é conteúdo principal.
-- Torniquete é tratado como técnica avançada no contexto do Manual CBAE.
+5. Documentação final:
+   - README final profissional;
+   - roadmap concluído;
+   - changelog `1.1.0`;
+   - release notes `RELEASE_NOTES_v1.1.0.md`;
+   - portfolio atualizado.
 
-## Riscos
-
-- Validar se todas as notas linkadas nos simulados existem no Obsidian.
-- Conferir se a alteração local pré-existente em `Transporte de Urgência e Emergência.md`
-  deve ser incluída no commit ou mantida separada.
-- GitHub Pages só deve ser considerado atualizado após push e rebuild.
-
-## Próximos comandos exatos
+## Próximo comando recomendado
 
 ```bash
 git status --short
-git diff --stat
-rg -ni "XABCDE|ABCDE|Avaliação Geral da Vítima" "Obsidian Vault" docs README.md
-rg -ni "Instituto Fucap|FUCAP|simulado|gabarito" "Obsidian Vault" docs README.md
 ```
 
-Depois, validar arquivos exigidos, fazer commits organizados e executar `git push`.
+Depois, validar arquivos obrigatórios, wikilinks do vault, registrar commits
+organizados, fazer push e publicar a marca `v1.1.0` somente após validação
+final.

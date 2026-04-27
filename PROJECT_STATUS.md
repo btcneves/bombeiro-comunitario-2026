@@ -2,40 +2,41 @@
 
 ## Status geral
 
-Projeto ativo, documentado e em padrão de publicação pública.
+Projeto ativo, documentado e em estado maduro de publicação pública.
 
 ## Snapshot atual
 
 - Data: `2026-04-27`
 - Branch: `main`
-- Último commit de conteúdo: `35954e6` — auditoria CBAE (nomenclatura oficial)
-- Commit de referência documental anterior: `a49109c`
-- Release atual: `v1.0.0`
-- Próxima versão preparada: `v1.0.1` (tag pendente de confirmação)
+- HEAD: `43ba149`
+- Remote: `origin/main` sincronizado no mesmo commit
+- Git status: limpo
+- Release atual no Git: `v1.0.1`
+- Tags locais confirmadas: `v1.0.0`, `v1.0.1`
+- Release GitHub `v1.0.1`: não confirmada localmente por falha de conexão com `api.github.com`
 - Simulados criados: `3`
 - Questões autorais criadas: `100`
-- Vault estruturado e preservado como núcleo do sistema
+- Vault Obsidian: `125` arquivos Markdown
+- Wikilinks quebrados no vault: `0`
+- PDFs e fontes oficiais preservados
 
-## Auditoria educacional concluída (2026-04-27)
+## v1.0.1 concluída no Git
+
+A versão `v1.0.1` está consolidada no histórico local e associada ao commit
+`43ba149`. Ela inclui auditorias, guia de estudo eficiente, simulados estilo
+Instituto Fucap, gabaritos comentados, matriz de desempenho e documentação
+pública atualizada.
+
+## Auditoria educacional concluída
 
 - Fonte primária auditada: `MANUAL_CBAE.pdf` (pdftotext, Lição IV, pp. 97-120)
-- Resultado: Manual CBAE não usa ABCDE/XABCDE — usa "Avaliação Geral da Vítima"
-- Sequência oficial corrigida em todas as notas CBAE afetadas
-- Distinção trauma × clínico formalizada (manobras VA, p. 108 do manual)
-- Torniquete marcado como técnica avançada (não conduta básica, p. 118)
-- XABCDE não introduzido — sem respaldo nas fontes oficiais do projeto
+- Resultado: Manual CBAE não usa ABCDE/XABCDE como eixo estrutural
+- Nomenclatura oficial adotada: "Avaliação da Cena" e "Avaliação Geral da Vítima"
+- Distinção trauma x clínico formalizada conforme p. 108 do manual
+- Torniquete marcado como técnica avançada conforme p. 118
+- XABCDE não introduzido como conteúdo principal
 - Relatório: `docs/auditoria-protocolo-aph.md`
 - Nota estratégica: `Obsidian Vault/08 - Resumos Estratégicos/Avaliação Geral da Vítima vs ABCDE e XABCDE.md`
-
-## Novidades v1.0.1
-
-- Guia de estudo eficiente: `docs/guia-de-estudo-eficiente.md`
-- Auditoria do edital: `docs/auditoria-edital.md`
-- Auditorias por disciplina: Português, Trânsito, CIE, CBAE e IG 10-03-BM
-- Simulados estilo FUCAP: `Obsidian Vault/06 - Questões/`
-- Gabaritos comentados e matriz de desempenho
-- Release notes: `RELEASE_NOTES_v1.0.1.md`
-- Documentação atualizada com links para guia e auditoria
 
 ## Componentes presentes
 
@@ -49,32 +50,21 @@ Projeto ativo, documentado e em padrão de publicação pública.
 - Gabaritos comentados e matriz de desempenho.
 - Resumos estratégicos e templates operacionais.
 - Guia de estudo eficiente com rotinas por tempo disponível.
-- Relatório de auditoria educacional de fonte.
+- Relatórios de auditoria educacional e por disciplina.
 
 ## Integridade
 
 - O `Obsidian Vault` foi preservado como ambiente operacional do projeto.
 - A documentação pública cobre uso, metodologia, arquitetura, fontes e aviso
   institucional.
-- Todo o conteúdo CBAE está alinhado ao Manual CBAE oficial — fonte primária.
+- Todo o conteúdo CBAE auditado está alinhado ao Manual CBAE oficial.
 - Simulados seguem o edital: 5 alternativas, uma correta e conteúdo dentro do
   programa.
 - Em caso de divergência entre resumos e materiais-base, prevalecem as fontes
-  oficiais (edital → apostila oficial → manual CBMSC).
+  oficiais (edital -> apostila oficial -> manual CBMSC).
 
-## Pronto para publicação
+## Consolidação v1.1.0
 
-O repositório está organizado para:
-
-- hospedagem pública no GitHub
-- documentação navegável
-- apresentação como item de portfólio técnico
-- publicação via GitHub Pages
-- release `v1.0.0` publicado, `v1.0.1` preparado (criar tag após conferência)
-- GitHub Pages: estrutura `/docs` preservada; rebuild depende do push.
-
-## Observação
-
-- O arquivo `Transporte de Urgência e Emergência.md` contém modificação
-  pré-existente de formatação YAML não relacionada à auditoria. Pendente de
-  commit separado quando conveniente.
+O roadmap atual foi consolidado em documentação e arquivos de apoio:
+diagramas, integração Anki, simulados avançados, GitHub Pages, adaptação para
+outros concursos e release notes `v1.1.0`.

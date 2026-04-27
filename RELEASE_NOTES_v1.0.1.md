@@ -117,19 +117,8 @@ IG 10-03-BM, registrando fontes, cobertura, lacunas e decisões.
 
 ## Observações técnicas
 
-- O arquivo `Transporte de Urgência e Emergência.md` tinha modificação
-  pré-existente de formatação YAML (não relacionada à auditoria) — não incluído
-  neste release.
-- Não foi criada tag `v1.0.1` automaticamente. Criar manualmente apenas após confirmação.
-- GitHub Pages aguarda rebuild automático após push.
-
----
-
-## Como criar a tag após conferência
-
-```bash
-git tag v1.0.1 -m "v1.0.1 — CBAE audit and study guide"
-git push origin v1.0.1
-```
-
-Execute apenas após revisar o resultado no GitHub Pages.
+- A tag `v1.0.1` existe no Git e aponta para a versão consolidada.
+- GitHub Pages usa a documentação em `/docs`; o rebuild depende da configuração
+  e execução do GitHub após push.
+- A release web no GitHub deve ser conferida pelo painel ou por `gh release
+  view v1.0.1` quando houver conexão com `api.github.com`.
