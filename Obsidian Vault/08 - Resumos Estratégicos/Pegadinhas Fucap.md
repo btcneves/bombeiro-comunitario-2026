@@ -22,10 +22,14 @@ tags: [pegadinhas, revisão, fucap]
 
 ## CBAE
 
-- ABCDE começa com segurança da cena e vias aéreas, não com ferimento visível.
+- O Manual CBAE usa "Avaliação Geral da Vítima" — não ABCDE — como nomenclatura oficial. Para prova, use a terminologia do manual.
+- A sequência começa pela impressão geral (trauma ou emergência médica), depois consciência, depois vias aéreas — não vias aéreas em primeiro lugar.
+- Em trauma, usar empurre mandibular — não extensão de cabeça. Em caso clínico, extensão de cabeça.
+- Torniquete não é ensinado pelo Manual CBAE como conduta básica (técnica avançada). Primeira medida: pressão direta.
 - Pulso presente não exclui choque.
 - Queimadura grave não recebe receita caseira.
 - Engasgo em lactente não usa Heimlich abdominal.
+- Ferimento visível não substitui a avaliação ordenada completa.
 
 ## IG
 

@@ -77,7 +77,7 @@ nível-domínio: 0
 🔴 Sinais vitais (valores normais)
 🔴 Hemorragia e choque (tipos e controle)
 🔴 Queimaduras (classificação e regra dos 9)
-🔴 Avaliação da vítima (ABCDE)
+🔴 Avaliação Geral da Vítima (nomenclatura Manual CBAE — ver [[Avaliação Geral da Vítima vs ABCDE e XABCDE]])
 🟡 Vias aéreas e ventilação
 🟡 Trauma cranioencefálico
 🟡 Imobilização e transporte

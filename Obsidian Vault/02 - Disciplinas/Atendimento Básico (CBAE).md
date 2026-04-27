@@ -28,11 +28,11 @@ SORT incidência DESC, status ASC
 
 - [[CBAE - Índice Geral]] — sumário completo extraído do manual
 - [[CBAE - Sistema de Atendimento Pré-Hospitalar]] — hierarquia, acionamento, triagem
-- [[CBAE - Avaliação da Cena e Segurança]] — EPI, biossegurança, avaliação primária/secundária
+- [[CBAE - Avaliação da Cena e Segurança]] — EPI, biossegurança, Avaliação da Cena, Avaliação Geral da Vítima
 - [[CBAE - Sinais Vitais]] — FC, FR, PA, temperatura, SpO2, nível de consciência
 - [[CBAE - Vias Aéreas e Ventilação]] — abertura de vias, manobras, dispositivos
 - [[CBAE - RCP - Ressuscitação Cardiopulmonar]] — protocolo BLS adulto/criança/bebê, DEA
-- [[CBAE - Hemorragia e Estado de Choque]] — tipos, controle, torniquete, classificação choque
+- [[CBAE - Hemorragia e Estado de Choque]] — tipos, controle (pressão direta/curativo compressivo), classificação do choque
 - [[CBAE - Trauma Musculoesquelético]] — fraturas, luxações, entorses, imobilização
 - [[CBAE - Trauma Cranioencefálico]] — TCE, coluna cervical, sinais de alarme
 - [[CBAE - Queimaduras]] — classificação (1º/2º/3º grau), regra dos 9, tratamento inicial

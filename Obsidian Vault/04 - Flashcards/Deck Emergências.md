@@ -3,6 +3,7 @@ tipo: deck
 disciplina: CBAE
 tags: [flashcards, emergências, CBAE, primeiros-socorros]
 criado: 2026-04-24
+última-revisão: 2026-04-27
 ---
 
 # 🃏 Deck Emergências — Manual CBAE
@@ -24,17 +25,42 @@ Números de emergência no Brasil?
 
 ---
 
-## Avaliação Inicial — ABCDE
+## Avaliação Geral da Vítima — Manual CBAE
 
-Protocolo ABCDE de avaliação da vítima?
+> **Fonte:** Manual CBAE, Lição IV, pp. 97-98. O manual **não usa a sigla ABCDE**.
+
+Quais são as duas etapas da avaliação da vítima segundo o Manual CBAE?
 ?
-- **A** — Airway (vias aéreas) — abrir, aspirar, imobilizar coluna
-- **B** — Breathing (respiração) — verificar, ventilar
-- **C** — Circulation (circulação) — pulso, hemorragias, RCP
-- **D** — Disability (déficit neurológico) — AVDI, pupilas
-- **E** — Exposure (exposição) — expor para avaliar lesões, hipertermia
+1. **Avaliação da Cena** — segurança pessoal, da vítima e de terceiros; mecanismo de trauma ou natureza da doença; número de vítimas; recursos adicionais.
+2. **Avaliação Geral da Vítima** — processo ordenado: impressão geral → nível de consciência → vias aéreas + coluna cervical → respiração → hemorragias graves.
+
+Sequência da Avaliação Geral da Vítima (Manual CBAE, p. 98)?
+?
+1. **Impressão geral** — trauma (fator externo) ou emergência médica/intercorrência clínica (fator intrínseco).
+2. **Nível de consciência** — consciente ou não.
+3. **Vias aéreas** + **coluna cervical** — permeabilidade + deformidade.
+4. **Respiração** — movimentos do tórax/abdômen.
+5. **Hemorragias graves** — aquelas que comprometam a vida.
+
+O Manual CBAE usa a sigla ABCDE?::Não. Usa "Avaliação da Cena" e "Avaliação Geral da Vítima" com sequência própria. ABCDE é mnemônico de outras fontes de APH.
+
+O que é "intercorrência clínica" segundo o Manual CBAE?::Também chamada de emergência médica. Causada por fator intrínseco (disfunção do organismo), sem agente externo. Exemplos: diabetes, tumores, doenças cardíacas.
+
+Diferença entre trauma e intercorrência clínica (Manual CBAE)?::Trauma = lesão por fator externo (acidente, colisão, queda). Intercorrência clínica = doença por fator intrínseco.
 
 Escala AVDI de consciência?::A = Alerta · V = responde à Voz · D = responde à Dor · I = Inconsciente.
+
+---
+
+## Manobras de Vias Aéreas — Distinção Trauma × Clínico
+
+> **Fonte:** Manual CBAE, p. 108, quadro literal.
+
+Qual manobra de abertura de vias aéreas usar em caso clínico (sem trauma)?::Manobra de extensão de cabeça (inclinação da cabeça + elevação do queixo).
+
+Qual manobra de abertura de vias aéreas usar em trauma?::Manobra de empurre mandibular (sem mover a cabeça). Assumir lesão cervical em todo trauma.
+
+Em todo trauma, o que se deve assumir sobre a coluna cervical?::Assumir lesão cervical — não inclinar a cabeça. Usar empurre mandibular.
 
 ---
 
@@ -70,7 +96,9 @@ Quando parar a RCP?::Chegada do DEA/SAMU · Retorno da circulação espontânea 
 
 3 tipos de hemorragia por vaso?::1) Arterial (sangue vermelho vivo, pulsátil — mais grave). 2) Venosa (sangue escuro, fluxo contínuo). 3) Capilar (sangue em "orvalho" — menos grave).
 
-Controle de hemorragia externa: qual é a conduta?::1) Pressão direta (luvas!) por 10 min. 2) Curativo compressivo. 3) Garrote (torniquete) como último recurso — em membros, anotar horário de aplicação.
+Qual é a primeira medida de controle de hemorragia externa (Manual CBAE)?::Pressão direta sobre o ferimento (com luvas), por tempo suficiente.
+
+O Manual CBAE ensina torniquete como conduta básica?::Não. O manual afirma literalmente que torniquete é técnica avançada e não o aborda no conteúdo do CBAE básico. A conduta básica é pressão direta e curativo compressivo.
 
 ---
 
@@ -129,9 +157,9 @@ Qual pergunta inicial organiza a resposta em uma emergência?::O que aconteceu, 
 
 ## Cena e Segurança
 
-O ABCDE começa pelo ferimento visível?::Não. Começa por vias aéreas e prioridades vitais.
+A avaliação da vítima começa pelo ferimento visível?::Não. Começa pela impressão geral (trauma ou emergência médica) e depois segue a sequência ordenada.
 
-Na letra E do ABCDE, o que deve ser evitado junto com a exposição da vítima?::Hipotermia.
+Na Avaliação Geral da Vítima (Manual CBAE), o que vem antes: vias aéreas ou nível de consciência?::Nível de consciência vem antes das vias aéreas.
 
 Luvas eliminam todos os riscos da cena?::Não.
 
@@ -139,7 +167,7 @@ Luvas eliminam todos os riscos da cena?::Não.
 
 ## Via Aérea
 
-Qual manobra é preferível em suspeita de trauma cervical?::Elevação da mandíbula com proteção cervical.
+Qual manobra é preferível em suspeita de trauma cervical?::Empurre mandibular com proteção cervical.
 
 Heimlich é usado em lactente?::Não.
 
@@ -153,7 +181,7 @@ Respiração agônica deve ser tratada como respiração adequada?::Não.
 
 Hemorragia arterial tem qual aspecto típico?::Jato pulsátil com sangue vermelho vivo.
 
-Qual é a primeira medida no sangramento externo?::Pressão direta.
+Qual é a primeira medida no sangramento externo (Manual CBAE)?::Pressão direta.
 
 Sede intensa, pele fria e confusão sugerem o quê?::Choque.
 

@@ -22,7 +22,7 @@ Intoxicação ocorre por contato com substância nociva por ingestão, inalaçã
 - Vias de exposição: oral, inalatória, cutânea e inoculação.
 - Guardar embalagem ou informação do agente ajuda a condução.
 - Não induzir vômito sem indicação especializada.
-- Prioridade continua sendo ABCDE.
+- A sequência de avaliação do Manual CBAE se aplica: impressão geral → consciência → vias aéreas → respiração → verificar complicações. (Em outras fontes de APH, esse conjunto corresponde ao ABCDE — para este concurso, prevalece a terminologia do manual.)
 
 ## 🎯 Pegadinhas
 - Leite não é antídoto universal.
@@ -44,4 +44,4 @@ Deve-se induzir vômito de rotina?::Não.
 Leite é conduta universal em intoxicação?::Não.
 O que pode ajudar muito o atendimento?::Levar a embalagem ou identificar a substância.
 Em intoxicação por gás, qual cuidado vem antes do contato?::Segurança da cena.
-Qual é a prioridade mesmo em intoxicação?::ABCDE.
+Qual é a prioridade mesmo em intoxicação?::Seguir a Avaliação Geral da Vítima do Manual CBAE: impressão geral → consciência → vias aéreas → respiração → complicações específicas.

@@ -83,7 +83,9 @@ Aquaplaning acontece em qual situação?::Formação de uma película d'água en
 
 ## Primeiros Socorros no Trânsito
 
-Protocolo ABCDE no atendimento à vítima?::A = Vias Aéreas (airway) · B = Respiração (breathing) · C = Circulação · D = Déficit neurológico · E = Exposição.
+Avaliação da vítima em acidente de trânsito — sequência do Manual CBAE?::1) Impressão geral (trauma). 2) Nível de consciência. 3) Vias aéreas + coluna cervical (empurre mandibular em todo trauma). 4) Respiração. 5) Hemorragias graves.
+
+> Observação: Em outras fontes de APH, essa sequência é referenciada pela sigla ABCDE (Airway, Breathing, Circulation, Disability, Exposure). Para este concurso, prevalece a terminologia do Manual CBAE acima.
 
 Omissão de socorro no trânsito é previsto no CTB?::Sim, art. 304 — crime de omissão de socorro no trânsito. Pena: detenção + suspensão da CNH.
 

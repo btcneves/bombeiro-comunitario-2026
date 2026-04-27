@@ -6,8 +6,8 @@ incidência: 🔴
 status: não-iniciado
 tags: [CBAE, primeiros-socorros, APH, RCP]
 criado: 2026-04-24
-última-revisão: 
-próxima-revisão: 2026-04-25
+última-revisão: 2026-04-27
+próxima-revisão: 2026-04-28
 ciclo-revisão: 0
 dificuldade: 4
 nível-domínio: 0
@@ -19,20 +19,36 @@ nível-domínio: 0
 
 ## ⚡ Resumo Brutal
 
-### Avaliação da Vítima — ABCDE
-- **A** — Airway (vias aéreas) + imobilizar coluna cervical
-- **B** — Breathing (respiração) — checar se respira
-- **C** — Circulation (circulação + controle de hemorragia)
-- **D** — Disability (nível de consciência — AVDI ou Glasgow)
-- **E** — Exposure (exposição do corpo + hipotermia)
+### Avaliação da Vítima — Manual CBAE (pp. 97-98)
 
-### Avaliação da Consciência (AVDI)
-- **A**lerta: espontaneamente acordado
-- **V**oz: responde ao chamado verbal
-- **D**or: responde à dor (apertar esterno)
-- **I**nsensível: sem resposta
+> **Importante:** O Manual CBAE não usa a sigla ABCDE. A terminologia oficial é "Avaliação da Cena" + "Avaliação Geral da Vítima".
+
+**Etapa 1 — Avaliação da Cena:** segurança pessoal, da vítima e de terceiros; mecanismo de trauma ou natureza da doença; número de vítimas; recursos adicionais.
+
+**Etapa 2 — Avaliação Geral da Vítima (sequência literal, p. 98):**
+1. Impressão geral → **trauma** (lesão, fator externo) ou **emergência médica / intercorrência clínica** (doença, fator intrínseco)
+2. Nível de consciência (consciente ou não)
+3. Permeabilidade das vias aéreas + coluna cervical
+4. Respiração (movimentos do tórax/abdômen)
+5. Hemorragias graves (risco de vida)
+
+**Distinção vias aéreas — trauma × clínico (p. 108):**
+- Caso clínico → **extensão de cabeça** (inclinação + elevação do queixo)
+- Trauma → **empurre mandibular** (assumir lesão cervical em todo trauma)
+
+> **Observação complementar:** Em outras fontes de APH, o mnemônico ABCDE (Airway, Breathing, Circulation, Disability, Exposure) equivale aproximadamente a essa sequência. Para este concurso, prevalecem os termos acima do Manual CBAE.
+
+### Avaliação da Consciência — AVDI
+
+| Letra | Significado |
+|---|---|
+| **A** | Alerta — espontaneamente acordado |
+| **V** | Voz — responde ao chamado verbal |
+| **D** | Dor — responde à dor (apertar esterno) |
+| **I** | Insensível — sem resposta |
 
 ### Sinais Vitais — Valores normais no adulto
+
 | Sinal | Valor Normal |
 |-------|-------------|
 | Frequência Cardíaca (FC) | 60-100 bpm |
@@ -55,11 +71,14 @@ nível-domínio: 0
 7. DEA: ligar → colocar eletrodos → seguir instruções → analisar ritmo → chocar se indicado
 
 ### Hemorragia
-| Tipo | Característica | Controle |
+
+| Tipo | Característica | Controle (Manual CBAE) |
 |------|--------------|---------|
-| **Arterial** | Jato pulsátil, vermelho vivo | Pressão direta + torniquete |
+| **Arterial** | Jato pulsátil, vermelho vivo | Pressão direta + curativo compressivo |
 | **Venosa** | Fluxo contínuo, vermelho escuro | Pressão direta |
 | **Capilar** | Sangramento lento, superficial | Pressão direta |
+
+> **Nota de fonte (p. 118):** O Manual CBAE não aborda torniquete — afirma ser "técnica avançada, devendo ser realizada após a orientação de um socorrista treinado". A conduta básica ensinada é pressão direta e curativo compressivo.
 
 **Estado de choque** (hipoperfusão):
 - Sinais: pele pálida, fria e úmida; FC > 100; FR > 20; confusão mental; PA baixa
@@ -88,8 +107,8 @@ nível-domínio: 0
 - NUNCA: colocar gelo, manteiga, pasta dental na queimadura
 
 ### Vias Aéreas
-- Manobra de abertura: inclinação da cabeça + elevação do queixo (exceto trauma cervical)
-- Trauma cervical: manobra de tração da mandíbula sem inclinação da cabeça
+- Caso clínico (sem suspeita de trauma cervical): **extensão da cabeça** (inclinação + elevação do queixo)
+- Trauma com suspeita cervical: **empurre mandibular** (sem inclinação da cabeça)
 - Posição lateral de segurança (PLS): inconsciente, respira, sem trauma de coluna
 
 ## 🎯 Pegadinhas
@@ -98,9 +117,12 @@ nível-domínio: 0
 - DEA: assim que disponível, USAR — não esperar término da RCP
 - Queimadura de 3º grau = **indolor** (nervos destruídos) — não significa que não é grave
 - Choque hipovolêmico: MMII elevados (exceto trauma, TCE, insuficiência cardíaca)
+- **O manual usa "Avaliação Geral da Vítima"** — não ABCDE — como nomenclatura oficial
+- **Em trauma, a manobra de vias aéreas é o empurre mandibular**, não extensão de cabeça
+- **Torniquete não é conduta básica ensinada pelo Manual CBAE** — técnica avançada
 
 ## 🔗 Conexões
-[[Primeiros Socorros no Trânsito]] · [[CBAE - Lição II - Atuação Inicial em Acidentes]] · [[CIE - Fundamentos do Fogo]]
+[[Primeiros Socorros no Trânsito]] · [[CBAE - Lição II - Atuação Inicial em Acidentes]] · [[CBAE - Avaliação da Cena e Segurança]] · [[Avaliação Geral da Vítima vs ABCDE e XABCDE]]
 
 ---
 
@@ -118,3 +140,7 @@ Como calcular a extensão de uma queimadura pela regra dos 9?::Divide o corpo em
 O que fazer ao encontrar um adulto inconsciente que não respira?::Chamar socorro (192/193), iniciar RCP imediatamente (30 compressões + 2 ventilações), usar DEA assim que disponível.
 
 Sinais de estado de choque (hipoperfusão)?::Pele pálida, fria e úmida; FC acima de 100; FR acima de 20; confusão mental; pressão arterial baixa.
+
+O Manual CBAE usa a sigla ABCDE para avaliação da vítima?::Não. Usa "Avaliação Geral da Vítima" com sequência própria (impressão geral → consciência → vias aéreas + cervical → respiração → hemorragias graves).
+
+Qual manobra de abertura de vias aéreas é correta em trauma com suspeita cervical?::Empurre mandibular (sem inclinação da cabeça). Assumir lesão cervical em todo trauma.
