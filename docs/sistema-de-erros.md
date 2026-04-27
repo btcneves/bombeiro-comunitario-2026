@@ -54,6 +54,28 @@ Erros recorrentes têm prioridade acima de curiosidades novas. Se um tema aparec
 - Link para nota relacionada
 - Ação de revisão
 
+## Como registrar erros de simulado
+
+Use este modelo sempre que errar questão nos simulados do vault:
+
+```text
+Data:
+Simulado:
+Questão:
+Disciplina:
+Tema:
+Erro cometido:
+Motivo:
+Fonte correta:
+Nota relacionada:
+Ação de revisão:
+Próxima revisão:
+```
+
+Depois do registro, abra a nota indicada no gabarito comentado, responda os
+flashcards do tema e atualize a matriz de desempenho. Erro de simulado só
+conta como tratado quando gera uma ação concreta de revisão.
+
 ## Exemplo de preenchimento
 
 ```text
