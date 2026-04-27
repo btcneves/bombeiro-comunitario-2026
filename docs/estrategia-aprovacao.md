@@ -66,6 +66,10 @@ Simulado só é útil quando produz diagnóstico. Após cada simulado:
 - classifique a causa
 - relacione o erro à nota atômica
 - gere reforço por flashcard ou revisão extra
+- atualize a matriz de desempenho em `Obsidian Vault/06 - Questões/Matriz de Desempenho.md`
+
+Os simulados do vault seguem o formato do edital: 5 alternativas e uma única
+correta. Os simulados gerais usam 35 questões; o simulado específico usa 30.
 
 ## Resultado esperado
 

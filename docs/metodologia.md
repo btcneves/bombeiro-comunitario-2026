@@ -101,6 +101,17 @@ O fluxo esperado é:
 Esse processo muda o papel da falha. Em vez de ser só frustração, ela passa a
 indicar exatamente onde o sistema precisa reforço.
 
+## Fidelidade às fontes
+
+A hierarquia de fontes do projeto é: edital, PDFs oficiais do projeto, manuais
+CBMSC relacionados ao conteúdo programático, legislação/normas oficiais e,
+somente como complemento, doutrina externa. Quando houver divergência, a
+resposta principal deve seguir o edital e o PDF oficial.
+
+Os simulados e flashcards devem cobrar a fonte oficial. Observações
+complementares podem ajudar no estudo, mas não substituem a resposta esperada
+para prova.
+
 ## Resultado metodológico
 
 O conjunto de notas atômicas, links internos, revisão espaçada, flashcards e

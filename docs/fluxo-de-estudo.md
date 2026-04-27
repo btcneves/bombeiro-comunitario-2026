@@ -26,6 +26,9 @@ clara.
 
 Resolva questões para validar entendimento sob cobrança prática. Questão é diagnóstico, não só treino.
 
+Use os simulados em `Obsidian Vault/06 - Questões/` para medir desempenho no
+formato do edital e transformar erros em revisão rastreável.
+
 ### 5. Registro de erros
 
 Erros relevantes devem ser registrados no mesmo dia. Isso evita perda de contexto e facilita revisão dirigida.

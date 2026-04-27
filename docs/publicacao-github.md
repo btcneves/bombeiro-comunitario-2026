@@ -5,7 +5,7 @@
 Description:
 
 Sistema de estudo com Obsidian para Bombeiro Comunitário 2026, com notas
-atômicas, flashcards, revisão espaçada e dashboard.
+atômicas, flashcards, simulados, revisão espaçada e dashboard.
 
 Topics:
 
@@ -19,6 +19,8 @@ Topics:
 - `second-brain`
 - `zettelkasten`
 - `cbmsc`
+- `simulados`
+- `fucap`
 
 ## GitHub Pages
 
@@ -44,3 +46,11 @@ git push origin v1.0.0
 
 Depois, crie a release no GitHub usando o conteúdo de
 `RELEASE_NOTES_v1.0.0.md` como base para a descrição.
+
+## Validação antes de publicar v1.0.1
+
+- Conferir auditorias em `docs/auditoria-*.md`.
+- Conferir simulados em `Obsidian Vault/06 - Questões/`.
+- Rodar `git status --short`.
+- Rodar `git diff --stat`.
+- Não criar tag `v1.0.1` sem confirmação explícita.

@@ -19,6 +19,10 @@ controle de erros em uma arquitetura única. Em vez de depender de PDFs,
 resumos e marcações soltas, o estudante opera um fluxo rastreável dentro de um
 vault Obsidian versionado no GitHub.
 
+A versão atual adiciona simulados autorais no formato do edital, gabaritos
+comentados e matriz de desempenho por disciplina, preservando rastreabilidade
+entre questão, fonte oficial, nota atômica e revisão.
+
 ## Tecnologias usadas
 
 - Obsidian
@@ -44,6 +48,7 @@ vault Obsidian versionado no GitHub.
 - notas atômicas para granularidade cognitiva e reutilização
 - flashcards no próprio ambiente de estudo para reduzir fricção operacional
 - sistema de erros como mecanismo de realimentação
+- simulados como camada de aferição prática e diagnóstico
 - documentação externa ao vault para transformar o sistema em produto técnico
   apresentável
 
@@ -60,6 +65,7 @@ vault Obsidian versionado no GitHub.
 - redução de estudo passivo
 - melhor retenção por revisão espaçada
 - correção sistemática de erros recorrentes
+- medição objetiva de evolução por disciplina
 - transformação de um vault pessoal em ativo técnico publicável
 
 ## Habilidades demonstradas

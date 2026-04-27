@@ -6,13 +6,13 @@
 - documentar metodologia, arquitetura e operação
 - preparar o repositório para publicação no GitHub
 
-## v1.0.1 — Publicação e acabamento GitHub
+## v1.0.1 — Auditoria e simulados
 
-- adicionar metadados do GitHub
-- ativar GitHub Pages
-- adicionar imagens reais do Obsidian
-- revisar fontes oficiais
-- publicar release inicial
+- auditar edital e disciplinas contra fontes oficiais
+- criar simulados estilo provável da banca Instituto Fucap
+- adicionar gabaritos comentados e matriz de desempenho
+- aprimorar guia de estudo eficiente
+- preparar release sem criar tag automaticamente
 
 ## v1.1 — Diagramas e imagens
 
@@ -26,11 +26,11 @@
 - definir interoperabilidade com revisão externa
 - documentar limites e fluxo de sincronização
 
-## v1.3 — Simulados
+## v1.3 — Simulados avançados
 
-- estruturar banco de simulados
-- padronizar correção e extração de erros
-- definir indicadores de evolução por disciplina
+- automatizar relatórios de desempenho
+- ampliar banco de questões por tema
+- criar rotinas de auditoria automática de links e fontes
 
 ## v1.4 — GitHub Pages
 

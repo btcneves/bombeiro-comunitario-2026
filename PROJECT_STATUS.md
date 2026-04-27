@@ -12,6 +12,8 @@ Projeto ativo, documentado e em padrão de publicação pública.
 - Commit de referência documental anterior: `a49109c`
 - Release atual: `v1.0.0`
 - Próxima versão preparada: `v1.0.1` (tag pendente de confirmação)
+- Simulados criados: `3`
+- Questões autorais criadas: `100`
 - Vault estruturado e preservado como núcleo do sistema
 
 ## Auditoria educacional concluída (2026-04-27)
@@ -28,6 +30,10 @@ Projeto ativo, documentado e em padrão de publicação pública.
 ## Novidades v1.0.1
 
 - Guia de estudo eficiente: `docs/guia-de-estudo-eficiente.md`
+- Auditoria do edital: `docs/auditoria-edital.md`
+- Auditorias por disciplina: Português, Trânsito, CIE, CBAE e IG 10-03-BM
+- Simulados estilo FUCAP: `Obsidian Vault/06 - Questões/`
+- Gabaritos comentados e matriz de desempenho
 - Release notes: `RELEASE_NOTES_v1.0.1.md`
 - Documentação atualizada com links para guia e auditoria
 
@@ -39,6 +45,8 @@ Projeto ativo, documentado e em padrão de publicação pública.
 - Tópicos atômicos com frontmatter padronizado.
 - Decks de flashcards por disciplina.
 - Índices de revisão e de erros.
+- Banco de questões com 3 simulados e 100 questões.
+- Gabaritos comentados e matriz de desempenho.
 - Resumos estratégicos e templates operacionais.
 - Guia de estudo eficiente com rotinas por tempo disponível.
 - Relatório de auditoria educacional de fonte.
@@ -49,6 +57,8 @@ Projeto ativo, documentado e em padrão de publicação pública.
 - A documentação pública cobre uso, metodologia, arquitetura, fontes e aviso
   institucional.
 - Todo o conteúdo CBAE está alinhado ao Manual CBAE oficial — fonte primária.
+- Simulados seguem o edital: 5 alternativas, uma correta e conteúdo dentro do
+  programa.
 - Em caso de divergência entre resumos e materiais-base, prevalecem as fontes
   oficiais (edital → apostila oficial → manual CBMSC).
 
@@ -61,6 +71,7 @@ O repositório está organizado para:
 - apresentação como item de portfólio técnico
 - publicação via GitHub Pages
 - release `v1.0.0` publicado, `v1.0.1` preparado (criar tag após conferência)
+- GitHub Pages: estrutura `/docs` preservada; rebuild depende do push.
 
 ## Observação
 

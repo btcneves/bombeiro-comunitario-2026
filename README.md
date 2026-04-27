@@ -43,6 +43,8 @@ Obsidian com estrutura orientada a execução:
 - Dashboard com consultas Dataview para prioridades e pendências.
 - Revisão espaçada com ciclos `D+1`, `D+7` e `D+30`.
 - Sistema de erros para revisão direcionada.
+- Simulados estilo provável da banca Instituto Fucap com gabaritos comentados.
+- Matriz de desempenho para acompanhar evolução por disciplina.
 - Cronograma e atalhos operacionais dentro do vault.
 - Resumos estratégicos para reta final.
 - Estrutura adaptável para outros concursos.
@@ -59,6 +61,7 @@ Pontos principais de navegação:
 - dashboard: [`Obsidian Vault/00 - Dashboard/🎯 Dashboard.md`](<Obsidian Vault/00 - Dashboard/🎯 Dashboard.md>)
 - flashcards: [`Obsidian Vault/04 - Flashcards/`](<Obsidian Vault/04 - Flashcards>)
 - revisões: [`Obsidian Vault/05 - Revisões/`](<Obsidian Vault/05 - Revisões>)
+- questões e simulados: [`Obsidian Vault/06 - Questões/`](<Obsidian Vault/06 - Questões>)
 - erros: [`Obsidian Vault/09 - Erros e Aprendizados/`](<Obsidian Vault/09 - Erros e Aprendizados>)
 - edital: [`Edital/`](Edital) e
   [`Obsidian Vault/01 - Edital/`](<Obsidian Vault/01 - Edital>)
@@ -113,8 +116,9 @@ Pontos principais de navegação:
 6. Use `05 - Revisões` para limpar revisões vencidas e atrasadas.
 7. Estude novos tópicos em `03 - Tópicos Atômicos`.
 8. Responda os decks em `04 - Flashcards`.
-9. Registre falhas em `09 - Erros e Aprendizados`.
-10. Consulte `01 - Edital`, `Edital/` e `CONTEÚDO PROGRAMÁTICO/` para
+9. Resolva questões e simulados em `06 - Questões`.
+10. Registre falhas em `09 - Erros e Aprendizados`.
+11. Consulte `01 - Edital`, `Edital/` e `CONTEÚDO PROGRAMÁTICO/` para
     rastrear a fonte e a cobertura do conteúdo.
 
 Documentação detalhada:
@@ -125,6 +129,8 @@ Documentação detalhada:
 - [Fluxo de estudo](docs/fluxo-de-estudo.md)
 - [Arquitetura](docs/arquitetura.md)
 - [Sistema de revisão](docs/sistema-de-revisao.md)
+- [Simulados estilo Instituto Fucap](docs/simulados-fucap.md)
+- [Auditoria do edital](docs/auditoria-edital.md)
 - [Publicação no GitHub](docs/publicacao-github.md)
 - [Auditoria educacional — CBAE](docs/auditoria-protocolo-aph.md)
 
@@ -145,6 +151,22 @@ longo prazo.
 Para rotinas por tempo disponível, método de máxima eficiência e checklist
 diário, consulte o [Guia de estudo eficiente](docs/guia-de-estudo-eficiente.md).
 
+## Simulados e questões
+
+O vault inclui simulados autorais baseados no edital, no estilo provável da
+banca Instituto Fucap, com 5 alternativas e uma única correta. Os gabaritos são
+comentados e ligados às notas de revisão.
+
+- [Banco de questões](<Obsidian Vault/06 - Questões/_Banco de Questões.md>)
+- [Simulado 01 - Diagnóstico](<Obsidian Vault/06 - Questões/Simulado 01 - Diagnóstico.md>)
+- [Simulado 02 - Conhecimentos Específicos](<Obsidian Vault/06 - Questões/Simulado 02 - Conhecimentos Específicos.md>)
+- [Simulado 03 - Reta Final](<Obsidian Vault/06 - Questões/Simulado 03 - Reta Final.md>)
+- [Gabaritos comentados](<Obsidian Vault/06 - Questões/Gabaritos Comentados.md>)
+- [Matriz de desempenho](<Obsidian Vault/06 - Questões/Matriz de Desempenho.md>)
+
+As questões não substituem a leitura das fontes oficiais. Elas servem para
+medir desempenho, revelar lacunas e alimentar o sistema de erros.
+
 ## Metodologia
 
 O sistema foi desenhado sobre cinco pilares:
@@ -161,6 +183,8 @@ Leitura aprofundada:
 - [Estratégia de aprovação](docs/estrategia-aprovacao.md)
 - [Flashcards](docs/flashcards.md)
 - [Sistema de erros](docs/sistema-de-erros.md)
+- [Simulados estilo Instituto Fucap](docs/simulados-fucap.md)
+- [Auditoria do edital](docs/auditoria-edital.md)
 
 ## Fontes oficiais
 
@@ -181,6 +205,8 @@ Consulte também:
 - [NOTICE.md](NOTICE.md)
 - [docs/index.md](docs/index.md)
 - [docs/publicacao-github.md](docs/publicacao-github.md)
+- [docs/simulados-fucap.md](docs/simulados-fucap.md)
+- [docs/auditoria-edital.md](docs/auditoria-edital.md)
 
 Em caso de divergência, prevalecem sempre as fontes oficiais.
 
@@ -198,7 +224,7 @@ Em caso de divergência, prevalecem sempre as fontes oficiais.
 ## Roadmap
 
 - `v1.0`: vault consolidado e documentação profissional do repositório.
-- `v1.0.1`: publicação e acabamento GitHub.
+- `v1.0.1`: auditorias, guia de estudo e simulados estilo FUCAP.
 - `v1.1`: inclusão de imagens, fluxos visuais e diagramas operacionais.
 - `v1.2`: integração com Anki e exportação de flashcards.
 - `v1.3`: simulados automatizados e rotinas de auditoria.
@@ -225,8 +251,7 @@ Guia completo em [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Description:
 
-`Sistema de estudo com Obsidian para Bombeiro Comunitário 2026, com notas
-atômicas, flashcards, revisão espaçada e dashboard.`
+`Sistema profissional de estudo com Obsidian para Bombeiro Comunitário 2026, fiel ao edital, com notas atômicas, flashcards, simulados e revisão espaçada.`
 
 Topics sugeridos:
 
@@ -240,6 +265,8 @@ Topics sugeridos:
 - `second-brain`
 - `zettelkasten`
 - `cbmsc`
+- `simulados`
+- `fucap`
 
 ## Aviso
 

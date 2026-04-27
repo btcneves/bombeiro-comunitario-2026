@@ -15,6 +15,13 @@ erros.
 - [Sistema de revisão](sistema-de-revisao.md)
 - [Flashcards](flashcards.md)
 - [Sistema de erros](sistema-de-erros.md)
+- [Simulados estilo Instituto Fucap](simulados-fucap.md)
+- [Auditoria do edital](auditoria-edital.md)
+- [Auditoria Português](auditoria-portugues.md)
+- [Auditoria Trânsito](auditoria-transito.md)
+- [Auditoria CIE](auditoria-cie.md)
+- [Auditoria CBAE](auditoria-cbae.md)
+- [Auditoria IG 10-03-BM](auditoria-ig-10-03-bm.md)
 - [Auditoria educacional — CBAE](auditoria-protocolo-aph.md)
 - [Fontes oficiais](../SOURCES.md)
 - [Notice](../NOTICE.md)
@@ -36,6 +43,9 @@ A revisão espaçada e os flashcards mantêm o foco em retenção, não só em a
 de leitura. O sistema de erros fecha o ciclo ao transformar falhas em ação de
 revisão e reforço.
 
+Os simulados adicionam uma camada de cobrança prática no formato do edital,
+com gabaritos comentados e matriz de desempenho por disciplina.
+
 Além do uso operacional no estudo, o projeto também serve como portfólio
 técnico de documentação, arquitetura de informação, Markdown, Git/GitHub e
 organização de conhecimento.
@@ -51,3 +61,4 @@ organização de conhecimento.
 - [Metodologia](metodologia.md)
 - [Arquitetura](arquitetura.md)
 - [Sistema de revisão](sistema-de-revisao.md)
+- [Simulados estilo Instituto Fucap](simulados-fucap.md)

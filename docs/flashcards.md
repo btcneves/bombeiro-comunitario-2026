@@ -80,3 +80,9 @@ O tema é importante?::Sim.
 Se a resposta correta não puder ser lembrada em poucos segundos, o card
 provavelmente está largo demais ou mal formulado. O objetivo do card é testar
 recuperação, não reproduzir capítulo inteiro.
+
+## Relação com simulados
+
+Quando uma questão de simulado for errada por falha conceitual, crie ou revise
+um card curto sobre o ponto. O card deve cobrar a fonte oficial, não doutrina
+externa sem respaldo no edital.

@@ -6,6 +6,9 @@
 
 - Guia de estudo eficiente (`docs/guia-de-estudo-eficiente.md`) com rotina
   diária, rotinas por tempo disponível, seção CBAE e checklist.
+- Auditoria do edital e auditorias por disciplina.
+- Três simulados no estilo provável da banca Instituto Fucap.
+- Banco de questões expandido, gabaritos comentados e matriz de desempenho.
 - Relatório de auditoria educacional (`docs/auditoria-protocolo-aph.md`) sobre
   protocolo de avaliação da vítima no CBAE, com trechos literais do Manual CBAE.
 - Nota estratégica sobre Avaliação Geral da Vítima vs ABCDE/XABCDE no vault.
@@ -19,6 +22,7 @@
   mandibular (trauma) vs extensão de cabeça (caso clínico).
 - Flashcards de emergências e trânsito corrigidos com a sequência oficial.
 - Links de documentação atualizados para incluir guia de estudo eficiente.
+- Documentação de simulados integrada ao README, docs e sistema de erros.
 - PROJECT_STATUS e CHANGELOG atualizados.
 
 ### Fixed
@@ -29,6 +33,7 @@
 - Torniquete marcado como técnica avançada conforme p. 118 do Manual CBAE, não
   como conduta básica de primeiros socorros.
 - XABCDE não introduzido — ausência de respaldo nas fontes oficiais do projeto.
+- Simulados ajustados ao formato real do edital: 5 alternativas e uma correta.
 
 ---
 

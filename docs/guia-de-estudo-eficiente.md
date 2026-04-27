@@ -16,6 +16,8 @@ estudo ativa** composta por:
 - flashcards integrados para recuperação ativa
 - revisão espaçada para evitar esquecimento
 - sistema de erros para transformar falhas em reforço
+- simulados no estilo provável da banca Instituto Fucap
+- matriz de desempenho por disciplina
 - dashboard operacional para controle diário
 
 O objetivo não é acumular notas. É **reter conteúdo certo, de fonte certa, no
@@ -247,6 +249,8 @@ Copie e use diariamente, ou crie uma nota de revisão diária com este modelo:
 - [docs/metodologia.md](metodologia.md) — base metodológica do sistema
 - [docs/fluxo-de-estudo.md](fluxo-de-estudo.md) — rotina detalhada
 - [docs/sistema-de-erros.md](sistema-de-erros.md) — como usar o sistema de erros
+- [docs/simulados-fucap.md](simulados-fucap.md) — metodologia dos simulados
+- [docs/auditoria-edital.md](auditoria-edital.md) — auditoria do edital
 - [docs/flashcards.md](flashcards.md) — como usar os decks de flashcards
 - [docs/auditoria-protocolo-aph.md](auditoria-protocolo-aph.md) — auditoria CBAE
 - [SOURCES.md](../SOURCES.md) — fontes oficiais do projeto

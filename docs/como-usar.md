@@ -45,8 +45,9 @@ Após abrir o vault:
 4. abra a nota atômica correspondente
 5. revise o conteúdo
 6. responda os flashcards da área
-7. registre erros no diretório `09 - Erros e Aprendizados`
-8. atualize datas e domínio da nota revisada
+7. resolva questões ou simulados em `06 - Questões`
+8. registre erros no diretório `09 - Erros e Aprendizados`
+9. atualize datas e domínio da nota revisada
 
 ## Fluxo mínimo de trabalho
 
@@ -54,7 +55,17 @@ Após abrir o vault:
 - Use `03 - Tópicos Atômicos` como núcleo do conhecimento.
 - Use `04 - Flashcards` para recuperação ativa.
 - Use `05 - Revisões` para controlar o ciclo.
+- Use `06 - Questões` para simulados, gabaritos e matriz de desempenho.
 - Use `09 - Erros e Aprendizados` para reforço dirigido.
+
+## Como usar simulados
+
+1. Abra `Obsidian Vault/06 - Questões/_Banco de Questões.md`.
+2. Escolha um simulado.
+3. Resolva sem consulta e, se possível, com tempo controlado.
+4. Corrija pelo gabarito comentado.
+5. Registre os erros no sistema de erros.
+6. Atualize a matriz de desempenho.
 
 ## Guia completo
 
