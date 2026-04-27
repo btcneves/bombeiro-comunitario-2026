@@ -1,284 +1,139 @@
 # Bombeiro Comunitário 2026 — Sistema de Estudo com Obsidian
 
+[GitHub Pages](https://btcneves.github.io/bombeiro-comunitario-2026/) ·
+[Documentação](docs/index.md) · [Fontes oficiais](SOURCES.md) ·
+[Notice](NOTICE.md)
+
 ![Status](https://img.shields.io/badge/status-active-success)
+![Release](https://img.shields.io/badge/release-v1.1.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Made with Obsidian](https://img.shields.io/badge/made%20with-Obsidian-7C3AED)
 ![Markdown](https://img.shields.io/badge/format-Markdown-black)
-![Study System](https://img.shields.io/badge/focus-concurso-orange)
-![Spaced Repetition](https://img.shields.io/badge/review-spaced%20repetition-1f6feb)
 
 Sistema profissional de estudo para o concurso de Bombeiro Comunitário 2026,
 estruturado como um second brain em Obsidian. O projeto combina notas
-atômicas, flashcards, revisão espaçada, dashboard operacional, resumos
-estratégicos e registro de erros para transformar estudo disperso em um fluxo
-controlável, auditável e replicável.
+atômicas, flashcards, revisão espaçada, simulados, matriz de desempenho,
+registro de erros, auditoria de fontes e documentação pública.
 
-> Aviso institucional: este projeto é independente e não é afiliado,
+> Aviso institucional: este projeto é autônomo e não é afiliado,
 > mantido, patrocinado ou endossado pela Prefeitura de Imaruí, pelo Instituto
 > Fucap ou pelo CBMSC.
-
-## Por que este projeto existe?
-
-Estudar para concurso costuma degradar rápido quando o material fica espalhado
-entre PDFs, cadernos, apps, prints e resumos improvisados. O resultado é
-previsível: estudo passivo, revisão irregular, baixa rastreabilidade do edital,
-acúmulo de assuntos esquecidos e dificuldade para saber o que revisar hoje.
-
-Este projeto resolve esse problema organizando todo o processo em um vault
-Obsidian com estrutura orientada a execução:
-
-- centralização do conteúdo em um único sistema
-- notas atômicas por conceito, não por apostila inteira
-- revisão por ciclo `D+1`, `D+7` e `D+30`
-- flashcards integrados ao conteúdo
-- registro sistemático de erros
-- dashboard central para visão diária de estudo
-
-## Funcionalidades
-
-- Vault Obsidian organizado por edital, disciplinas, tópicos e revisões.
-- Notas atômicas com frontmatter padronizado para controle de progresso.
-- MOCs e páginas centrais por disciplina.
-- Flashcards integrados ao fluxo de estudo.
-- Dashboard com consultas Dataview para prioridades e pendências.
-- Revisão espaçada com ciclos `D+1`, `D+7` e `D+30`.
-- Sistema de erros para revisão direcionada.
-- Simulados estilo provável da banca Instituto Fucap com gabaritos comentados.
-- Matriz de desempenho para acompanhar evolução por disciplina.
-- Cronograma e atalhos operacionais dentro do vault.
-- Resumos estratégicos para reta final.
-- Estrutura adaptável para outros concursos.
-
-## Preview do sistema
-
-O fluxo central do repositório foi desenhado para ser simples de operar no dia
-a dia:
-
-`Dashboard → Revisão → Flashcards → Estudo novo → Questões → Erros → Revisão`
-
-Pontos principais de navegação:
-
-- 🎯 Dashboard: [`Obsidian Vault/00 - Dashboard/🎯 Dashboard.md`](<Obsidian Vault/00 - Dashboard/🎯 Dashboard.md>)
-- flashcards: [`Obsidian Vault/04 - Flashcards/`](<Obsidian Vault/04 - Flashcards>)
-- revisões: [`Obsidian Vault/05 - Revisões/`](<Obsidian Vault/05 - Revisões>)
-- questões e simulados: [`Obsidian Vault/06 - Questões/`](<Obsidian Vault/06 - Questões>)
-- erros: [`Obsidian Vault/09 - Erros e Aprendizados/`](<Obsidian Vault/09 - Erros e Aprendizados>)
-- edital: [`Edital/`](Edital) e
-  [`Obsidian Vault/01 - Edital/`](<Obsidian Vault/01 - Edital>)
-- conteúdo programático:
-  [`CONTEÚDO PROGRAMÁTICO/`](<CONTEÚDO PROGRAMÁTICO>)
-
-## Estrutura do projeto
-
-```text
-.
-├── README.md
-├── LICENSE
-├── .gitignore
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── SECURITY.md
-├── ROADMAP.md
-├── PROJECT_STATUS.md
-├── GITHUB_PAGES.md
-├── PORTFOLIO.md
-├── CONTINUITY.md
-├── docs/
-├── assets/
-├── .github/
-├── SOURCES.md
-├── NOTICE.md
-├── RELEASE_NOTES_v1.0.0.md
-├── RELEASE_NOTES_v1.0.1.md
-└── Obsidian Vault/
-```
-
-### O que cada área faz
-
-- `README.md`: visão executiva do projeto e onboarding rápido.
-- `docs/`: documentação detalhada da metodologia, arquitetura e operação.
-- `assets/`: diretório para diagramas, imagens e materiais visuais de
-  apresentação.
-- `.github/`: templates para issues e pull requests.
-- `SOURCES.md`: documentação das fontes oficiais e materiais públicos usados.
-- `NOTICE.md`: aviso de independência institucional e uso educacional.
-- `Obsidian Vault/`: núcleo do sistema de estudo, preservado como ambiente
-  operacional.
-- `CONTEÚDO PROGRAMÁTICO/` e `Edital/`: materiais-base de referência usados
-  para alimentar o vault.
 
 ## Como usar
 
 1. Clone este repositório.
-2. Instale o Obsidian no computador ou dispositivo móvel.
-3. No Obsidian, selecione `Open folder as vault`.
+2. Abra o Obsidian.
+3. Selecione `Open folder as vault`.
 4. Escolha a pasta `Obsidian Vault`.
-5. Abra a nota `🎯 Dashboard` para entrar pelo centro operacional.
-6. Use `05 - Revisões` para limpar revisões vencidas e atrasadas.
-7. Estude novos tópicos em `03 - Tópicos Atômicos`.
-8. Responda os decks em `04 - Flashcards`.
-9. Resolva questões e simulados em `06 - Questões`.
-10. Registre falhas em `09 - Erros e Aprendizados`.
-11. Consulte `01 - Edital`, `Edital/` e `CONTEÚDO PROGRAMÁTICO/` para
-    rastrear a fonte e a cobertura do conteúdo.
+5. Abra `🎯 Dashboard` para iniciar pelo centro operacional.
+6. Revise pendências, faça flashcards, estude tópicos, resolva questões e
+   registre erros.
 
-Documentação detalhada:
+Atalhos principais:
 
-- [**Guia de estudo eficiente**](docs/guia-de-estudo-eficiente.md) — comece aqui
+- 🎯 Dashboard: [`Obsidian Vault/00 - Dashboard/🎯 Dashboard.md`](<Obsidian Vault/00 - Dashboard/🎯 Dashboard.md>)
+- Flashcards: [`Obsidian Vault/04 - Flashcards/`](<Obsidian Vault/04 - Flashcards>)
+- Questões e simulados: [`Obsidian Vault/06 - Questões/`](<Obsidian Vault/06 - Questões>)
+- Erros: [`Obsidian Vault/09 - Erros e Aprendizados/`](<Obsidian Vault/09 - Erros e Aprendizados>)
+- Edital e fontes: [`Edital/`](Edital), [`CONTEÚDO PROGRAMÁTICO/`](<CONTEÚDO PROGRAMÁTICO>) e [SOURCES.md](SOURCES.md)
+
+## Fidelidade ao edital
+
+O projeto segue uma hierarquia rígida de fontes:
+
+1. edital;
+2. PDFs e apostilas oficiais;
+3. manuais oficiais CBMSC;
+4. notas atômicas;
+5. flashcards e simulados;
+6. observações complementares.
+
+Em caso de divergência, prevalecem as fontes oficiais. No CBAE, a
+nomenclatura principal é "Avaliação da Cena" e "Avaliação Geral da Vítima",
+conforme auditoria do Manual CBAE.
+
+## Documentação
+
 - [Landing page da documentação](docs/index.md)
 - [Como usar](docs/como-usar.md)
+- [Guia de estudo eficiente](docs/guia-de-estudo-eficiente.md)
 - [Fluxo de estudo](docs/fluxo-de-estudo.md)
 - [Arquitetura](docs/arquitetura.md)
+- [Metodologia](docs/metodologia.md)
 - [Sistema de revisão](docs/sistema-de-revisao.md)
+- [Sistema de erros](docs/sistema-de-erros.md)
+
+## Simulados
+
+O vault inclui 3 simulados autorais e 100 questões no estilo provável da banca
+Instituto Fucap, com 5 alternativas e uma correta.
+
 - [Simulados estilo Instituto Fucap](docs/simulados-fucap.md)
-- [Auditoria do edital](docs/auditoria-edital.md)
-- [Publicação no GitHub](docs/publicacao-github.md)
-- [Auditoria educacional — CBAE](docs/auditoria-protocolo-aph.md)
-
-## Fluxo diário recomendado
-
-O ciclo diário sugerido é simples e disciplinado:
-
-1. Abrir o dashboard.
-2. Resolver revisões vencidas e atrasadas.
-3. Estudar um tópico novo com nota atômica.
-4. Responder flashcards do bloco recém-estudado e dos pontos fracos.
-5. Registrar erros surgidos em questões ou simulado.
-6. Atualizar `nível-domínio`, `última-revisão` e `próxima-revisão`.
-
-Esse fluxo reduz a tendência de “consumir conteúdo” sem consolidar memória de
-longo prazo.
-
-Para rotinas por tempo disponível, método de máxima eficiência e checklist
-diário, consulte o [Guia de estudo eficiente](docs/guia-de-estudo-eficiente.md).
-
-## Simulados e questões
-
-O vault inclui simulados autorais baseados no edital, no estilo provável da
-banca Instituto Fucap, com 5 alternativas e uma única correta. Os gabaritos são
-comentados e ligados às notas de revisão.
-
+- [Simulados avançados](docs/simulados-avancados.md)
 - [Banco de questões](<Obsidian Vault/06 - Questões/_Banco de Questões.md>)
-- [Simulado 01 - Diagnóstico](<Obsidian Vault/06 - Questões/Simulado 01 - Diagnóstico.md>)
-- [Simulado 02 - Conhecimentos Específicos](<Obsidian Vault/06 - Questões/Simulado 02 - Conhecimentos Específicos.md>)
-- [Simulado 03 - Reta Final](<Obsidian Vault/06 - Questões/Simulado 03 - Reta Final.md>)
-- [Gabaritos comentados](<Obsidian Vault/06 - Questões/Gabaritos Comentados.md>)
+- [Plano de simulados](<Obsidian Vault/06 - Questões/Plano de Simulados.md>)
+- [Checklist pós-simulado](<Obsidian Vault/06 - Questões/Checklist Pós-Simulado.md>)
 - [Matriz de desempenho](<Obsidian Vault/06 - Questões/Matriz de Desempenho.md>)
 
-As questões não substituem a leitura das fontes oficiais. Elas servem para
-medir desempenho, revelar lacunas e alimentar o sistema de erros.
+## Flashcards e Anki
 
-## Metodologia
+Os flashcards usam o padrão `Pergunta::Resposta` e ficam próximos das notas e
+fontes oficiais. O Obsidian permanece como fonte principal, e o Anki pode ser
+usado para repetição intensiva de cards selecionados.
 
-O sistema foi desenhado sobre cinco pilares:
-
-- `Active Recall`: recuperação ativa da informação em vez de releitura passiva.
-- `Spaced Repetition`: revisão em janelas crescentes para reduzir esquecimento.
-- `Zettelkasten leve`: notas pequenas, linkadas e recuperáveis.
-- `Notas atômicas`: uma nota por conceito ou bloco cognitivo controlável.
-- `Aprendizado por erro`: cada falha relevante gera reforço explícito.
-
-Leitura aprofundada:
-
-- [Metodologia](docs/metodologia.md)
-- [Estratégia de aprovação](docs/estrategia-aprovacao.md)
 - [Flashcards](docs/flashcards.md)
-- [Sistema de erros](docs/sistema-de-erros.md)
-- [Simulados estilo Instituto Fucap](docs/simulados-fucap.md)
+- [Integração com Anki](docs/integracao-anki.md)
+- [Decks no vault](<Obsidian Vault/04 - Flashcards>)
+
+## Auditorias
+
 - [Auditoria do edital](docs/auditoria-edital.md)
+- [Auditoria Português](docs/auditoria-portugues.md)
+- [Auditoria Trânsito](docs/auditoria-transito.md)
+- [Auditoria CIE](docs/auditoria-cie.md)
+- [Auditoria CBAE](docs/auditoria-cbae.md)
+- [Auditoria IG 10-03-BM](docs/auditoria-ig-10-03-bm.md)
+- [Auditoria educacional CBAE](docs/auditoria-protocolo-aph.md)
 
-## Fontes oficiais
+## Diagramas
 
-As referências oficiais e os materiais públicos usados neste repositório estão
-documentados em [SOURCES.md](SOURCES.md).
+- [Arquitetura do vault](assets/diagramas/arquitetura-do-vault.md)
+- [Fluxo de estudo completo](assets/diagramas/fluxo-de-estudo-completo.md)
+- [Ciclo de melhoria](assets/diagramas/ciclo-de-melhoria.md)
+- [Fidelidade ao edital](assets/diagramas/fidelidade-ao-edital.md)
+- [Imagens futuras](assets/imagens/README.md)
 
-Destaques:
+## Adaptação para outros concursos
 
-- Edital do Concurso Público `001/2026` do Município de Imaruí/SC
-- Biblioteca pública de Manuais CBMSC:
-  <https://www.cbm.sc.gov.br/index.php/biblioteca/manuais-cbmsc>
-- Código de Trânsito Brasileiro, quando aplicável
-- Manuais Brasileiros de Sinalização de Trânsito, quando aplicável
+A metodologia pode ser replicada, mas este repositório permanece específico
+para Bombeiro Comunitário 2026.
 
-Consulte também:
+- [Adaptando para outros concursos](docs/adaptando-para-outros-concursos.md)
+- [Checklist para novo concurso](docs/checklist-novo-concurso.md)
 
-- [SOURCES.md](SOURCES.md)
-- [NOTICE.md](NOTICE.md)
-- [docs/index.md](docs/index.md)
-- [docs/publicacao-github.md](docs/publicacao-github.md)
-- [docs/simulados-fucap.md](docs/simulados-fucap.md)
-- [docs/auditoria-edital.md](docs/auditoria-edital.md)
+## Release atual
 
-Em caso de divergência, prevalecem sempre as fontes oficiais.
-
-## Tecnologias e ferramentas
-
-- Obsidian
-- Markdown
-- Dataview
-- Spaced Repetition
-- Templater
-- Git
-- GitHub
-- GitHub Pages
+- `v1.0.0`: vault e documentação inicial.
+- `v1.0.1`: auditorias, guia de estudo e simulados estilo FUCAP.
+- `v1.1.0`: consolidação do roadmap atual com diagramas, Anki documentado,
+  simulados avançados, GitHub Pages e adaptabilidade.
 
 ## Roadmap
 
-- `v1.0`: vault consolidado e documentação profissional do repositório.
-- `v1.0.1`: auditorias, guia de estudo e simulados estilo FUCAP.
-- `v1.1`: inclusão de imagens, fluxos visuais e diagramas operacionais.
-- `v1.2`: integração com Anki e exportação de flashcards.
-- `v1.3`: simulados automatizados e rotinas de auditoria.
-- `v1.4`: apresentação visual do projeto com GitHub Pages.
+O roadmap atual está consolidado em [ROADMAP.md](ROADMAP.md). Itens futuros
+incluem screenshots reais, automação de exportação Anki, geração programática
+de simulados, validação automática de links e CI simples para Markdown.
 
-Roadmap completo em [ROADMAP.md](ROADMAP.md).
+## Fontes oficiais
 
-## Como contribuir
+As referências oficiais e os materiais públicos usados estão documentados em
+[SOURCES.md](SOURCES.md).
 
-Contribuições devem preservar a estrutura do vault, manter consistência em
-Markdown e reforçar a utilidade do sistema como projeto técnico e ambiente de
-estudo real.
+Consulte também:
 
-Fluxo recomendado:
-
-1. Abra uma issue explicando o problema, melhoria ou ajuste de conteúdo.
-2. Faça alterações pequenas, rastreáveis e bem descritas.
-3. Não quebre links, nomes de pastas ou a organização principal do vault.
-4. Envie um pull request usando o template do repositório.
-
-Guia completo em [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## Metadados recomendados no GitHub
-
-Description:
-
-`Sistema profissional de estudo com Obsidian para Bombeiro Comunitário 2026, fiel ao edital, com notas atômicas, flashcards, simulados e revisão espaçada.`
-
-Topics sugeridos:
-
-- `obsidian`
-- `markdown`
-- `study-system`
-- `spaced-repetition`
-- `flashcards`
-- `concurso-publico`
-- `bombeiro-comunitario`
-- `second-brain`
-- `zettelkasten`
-- `cbmsc`
-- `simulados`
-- `fucap`
-
-## Aviso
-
-Este repositório é material de apoio educacional. Ele não substitui a leitura
-oficial do edital, legislação aplicável, manuais normativos, bibliografia
-exigida nem instruções da banca organizadora.
-
-Consulte [NOTICE.md](NOTICE.md) para o aviso institucional completo.
-
-Em caso de divergência, prevalecem sempre as fontes oficiais.
+- [NOTICE.md](NOTICE.md)
+- [GITHUB_PAGES.md](GITHUB_PAGES.md)
+- [Publicação no GitHub](docs/publicacao-github.md)
 
 ## Licença
 

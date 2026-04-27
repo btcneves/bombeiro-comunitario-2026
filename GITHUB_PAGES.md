@@ -38,6 +38,7 @@ Para facilitar a publicação:
 - o `README.md` apresenta o projeto de forma executiva
 - a pasta `docs/` concentra documentação navegável
 - `docs/index.md` funciona como landing page do Pages
+- `docs/_config.yml` define título, descrição e tema Jekyll
 - `docs/publicacao-github.md` reúne orientações de metadados e release
 - `assets/` está pronta para receber imagens e diagramas públicos
 
@@ -46,6 +47,10 @@ Para facilitar a publicação:
 Para uma apresentação mais limpa, prefira publicar a partir de `/docs`, usando
 `docs/index.md` como porta de entrada. Isso separa a vitrine pública do
 restante da raiz técnica do repositório.
+
+URL inferida para este repositório:
+
+`https://btcneves.github.io/bombeiro-comunitario-2026/`
 
 ## Conteúdo sugerido para a página pública
 
