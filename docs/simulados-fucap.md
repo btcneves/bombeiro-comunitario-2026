@@ -27,6 +27,8 @@ conhecimentos específicos usa 30 questões.
 - `Obsidian Vault/06 - Questões/Simulado 03 - Reta Final.md`
 - `Obsidian Vault/06 - Questões/Gabaritos Comentados.md`
 - `Obsidian Vault/06 - Questões/Matriz de Desempenho.md`
+- `Obsidian Vault/06 - Questões/Plano de Simulados.md`
+- `Obsidian Vault/06 - Questões/Checklist Pós-Simulado.md`
 
 ## Critérios de criação
 
@@ -49,6 +51,9 @@ conhecimentos específicos usa 30 questões.
 4. Reabrir a nota atômica relacionada.
 5. Criar ou reforçar flashcards quando o erro for conceitual.
 6. Repetir a matriz de desempenho após nova revisão.
+
+Para uma rotina completa de aplicação, repetição, cronômetro e análise por
+faixa de desempenho, consulte [Simulados avançados](simulados-avancados.md).
 
 ## Interpretação da matriz
 

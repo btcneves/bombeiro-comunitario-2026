@@ -17,6 +17,7 @@ estudo ativa** composta por:
 - revisão espaçada para evitar esquecimento
 - sistema de erros para transformar falhas em reforço
 - simulados no estilo provável da banca Instituto Fucap
+- plano de simulados e checklist pós-simulado
 - matriz de desempenho por disciplina
 - dashboard operacional para controle diário
 
@@ -218,6 +219,24 @@ O frontmatter de cada nota atômica tem o campo `nível-domínio`. Use:
 - Ler o PDF sem transformar em nota atômica — a leitura evaporou.
 - Avançar conteúdo novo com revisão vencida acumulada — a pilha cresce.
 - Não registrar erros — os mesmos erros se repetem na prova.
+
+## Simulados avançados
+
+Use os simulados como ciclo de medição, não como leitura. Depois de cada bloco:
+
+1. corrija todas as questões;
+2. registre erros relevantes;
+3. relacione cada erro à nota atômica;
+4. atualize flashcards;
+5. preencha a matriz de desempenho;
+6. defina a próxima revisão.
+
+Arquivos principais:
+
+- `Obsidian Vault/06 - Questões/Plano de Simulados.md`
+- `Obsidian Vault/06 - Questões/Checklist Pós-Simulado.md`
+- `Obsidian Vault/06 - Questões/Matriz de Desempenho.md`
+- [Simulados avançados](simulados-avancados.md)
 - Estudar assunto fora do edital — tempo perdido.
 - Decorar mnemônico externo sem verificar na apostila oficial — risco de
   resposta errada se a banca seguir o manual.

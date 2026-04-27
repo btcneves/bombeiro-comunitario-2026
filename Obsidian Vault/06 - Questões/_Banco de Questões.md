@@ -20,6 +20,8 @@ tags: [questões, revisão, prova]
 - Marcar o padrão da falha: conceito, pegadinha, confusão entre alternativas ou leitura apressada.
 - Ao errar duas vezes o mesmo assunto, criar ou reforçar flashcards.
 - Corrigir pelo [[Gabaritos Comentados]] e lançar o resultado na [[Matriz de Desempenho]].
+- Planejar a sequência pelo [[Plano de Simulados]].
+- Encerrar cada aplicação com o [[Checklist Pós-Simulado]].
 
 ## Registro Rápido
 
@@ -38,3 +40,5 @@ tags: [questões, revisão, prova]
 - [[Resumo Brutal - Trânsito]]
 - [[Gabaritos Comentados]]
 - [[Matriz de Desempenho]]
+- [[Plano de Simulados]]
+- [[Checklist Pós-Simulado]]
