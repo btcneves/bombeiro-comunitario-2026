@@ -1,45 +1,59 @@
 # Roadmap
 
-## v1.0 — Vault e documentação
+## Concluído
 
-- consolidar o vault como núcleo do projeto
-- documentar metodologia, arquitetura e operação
-- preparar o repositório para publicação no GitHub
+### v1.0.0 — Vault e documentação
 
-## v1.0.1 — Auditoria e simulados
+- Vault consolidado como núcleo do projeto.
+- Metodologia, arquitetura e operação documentadas.
+- Repositório preparado para publicação no GitHub.
 
-- auditar edital e disciplinas contra fontes oficiais
-- criar simulados estilo provável da banca Instituto Fucap
-- adicionar gabaritos comentados e matriz de desempenho
-- aprimorar guia de estudo eficiente
-- preparar release sem criar tag automaticamente
+### v1.0.1 — Auditoria e simulados
 
-## v1.1 — Diagramas e imagens
+- Edital e disciplinas auditados contra fontes oficiais.
+- Simulados estilo provável da banca Instituto Fucap.
+- Gabaritos comentados e matriz de desempenho.
+- Guia de estudo eficiente.
+- Release `v1.0.1` consolidada no Git.
 
-- adicionar fluxos visuais do sistema de estudo
-- incluir ativos para apresentação pública do projeto
-- melhorar suporte visual à documentação
+### v1.1 — Diagramas e imagens
 
-## v1.2 — Integração com Anki
+- Diagramas de arquitetura do vault.
+- Fluxo de estudo completo.
+- Ciclo de melhoria.
+- Hierarquia de fidelidade ao edital.
+- Pasta de imagens preparada para screenshots reais.
 
-- mapear exportação de flashcards
-- definir interoperabilidade com revisão externa
-- documentar limites e fluxo de sincronização
+### v1.2 — Integração com Anki
 
-## v1.3 — Simulados avançados
+- Fluxo de exportação seletiva documentado.
+- Diferença entre Obsidian e Anki formalizada.
+- Padrão de cards e cuidados contra duplicação documentados.
 
-- automatizar relatórios de desempenho
-- ampliar banco de questões por tema
-- criar rotinas de auditoria automática de links e fontes
+### v1.3 — Simulados avançados
 
-## v1.4 — GitHub Pages
+- Plano de simulados no vault.
+- Checklist pós-simulado.
+- Guia de simulados avançados.
+- Interpretação por faixas de desempenho.
 
-- publicar página de apresentação do projeto
-- consolidar narrativa de portfólio
-- melhorar navegação pública da documentação
+### v1.4 — GitHub Pages
 
-## v2.0 — Sistema adaptável para múltiplos concursos
+- `docs/index.md` consolidado como landing page.
+- Configuração Jekyll em `docs/_config.yml`.
+- Documentação pública reorganizada.
 
-- separar conteúdo específico da metodologia-base
-- permitir replicação para outros editais
-- documentar processo completo de adaptação
+### v2.0 — Sistema adaptável para múltiplos concursos
+
+- Processo de adaptação documentado.
+- Checklist prático para novo concurso.
+- Separação clara entre metodologia replicável e conteúdo específico.
+
+## Roadmap futuro
+
+- Adicionar screenshots reais do Obsidian.
+- Automatizar exportação seletiva para Anki.
+- Gerar simulados programaticamente a partir de banco estruturado.
+- Validar links Markdown e wikilinks automaticamente.
+- Criar CI simples para Markdown.
+- Adicionar provas anteriores FUCAP se fontes públicas forem localizadas.

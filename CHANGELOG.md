@@ -1,5 +1,31 @@
 # Changelog
 
+## [1.1.0] - 2026-04-27
+
+### Added
+
+- Diagramas de arquitetura e fluxo.
+- Guia de integração com Anki.
+- Simulados avançados.
+- Plano de simulados.
+- Checklist pós-simulado.
+- Checklist para adaptação a outros concursos.
+- GitHub Pages consolidado.
+
+### Changed
+
+- README ampliado como apresentação final.
+- Documentação pública reorganizada.
+- Roadmap atualizado para refletir o estado real.
+- Portfolio atualizado com a camada final de maturidade.
+
+### Fixed
+
+- Status da v1.0.1 atualizado em `PROJECT_STATUS.md` e `CONTINUITY.md`.
+- Release notes v1.0.1 atualizadas para refletir tag já existente.
+
+---
+
 ## [1.0.1] - 2026-04-27
 
 ### Added

@@ -20,8 +20,9 @@ resumos e marcações soltas, o estudante opera um fluxo rastreável dentro de u
 vault Obsidian versionado no GitHub.
 
 A versão atual adiciona simulados autorais no formato do edital, gabaritos
-comentados e matriz de desempenho por disciplina, preservando rastreabilidade
-entre questão, fonte oficial, nota atômica e revisão.
+comentados, matriz de desempenho, diagramas, documentação Anki, GitHub Pages
+consolidado e checklist de adaptação para outros concursos, preservando
+rastreabilidade entre questão, fonte oficial, nota atômica e revisão.
 
 ## Tecnologias usadas
 
@@ -49,6 +50,9 @@ entre questão, fonte oficial, nota atômica e revisão.
 - flashcards no próprio ambiente de estudo para reduzir fricção operacional
 - sistema de erros como mecanismo de realimentação
 - simulados como camada de aferição prática e diagnóstico
+- diagramas como camada de comunicação pública da arquitetura
+- integração Anki como exportação seletiva, mantendo o Obsidian como fonte
+  principal
 - documentação externa ao vault para transformar o sistema em produto técnico
   apresentável
 
@@ -67,6 +71,8 @@ entre questão, fonte oficial, nota atômica e revisão.
 - correção sistemática de erros recorrentes
 - medição objetiva de evolução por disciplina
 - transformação de um vault pessoal em ativo técnico publicável
+- apresentação pública por GitHub Pages
+- método replicável para outros editais sem perder fidelidade às fontes
 
 ## Habilidades demonstradas
 
