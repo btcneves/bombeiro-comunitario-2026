@@ -58,7 +58,7 @@ a dia:
 
 Pontos principais de navegação:
 
-- dashboard: [`Obsidian Vault/00 - Dashboard/🎯 Dashboard.md`](<Obsidian Vault/00 - Dashboard/🎯 Dashboard.md>)
+- 🎯 Dashboard: [`Obsidian Vault/00 - Dashboard/🎯 Dashboard.md`](<Obsidian Vault/00 - Dashboard/🎯 Dashboard.md>)
 - flashcards: [`Obsidian Vault/04 - Flashcards/`](<Obsidian Vault/04 - Flashcards>)
 - revisões: [`Obsidian Vault/05 - Revisões/`](<Obsidian Vault/05 - Revisões>)
 - questões e simulados: [`Obsidian Vault/06 - Questões/`](<Obsidian Vault/06 - Questões>)
@@ -83,12 +83,14 @@ Pontos principais de navegação:
 ├── PROJECT_STATUS.md
 ├── GITHUB_PAGES.md
 ├── PORTFOLIO.md
+├── CONTINUITY.md
 ├── docs/
 ├── assets/
 ├── .github/
 ├── SOURCES.md
 ├── NOTICE.md
 ├── RELEASE_NOTES_v1.0.0.md
+├── RELEASE_NOTES_v1.0.1.md
 └── Obsidian Vault/
 ```
 
