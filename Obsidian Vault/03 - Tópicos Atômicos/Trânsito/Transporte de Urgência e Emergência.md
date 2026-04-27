@@ -4,9 +4,12 @@ tópico: CTB
 subtópico: Urgência e Emergência
 incidência: 🔴
 status: não-iniciado
-tags: [trânsito/urgência, CTB, ambulância]
+tags:
+  - trânsito/urgência
+  - CTB
+  - ambulância
 criado: 2026-04-24
-última-revisão: 
+última-revisão:
 próxima-revisão: 2026-04-25
 ciclo-revisão: 0
 dificuldade: 3
