@@ -105,6 +105,16 @@ Função poética está ligada a quê?::À forma da mensagem — a escolha esté
 
 ---
 
+## Níveis de Linguagem
+
+O que são níveis de linguagem?::Variações de uso da língua conforme contexto, interlocutor, finalidade e grau de formalidade.
+
+Linguagem informal é sempre errada?::Não. Pode ser adequada em contexto informal, mas inadequada em situação formal.
+
+Qual nível de linguagem é esperado em documentos oficiais e prova?::Linguagem formal/norma-padrão.
+
+---
+
 ## Figuras de Linguagem
 
 Antítese × Paradoxo?::Antítese = oposição de ideias ("dia e noite"). Paradoxo = contradição lógica na mesma ideia ("amor que mata").

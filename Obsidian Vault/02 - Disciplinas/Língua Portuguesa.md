@@ -38,6 +38,7 @@ SORT incidência DESC, status ASC
 - [[Colocação Pronominal]]
 - [[Vocabulário e Semântica]]
 - [[Ortografia]]
+- [[Níveis de Linguagem]]
 
 ### 🟢 Complementares
 - [[Adjetivos Eruditos e Pátrios]]

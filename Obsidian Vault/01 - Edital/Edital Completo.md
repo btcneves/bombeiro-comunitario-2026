@@ -10,7 +10,10 @@ atualizado: 2026-04-24
 **Banca**: Instituto Fucap
 **Prova Objetiva**: 03/05/2026 — 3h30
 **Distribuição**: 5 Português (1pt) + 30 Específicas (9pts) = 10pt total
+**Formato**: questões objetivas com 5 alternativas e uma única correta
 **Nota mínima**: 5,0
+**Etapas**: prova objetiva + prova de aptidão física
+**Fonte oficial**: `Edital/EDITAL DE CONCURSO PUBLICO.pdf`
 
 ---
 
@@ -23,6 +26,29 @@ atualizado: 2026-04-24
 | **TOTAL** | **35** | **10,0** | |
 
 > 🚨 **Estratégia**: os Conhecimentos Específicos valem 9x mais. Priorize SEMPRE.
+
+---
+
+## Dados do cargo
+
+**Cargo:** Bombeiro Comunitário  
+**Vagas:** 7 + cadastro reserva  
+**Carga horária:** escala 24 x 72  
+**Requisitos principais:** nível médio completo, Curso de Formação de Bombeiro
+Comunitário, situação ativa, CNH categoria `D` e certificado de Curso de
+Condutor de Veículo de Emergência.
+
+## Prova de Aptidão Física
+
+Etapa prevista para 13/06/2026 a 14/06/2026, com conceito `APTO` ou `NÃO
+APTO`.
+
+| Teste | Masculino | Feminino |
+|---|---:|---:|
+| Barra fixa | ≥ 03 execuções | ≥ 15 segundos |
+| Abdominal | ≥ 29 execuções | ≥ 21 execuções |
+| Flexão de braço | ≥ 17 execuções | ≥ 10 execuções |
+| Corrida de 12 minutos | ≥ 2.400 m | ≥ 2.000 m |
 
 ---
 
@@ -118,3 +144,18 @@ atualizado: 2026-04-24
 - [ ] CBAE — APH e RCP 🔴
 - [ ] CBAE — Trauma e Emergências 🔴
 - [ ] IG 10-03-BM — Regulamento Completo 🟡
+
+---
+
+## Simulados alinhados ao edital
+
+- [[Simulado 01 - Diagnóstico]] — 35 questões no formato da prova.
+- [[Simulado 02 - Conhecimentos Específicos]] — 30 questões do bloco de maior peso.
+- [[Simulado 03 - Reta Final]] — 35 questões com revisão e pegadinhas.
+- [[Gabaritos Comentados]]
+- [[Matriz de Desempenho]]
+
+## Observação de fonte oficial
+
+Este arquivo resume o edital para uso operacional no vault. Em caso de qualquer
+divergência, prevalece o PDF oficial do edital localizado em `Edital/`.
