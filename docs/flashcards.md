@@ -86,3 +86,17 @@ recuperação, não reproduzir capítulo inteiro.
 Quando uma questão de simulado for errada por falha conceitual, crie ou revise
 um card curto sobre o ponto. O card deve cobrar a fonte oficial, não doutrina
 externa sem respaldo no edital.
+
+## Integração com Anki
+
+O Obsidian continua sendo a fonte principal dos cards, porque mantém contexto,
+nota atômica, fonte e correção no mesmo ambiente. Para repetição intensiva,
+cards selecionados podem ser exportados manualmente para o Anki.
+
+Fluxo recomendado:
+
+```text
+Obsidian como fonte -> revisão local -> exportação seletiva -> Anki para repetição intensiva
+```
+
+Veja o guia completo em [Integração com Anki](integracao-anki.md).
