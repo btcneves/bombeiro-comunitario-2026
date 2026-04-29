@@ -68,3 +68,17 @@ pública atualizada.
 O roadmap atual foi consolidado em documentação e arquivos de apoio:
 diagramas, integração Anki, simulados avançados, GitHub Pages, adaptação para
 outros concursos e release notes `v1.1.0`.
+
+## Auditoria de Gabaritos — 2026-04-29
+
+Problema detectado e corrigido: concentração crítica do gabarito em B (56%).
+
+- **Distribuição pós-auditoria:** A=B=C=D=E=20% (100 questões)
+- **Script:** `scripts/auditoria_gabaritos.py` (audit/shuffle/self-test)
+- **Seed:** 42 (reproduzível)
+- **Distratores reescritos:** 15+ questões com alternativas absurdas substituídas
+- **Relatório:** `docs/relatorios/auditoria-gabaritos-2026-04-29.md`
+- **ADR:** `docs/adr/ADR-001-auditoria-gabaritos.md`
+- **Contrato de agente:** `AGENTS.md`
+- **Nota Vault:** `Obsidian Vault/06 - Questões/Auditoria de Gabaritos e Qualidade das Questões.md`
+- **Status:** ✅ Exit 0 — sem violações bloqueantes

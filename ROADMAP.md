@@ -49,11 +49,23 @@
 - Checklist prático para novo concurso.
 - Separação clara entre metodologia replicável e conteúdo específico.
 
+### v1.5 — Auditoria de Gabaritos (concluído 2026-04-29)
+
+- Script `scripts/auditoria_gabaritos.py` com modos `--audit`, `--shuffle`, `--self-test`.
+- Rebalanceamento dos 3 simulados: B=56% → A=B=C=D=E=20% (seed 42).
+- Reescrita de 15+ distratores absurdos/caricatos.
+- Templates `_Templates/Questão.md` e `_Templates/Simulado.md` com checklist anti-viés.
+- `AGENTS.md` — contrato para agentes AI.
+- `docs/adr/ADR-001-auditoria-gabaritos.md`.
+- Nota de auditoria no Vault.
+
 ## Roadmap futuro
 
 - Adicionar screenshots reais do Obsidian.
 - Automatizar exportação seletiva para Anki.
 - Gerar simulados programaticamente a partir de banco estruturado.
 - Validar links Markdown e wikilinks automaticamente.
-- Criar CI simples para Markdown.
+- Criar CI simples para Markdown com `python3 scripts/auditoria_gabaritos.py --audit` como check.
 - Adicionar provas anteriores FUCAP se fontes públicas forem localizadas.
+- Reduzir "correta = mais longa" abaixo de 30% por normalização de comprimento.
+- Hook de pré-commit para `--audit`.

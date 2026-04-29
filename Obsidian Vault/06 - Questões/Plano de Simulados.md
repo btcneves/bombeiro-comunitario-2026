@@ -49,3 +49,14 @@ Todo erro relevante deve virar pelo menos uma ação:
 - registrar em [[_Índice de Erros]];
 - marcar próxima revisão;
 - resolver novas questões do mesmo tema.
+
+## Regras anti-viés (criação e manutenção de questões)
+
+Para garantir que o banco não seja "chutável", seguir sempre:
+
+1. **Distribuição equilibrada**: meta de 20% ±5% por letra (A/B/C/D/E). Nunca concentrar em B.
+2. **Auditoria obrigatória antes de adicionar questões**: `python3 scripts/auditoria_gabaritos.py --audit` deve retornar exit 0.
+3. **Distratores plausíveis e do mesmo domínio**: sem absolutismos óbvios isolados, sem termos de outras disciplinas.
+4. **Comprimento equilibrado**: a alternativa correta não deve ser sistematicamente a mais longa.
+5. **Fontes específicas**: indicar lei + artigo, ou manual + lição — não apenas "Edital" genérico.
+6. **Ver checklist completo**: [[Auditoria de Gabaritos e Qualidade das Questões]] e `_Templates/Questão.md`.

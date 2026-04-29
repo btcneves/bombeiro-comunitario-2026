@@ -51,12 +51,29 @@ como consolidação madura do projeto.
    - release notes `RELEASE_NOTES_v1.1.0.md`;
    - portfolio atualizado.
 
+## Auditoria de Gabaritos — concluída em 2026-04-29
+
+A concentração de gabarito em B (56%) foi detectada e corrigida. Estado atual:
+
+- Distribuição: A=B=C=D=E=20% (100 questões)
+- Script de auditoria: `scripts/auditoria_gabaritos.py`
+- Exit code na última rodada: 0 (sem violações)
+- Seed de embaralhamento: 42
+- Contrato de agente: `AGENTS.md`
+- Nota no Vault: `Obsidian Vault/06 - Questões/Auditoria de Gabaritos e Qualidade das Questões.md`
+
+## Pendências em aberto
+
+- "Correta = mais longa" ainda em 58% — redução futura por normalização de comprimento ao criar novas questões.
+- Simulado 04 ainda não criado — usar `_Templates/Simulado.md` quando criar.
+- Hook de pré-commit para `--audit` não configurado ainda.
+
 ## Próximo comando recomendado
 
 ```bash
+# Verificar estado da auditoria
+python3 scripts/auditoria_gabaritos.py --audit
+
+# Verificar git
 git status --short
 ```
-
-Depois, validar arquivos obrigatórios, wikilinks do vault, registrar commits
-organizados, fazer push e publicar a marca `v1.1.0` somente após validação
-final.

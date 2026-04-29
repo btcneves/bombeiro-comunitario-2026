@@ -59,6 +59,12 @@ Cards exportados devem continuar obedecendo à hierarquia do projeto:
 4. notas atômicas;
 5. flashcards e simulados.
 
+## Embaralhamento no Anki
+
+Ao importar questões de múltipla escolha (A/B/C/D/E) para o Anki, ativar a opção **"Shuffle answers"** no tipo de nota (card type) para evitar que a resposta correta fique sempre na mesma posição. No Anki Desktop: `Tools > Manage Note Types > seu tipo > Fields > marcar "Random answer order"` se disponível, ou usar o add-on AnkiConnect com campo randomizado.
+
+Os simulados Markdown do vault já têm gabaritos rebalanceados (A=B=C=D=E=20%) pelo script de auditoria, mas o Anki aplica embaralhamento independente para cada revisão.
+
 Não crie card no Anki com conteúdo fora do edital como se fosse fonte
 principal.
 

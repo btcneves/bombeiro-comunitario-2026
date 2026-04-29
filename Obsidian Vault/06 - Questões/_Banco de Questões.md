@@ -33,8 +33,15 @@ tags: [questões, revisão, prova]
 | IG |  |  |  |  |
 | Português |  |  |  |  |
 
+## Qualidade dos gabaritos
+
+Auditoria de 2026-04-29: distribuição A=B=C=D=E=20% (antes: B=56%).  
+Para re-auditar: `python3 scripts/auditoria_gabaritos.py --audit` (exit 0 = OK).  
+Ver [[Auditoria de Gabaritos e Qualidade das Questões]] para histórico completo.
+
 ## Conexões
 
+- [[Auditoria de Gabaritos e Qualidade das Questões]]
 - [[_Índice de Erros]]
 - [[Pegadinhas Fucap]]
 - [[Resumo Brutal - Trânsito]]

@@ -41,6 +41,8 @@ diária:
 - [Auditoria CBAE](auditoria-cbae.md)
 - [Auditoria IG 10-03-BM](auditoria-ig-10-03-bm.md)
 - [Auditoria educacional CBAE](auditoria-protocolo-aph.md)
+- [**Auditoria de Gabaritos e Qualidade das Questões**](relatorios/) — 2026-04-29, A=B=C=D=E=20%
+- [ADR-001 — Decisão sobre auditoria](adr/ADR-001-auditoria-gabaritos.md)
 
 ## Simulados
 

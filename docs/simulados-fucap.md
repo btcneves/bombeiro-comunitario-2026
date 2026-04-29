@@ -43,6 +43,17 @@ conhecimentos específicos usa 30 questões.
 - CIE deve seguir o Manual CIE.
 - Trânsito deve seguir legislação e materiais do edital.
 
+## Checklist anti-viés (obrigatório ao criar questões)
+
+- [ ] Gabarito não concentrado em B (meta: 20% ±5% por letra — verificar com `python3 scripts/auditoria_gabaritos.py --audit`)
+- [ ] Alternativa correta não é sistematicamente a mais longa
+- [ ] Distratores plausíveis e do mesmo domínio temático (sem termos de outras disciplinas)
+- [ ] Sem absolutismo isolado (`somente X`, `apenas Y`) em erradas quando a correta usa linguagem moderada
+- [ ] Em APH/CBMSC: distratores usam sequência, condição ou competência erradas (nunca absurdos inventados)
+- [ ] Em legislação: distratores usam troca de prazo, competência, penalidade, definição ou artigo
+- [ ] Campo `Fonte` com referência específica (lei + artigo ou manual + lição)
+- [ ] Usar template `_Templates/Questão.md` ao criar novas questões
+
 ## Como usar
 
 1. Resolver o simulado sem consulta.

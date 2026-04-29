@@ -67,6 +67,15 @@ Crie novos simulados a partir do banco de questões respeitando:
 - linguagem objetiva;
 - ausência de conteúdo externo como fonte principal.
 
+**Anti-viés obrigatório:** após criar o simulado, rodar a auditoria para garantir distribuição equilibrada de gabaritos:
+
+```bash
+python3 scripts/auditoria_gabaritos.py --audit
+# Exit 0 = pronto para usar. Exit 1 = corrigir concentração de letra antes.
+```
+
+Use `_Templates/Simulado.md` para estrutura com checklist integrado. Ver [[Auditoria de Gabaritos e Qualidade das Questões]] para contexto completo.
+
 ## Faixas de desempenho
 
 | Faixa | Interpretação | Ação |

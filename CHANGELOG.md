@@ -1,5 +1,35 @@
 # Changelog
 
+## [Unreleased] — Auditoria de Gabaritos 2026-04-29
+
+### Added
+
+- Script `scripts/auditoria_gabaritos.py` — auditor + shuffler Python 3 stdlib puro com modos `--audit`, `--shuffle --seed N --write` e `--self-test`.
+- `scripts/README.md` — instruções de uso.
+- `docs/relatorios/auditoria-gabaritos-2026-04-29.md` + `.json` — relatório baseline e pós-shuffle.
+- `docs/adr/ADR-001-auditoria-gabaritos.md` — decisão arquitetural sobre auditoria de gabaritos.
+- `AGENTS.md` — contrato de agente para Claude/Codex/ChatGPT com regras anti-viés obrigatórias.
+- `Obsidian Vault/06 - Questões/Auditoria de Gabaritos e Qualidade das Questões.md` — nota de registro no Vault.
+- `Obsidian Vault/_Templates/Questão.md` e `Obsidian Vault/_Templates/Simulado.md` — templates com checklist anti-viés.
+
+### Changed
+
+- Simulados 01, 02 e 03: gabaritos rebalanceados de B=56% para A=B=C=D=E=20% (seed 42).
+- Distratores absurdos substituídos por alternativas plausíveis do mesmo domínio em 15+ questões.
+- `Obsidian Vault/06 - Questões/Gabaritos Comentados.md`: tabela atualizada automaticamente pelo script.
+- `Obsidian Vault/06 - Questões/Plano de Simulados.md`: seção "Regras anti-viés" adicionada.
+- `docs/simulados-fucap.md`: checklist anti-viés adicionado.
+- `docs/simulados-avancados.md`: instrução de `--audit` antes de commit.
+- `docs/integracao-anki.md`: nota sobre "shuffle answers" no Anki.
+
+### Fixed
+
+- Concentração crítica de gabarito em B (56% → 20%): corrigida por shuffle com seed reproduzível.
+- "Alternativa correta = mais longa": melhorada de 65% → 58% por reescrita de distratores.
+- Padrão absolutismo-em-erradas vs. hedge-na-correta: múltiplas alternativas reescritas.
+
+---
+
 ## [1.1.0] - 2026-04-27
 
 ### Added

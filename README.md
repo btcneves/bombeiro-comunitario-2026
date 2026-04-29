@@ -85,6 +85,17 @@ usado para repetição intensiva de cards selecionados.
 - [Integração com Anki](docs/integracao-anki.md)
 - [Decks no vault](<Obsidian Vault/04 - Flashcards>)
 
+## Qualidade do banco de questões
+
+Os simulados passam por auditoria automatizada para garantir que o gabarito não seja previsível por chute posicional ou por padrões linguísticos das alternativas.
+
+```bash
+python3 scripts/auditoria_gabaritos.py --audit
+# Exit 0 = sem violações. Exit 1 = há problemas.
+```
+
+Última auditoria (2026-04-29): A=B=C=D=E=**20%** — distribuição uniforme. Ver [`AGENTS.md`](AGENTS.md) para regras obrigatórias ao criar questões.
+
 ## Auditorias
 
 - [Auditoria do edital](docs/auditoria-edital.md)
@@ -94,6 +105,7 @@ usado para repetição intensiva de cards selecionados.
 - [Auditoria CBAE](docs/auditoria-cbae.md)
 - [Auditoria IG 10-03-BM](docs/auditoria-ig-10-03-bm.md)
 - [Auditoria educacional CBAE](docs/auditoria-protocolo-aph.md)
+- [**Auditoria de Gabaritos**](docs/relatorios/) — 2026-04-29, A=B=C=D=E=20%
 
 ## Diagramas
 
