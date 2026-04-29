@@ -19,13 +19,13 @@ tags: [simulado, fucap, conhecimentos-especificos]
 
 Ao se aproximar de local de travessia de pedestres sem semáforo, o condutor deve:
 
-A) acelerar para liberar a via.  
-B) manter atenção e dar preferência ao pedestre que iniciou a travessia.  
+A) ultrapassar pela direita.  
+B) parar apenas se houver agente de trânsito.  
 C) buzinar continuamente para alertar.  
-D) ultrapassar pela direita.  
-E) parar apenas se houver agente de trânsito.
+D) manter atenção e dar preferência ao pedestre que iniciou a travessia.  
+E) acelerar para liberar a via.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** A regra de circulação protege o pedestre e exige direção prudente.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[CTB - Normas Gerais de Circulação]]
@@ -39,13 +39,13 @@ E) parar apenas se houver agente de trânsito.
 
 Licenciamento e registro de veículos pertencem ao estudo de:
 
-A) literatura brasileira.  
-B) trânsito, conforme conteúdo específico do edital.  
-C) apenas atendimento pré-hospitalar.  
-D) combate a incêndio estrutural.  
+A) combate a incêndio estrutural.  
+B) literatura brasileira.  
+C) trânsito, conforme conteúdo específico do edital.  
+D) apenas atendimento pré-hospitalar.  
 E) serviço comunitário exclusivamente.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** O edital lista veículos, licenciamento e habilitação em Legislação de Trânsito.  
 **Fonte:** Edital.  
 **Revisar:** [[Veículos - Licenciamento e Registro]]
@@ -79,13 +79,13 @@ E) gestual.
 
 Em chuva intensa, a atitude defensiva mais adequada é:
 
-A) aumentar velocidade para reduzir tempo de exposição.  
-B) reduzir velocidade e ampliar distância de segurança.  
-C) desligar todos os faróis.  
-D) trafegar colado ao veículo da frente.  
-E) fazer ultrapassagens sucessivas.
+A) fazer ultrapassagens sucessivas.  
+B) desligar todos os faróis.  
+C) trafegar colado ao veículo da frente.  
+D) aumentar velocidade para reduzir tempo de exposição.  
+E) reduzir velocidade e ampliar distância de segurança.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Condição adversa exige maior margem de segurança.  
 **Fonte:** Edital / direção defensiva.  
 **Revisar:** [[Direção Defensiva]]
@@ -100,12 +100,12 @@ E) fazer ultrapassagens sucessivas.
 Preservação do meio ambiente no trânsito envolve, entre outros pontos:
 
 A) descarte livre de óleo e resíduos.  
-B) redução de poluição e manutenção adequada do veículo.  
-C) uso obrigatório de buzina em área hospitalar.  
-D) aumento de fumaça para sinalização.  
-E) remoção de catalisador.
+B) uso obrigatório de buzina em área hospitalar.  
+C) remoção de catalisador.  
+D) redução de poluição e manutenção adequada do veículo.  
+E) aumento de fumaça para sinalização.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** Manutenção e condução adequada reduzem impactos ambientais.  
 **Fonte:** Edital / CTB.  
 **Revisar:** [[Preservação do Meio Ambiente no Trânsito]]
@@ -119,10 +119,10 @@ E) remoção de catalisador.
 
 No trânsito, cidadania significa:
 
-A) exercer preferência absoluta sobre os demais.  
+A) dirigir apenas com base em habilidade pessoal.  
 B) respeitar regras, segurança e direitos de todos os usuários da via.  
-C) dirigir apenas com base em habilidade pessoal.  
-D) ignorar pedestres fora da faixa.  
+C) ignorar pedestres fora da faixa.  
+D) exercer preferência absoluta sobre os demais.  
 E) usar normas apenas em rodovias.
 
 **Gabarito:** B  
@@ -139,13 +139,13 @@ E) usar normas apenas em rodovias.
 
 Em incêndio estrutural, a fumaça é perigosa porque:
 
-A) é apenas vapor d'água limpo.  
-B) pode conter gases tóxicos e reduzir visibilidade.  
+A) pode conter gases tóxicos e reduzir visibilidade.  
+B) substitui a necessidade de EPR.  
 C) elimina risco térmico.  
-D) substitui a necessidade de EPR.  
-E) indica ambiente sempre seguro.
+D) indica ambiente sempre seguro.  
+E) é apenas vapor d'água limpo.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** Fumaça e gases da combustão são riscos centrais em CIE.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Comportamento do Fogo]]
@@ -159,13 +159,13 @@ E) indica ambiente sempre seguro.
 
 Condução, convecção e irradiação são:
 
-A) métodos de abastecimento.  
-B) formas de transferência de calor.  
-C) tipos de mangueira.  
-D) classes de incêndio.  
-E) espécies de uniforme.
+A) espécies de uniforme.  
+B) classes de incêndio.  
+C) formas de transferência de calor.  
+D) métodos de abastecimento.  
+E) tipos de mangueira.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** O Manual CIE usa esses conceitos para explicar propagação do calor.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Fundamentos do Fogo]]
@@ -179,11 +179,11 @@ E) espécies de uniforme.
 
 Antes de usar um extintor, é essencial verificar:
 
-A) apenas a cor da parede.  
+A) horário da ocorrência.  
 B) classe de incêndio e adequação do agente extintor.  
-C) nome do fabricante do veículo.  
-D) horário da ocorrência.  
-E) se há literatura no local.
+C) apenas a data de validade da última recarga.  
+D) unicamente o peso do cilindro vazio.  
+E) apenas o tipo de instalação elétrica do ambiente.
 
 **Gabarito:** B  
 **Comentário:** Agente inadequado pode ser ineficaz ou perigoso, especialmente em eletricidade.  
@@ -199,13 +199,13 @@ E) se há literatura no local.
 
 Em operações de combate a incêndio, as prioridades táticas consideram:
 
-A) apenas dano patrimonial.  
-B) segurança da vida, estabilização do incidente e conservação de patrimônio.  
-C) somente preenchimento de relatório.  
-D) somente abastecimento.  
-E) apenas ventilação.
+A) somente preenchimento de relatório.  
+B) apenas dano patrimonial.  
+C) segurança da vida, estabilização do incidente e conservação de patrimônio.  
+D) apenas ventilação.  
+E) somente abastecimento.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** A lógica operacional prioriza vida, controle do incidente e patrimônio.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Comunicação e Comando no Incêndio]]
@@ -219,13 +219,13 @@ E) apenas ventilação.
 
 Jato compacto, jato neblina e jato atomizado são estudados como:
 
-A) tipos de jatos de água.  
-B) classes de incêndio.  
-C) equipamentos respiratórios.  
-D) funções do SNT.  
+A) equipamentos respiratórios.  
+B) tipos de jatos de água.  
+C) funções do SNT.  
+D) classes de incêndio.  
 E) graus do bombeiro comunitário.
 
-**Gabarito:** A  
+**Gabarito:** B  
 **Comentário:** O Manual CIE aborda jatos no contexto de aplicação de água e espuma.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Técnicas de Ataque]]
@@ -239,13 +239,13 @@ E) graus do bombeiro comunitário.
 
 Segundo o Manual CIE, fontes de água para combate a incêndio podem incluir:
 
-A) apenas garrafas portáteis.  
-B) mananciais, reservatórios, viaturas e sistemas de hidrantes.  
-C) somente água salgada.  
-D) apenas poços residenciais sem bomba.  
-E) somente extintores de CO2.
+A) somente água salgada.  
+B) apenas poços residenciais sem bomba.  
+C) somente extintores de CO2.  
+D) apenas garrafas portáteis.  
+E) mananciais, reservatórios, viaturas e sistemas de hidrantes.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** O manual lista fontes de abastecimento para operações de CIE.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Equipamentos Hidráulicos e Escadas]]
@@ -259,13 +259,13 @@ E) somente extintores de CO2.
 
 Na sequência do Manual CBAE, a Avaliação Geral da Vítima inclui:
 
-A) impressão geral, consciência, vias aéreas/coluna cervical, respiração e hemorragias graves.  
-B) apenas pressão arterial.  
-C) protocolo externo como nomenclatura oficial.  
-D) análise de edital e recursos.  
-E) classificação de incêndio.
+A) apenas pressão arterial.  
+B) análise de edital e recursos.  
+C) classificação de incêndio.  
+D) protocolo externo como nomenclatura oficial.  
+E) impressão geral, consciência, vias aéreas/coluna cervical, respiração e hemorragias graves.
 
-**Gabarito:** A  
+**Gabarito:** E  
 **Comentário:** Essa é a sequência registrada na auditoria do Manual CBAE.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[Avaliação Geral da Vítima vs ABCDE e XABCDE]]
@@ -279,13 +279,13 @@ E) classificação de incêndio.
 
 Na atuação inicial, acionar corretamente serviços de emergência é importante porque:
 
-A) substitui toda avaliação da cena.  
-B) garante resposta especializada quando a situação supera o atendimento básico.  
-C) dispensa segurança pessoal.  
-D) impede qualquer ação preventiva.  
-E) é necessário apenas em incêndio florestal.
+A) dispensa segurança pessoal.  
+B) é necessário apenas em incêndio florestal.  
+C) impede qualquer ação preventiva.  
+D) garante resposta especializada quando a situação supera o atendimento básico.  
+E) substitui toda avaliação da cena.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** O CBAE prepara para atuação inicial e acionamento adequado de recursos.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Lição II - Atuação Inicial em Acidentes]]
@@ -299,13 +299,13 @@ E) é necessário apenas em incêndio florestal.
 
 Precauções universais no atendimento têm como finalidade:
 
-A) proteger apenas a roupa do socorrista.  
-B) reduzir risco de contaminação e exposição a fluidos.  
-C) acelerar preenchimento de relatório.  
-D) substituir avaliação da vítima.  
-E) dispensar lavagem das mãos.
+A) substituir avaliação da vítima.  
+B) acelerar preenchimento de relatório.  
+C) reduzir risco de contaminação e exposição a fluidos.  
+D) dispensar lavagem das mãos.  
+E) proteger apenas a roupa do socorrista.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** Biossegurança protege socorrista, vítima e terceiros.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Lição IV - Noções de Primeiros Socorros]]
@@ -320,12 +320,12 @@ E) dispensar lavagem das mãos.
 Em suspeita de fratura, a conduta básica adequada é:
 
 A) tentar realinhar com força.  
-B) imobilizar provisoriamente e evitar movimentação desnecessária.  
+B) aplicar calor intenso.  
 C) massagear vigorosamente.  
 D) estimular caminhada.  
-E) aplicar calor intenso.
+E) imobilizar provisoriamente e evitar movimentação desnecessária.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Imobilização provisória reduz agravamento até atendimento especializado.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Trauma Musculoesquelético]]
@@ -339,13 +339,13 @@ E) aplicar calor intenso.
 
 Estado de choque é situação grave porque envolve:
 
-A) apenas desconforto psicológico leve.  
-B) falha na perfusão adequada dos tecidos.  
-C) sempre febre alta isolada.  
-D) somente fratura fechada.  
-E) apenas dor muscular.
+A) falha na perfusão adequada dos tecidos.  
+B) apenas dor muscular.  
+C) somente fratura fechada.  
+D) apenas desconforto psicológico leve.  
+E) sempre febre alta isolada.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** Choque compromete circulação/perfusão e exige reconhecimento rápido.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Hemorragia e Estado de Choque]]
@@ -359,13 +359,13 @@ E) apenas dor muscular.
 
 Em ocorrência aquática, o primeiro cuidado do leigo/socorrista básico deve ser:
 
-A) entrar na água sem avaliar risco.  
-B) garantir segurança da cena e acionar ajuda.  
-C) mergulhar sozinho em qualquer condição.  
-D) abandonar a vítima sem acionamento.  
-E) oferecer alimento imediatamente.
+A) oferecer alimento imediatamente.  
+B) mergulhar sozinho em qualquer condição.  
+C) garantir segurança da cena e acionar ajuda.  
+D) entrar na água sem avaliar risco.  
+E) abandonar a vítima sem acionamento.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** Segurança da cena também se aplica a ocorrências na água.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Afogamento e Acidentes na Água]]
@@ -379,13 +379,13 @@ E) oferecer alimento imediatamente.
 
 RCP significa:
 
-A) registro de controle preventivo.  
-B) ressuscitação cardiopulmonar.  
-C) resfriamento com pó químico.  
-D) relatório de circulação prioritária.  
-E) reação em cadeia permanente.
+A) resfriamento com pó químico.  
+B) registro de controle preventivo.  
+C) reação em cadeia permanente.  
+D) ressuscitação cardiopulmonar.  
+E) relatório de circulação prioritária.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** RCP é procedimento básico de suporte à vida em parada cardiorrespiratória.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - RCP - Ressuscitação Cardiopulmonar]]
@@ -399,13 +399,13 @@ E) reação em cadeia permanente.
 
 Sobre torniquete, a posição metodológica correta deste projeto é:
 
-A) é sempre a primeira resposta básica do CBAE.  
-B) é técnica avançada segundo o Manual CBAE e não deve ser resposta principal básica.  
-C) é conteúdo principal do edital de Português.  
+A) é técnica avançada segundo o Manual CBAE e não deve ser resposta principal básica.  
+B) é conteúdo principal do edital de Português.  
+C) não tem relação com hemorragia.  
 D) substitui curativo compressivo em qualquer sangramento leve.  
-E) não tem relação com hemorragia.
+E) é sempre a primeira resposta básica do CBAE.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** A auditoria preserva a literalidade do Manual CBAE.  
 **Fonte:** Manual CBAE / auditoria CBAE.  
 **Revisar:** [[CBAE - Hemorragia e Estado de Choque]]
@@ -420,12 +420,12 @@ E) não tem relação com hemorragia.
 Entre os objetivos dos programas comunitários está:
 
 A) afastar a comunidade do CBMSC.  
-B) criar cultura prevencionista e ampliar acesso a conhecimentos básicos.  
-C) substituir integralmente bombeiros militares por voluntários.  
-D) eliminar a necessidade de treinamento.  
-E) dispensar normas de ingresso.
+B) dispensar normas de ingresso.  
+C) criar cultura prevencionista e ampliar acesso a conhecimentos básicos.  
+D) substituir integralmente bombeiros militares por voluntários.  
+E) eliminar a necessidade de treinamento.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** A IG destaca cultura preventiva, interação comunitária e formação para emergências.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Conceito e Objetivo do Serviço Comunitário]]
@@ -439,13 +439,13 @@ E) dispensar normas de ingresso.
 
 O CFBC destina-se à formação de:
 
-A) Bombeiro Comunitário e Brigadista Particular.  
-B) apenas agente de trânsito.  
-C) apenas candidato a curso superior.  
-D) professor de literatura.  
-E) servidor efetivo automático.
+A) qualquer cidadão sem necessidade de capacitação prévia.  
+B) exclusivamente candidatos com ensino superior completo.  
+C) somente voluntários já atuantes como bombeiros militares.  
+D) apenas candidatos aprovados em redação e entrevista.  
+E) Bombeiro Comunitário e Brigadista Particular.
 
-**Gabarito:** A  
+**Gabarito:** E  
 **Comentário:** A IG define a finalidade do CFBC nesses termos.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Cursos de Capacitação CBAE e CFBC]]
@@ -459,13 +459,13 @@ E) servidor efetivo automático.
 
 Na regra geral da IG, o CFBC possui estágio operacional de:
 
-A) 20 horas.  
+A) 240 horas.  
 B) 40 horas.  
-C) 80 horas.  
-D) 104 horas.  
-E) 240 horas.
+C) 20 horas.  
+D) 80 horas.  
+E) 104 horas.
 
-**Gabarito:** E  
+**Gabarito:** A  
 **Comentário:** A IG prevê 104 horas/aula e 240 horas de estágio operacional, com hipótese específica de redução.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Formação e Capacitação]]
@@ -479,13 +479,13 @@ E) 240 horas.
 
 O Bombeiro Comunitário atua em apoio ao CBMSC sem transformar automaticamente essa relação em:
 
-A) serviço voluntário formal.  
-B) vínculo de cargo efetivo militar.  
-C) coprodução de serviço público.  
+A) coprodução de serviço público.  
+B) atividade de apoio.  
+C) serviço voluntário formal.  
 D) relação comunitária regulamentada.  
-E) atividade de apoio.
+E) vínculo de cargo efetivo militar.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** A IG regula serviço comunitário/voluntário, não provimento automático de cargo militar.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Ingresso e Controle do Serviço]]
@@ -499,13 +499,13 @@ E) atividade de apoio.
 
 As vagas de Bombeiros Comunitários em cada OBM são tratadas pela IG para:
 
-A) organizar controle e funcionamento do serviço.  
-B) substituir o edital do concurso público.  
-C) dispensar seleção.  
+A) substituir o edital do concurso público.  
+B) organizar controle e funcionamento do serviço.  
+C) extinguir cursos.  
 D) criar cargo municipal imediato.  
-E) extinguir cursos.
+E) dispensar seleção.
 
-**Gabarito:** A  
+**Gabarito:** B  
 **Comentário:** A IG estrutura o serviço comunitário e seus controles.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Organização e Estrutura do Serviço Comunitário]]
@@ -519,11 +519,11 @@ E) extinguir cursos.
 
 As atividades do Bombeiro Comunitário devem ocorrer:
 
-A) sem vínculo com normas da corporação.  
+A) sem uniforme em qualquer hipótese.  
 B) conforme a IG e sob controle/organização da OBM.  
 C) exclusivamente fora do CBMSC.  
 D) por decisão isolada do voluntário.  
-E) sem uniforme em qualquer hipótese.
+E) sem vínculo com normas da corporação.
 
 **Gabarito:** B  
 **Comentário:** O serviço comunitário é voluntário, mas normatizado e controlado.  
@@ -539,13 +539,13 @@ E) sem uniforme em qualquer hipótese.
 
 Brigadista voluntário, na IG, é pessoa capacitada para auxiliar em prevenção, combate a início de incêndio e salvamento:
 
-A) obrigatoriamente remunerada para essa função.  
-B) em caráter voluntário.  
-C) como policial militar.  
-D) sem qualquer capacitação.  
+A) como policial militar.  
+B) obrigatoriamente remunerada para essa função.  
+C) sem qualquer capacitação.  
+D) em caráter voluntário.  
 E) apenas na esfera federal.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** A definição normativa enfatiza caráter voluntário e capacitação.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Conceito, Objetivos e Definições]]
@@ -560,10 +560,10 @@ E) apenas na esfera federal.
 Quando a IG trata transgressões disciplinares, a finalidade é:
 
 A) orientar conduta e controle do serviço comunitário.  
-B) criar conteúdo de Português.  
-C) substituir leis de trânsito.  
-D) dispensar processo administrativo.  
-E) impedir qualquer reconhecimento.
+B) impedir qualquer reconhecimento.  
+C) dispensar processo administrativo.  
+D) regular apenas uniformes e insígnias do serviço.  
+E) fixar competências exclusivas dos bombeiros militares.
 
 **Gabarito:** A  
 **Comentário:** Disciplina dá previsibilidade e controle ao vínculo comunitário.  
@@ -579,13 +579,13 @@ E) impedir qualquer reconhecimento.
 
 O bloco de Conhecimentos Específicos possui:
 
-A) 5 questões.  
+A) 30 questões.  
 B) 10 questões.  
 C) 20 questões.  
-D) 30 questões.  
-E) 35 questões.
+D) 35 questões.  
+E) 5 questões.
 
-**Gabarito:** D  
+**Gabarito:** A  
 **Comentário:** O edital define 30 questões específicas.  
 **Fonte:** Edital 001/2026.  
 **Revisar:** [[Edital Completo]]
@@ -599,11 +599,11 @@ E) 35 questões.
 
 As questões objetivas do edital possuem:
 
-A) 2 alternativas.  
+A) alternativas livres.  
 B) 3 alternativas.  
-C) 4 alternativas.  
+C) 2 alternativas.  
 D) 5 alternativas.  
-E) alternativas livres.
+E) 4 alternativas.
 
 **Gabarito:** D  
 **Comentário:** O edital informa 5 alternativas de resposta, com uma correta.  

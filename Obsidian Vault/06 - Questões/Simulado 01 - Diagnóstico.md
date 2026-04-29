@@ -20,11 +20,11 @@ tags: [simulado, fucap, diagnostico]
 
 Em uma questão de interpretação, a alternativa correta deve ser escolhida com base:
 
-A) no conhecimento pessoal do candidato sobre o tema.  
+A) em exemplos externos semelhantes ao texto.  
 B) em informações explicitamente ou implicitamente autorizadas pelo texto.  
-C) na opinião mais comum sobre o assunto.  
-D) em exemplos externos semelhantes ao texto.  
-E) na alternativa mais extensa.
+C) na interpretação que mais agrada ao leitor.  
+D) na opinião mais comum sobre o assunto.  
+E) no conhecimento pessoal do candidato sobre o tema.
 
 **Gabarito:** B  
 **Comentário:** Interpretação exige aderência ao texto. A banca pode usar alternativas plausíveis, mas sem suporte textual.  
@@ -40,13 +40,13 @@ E) na alternativa mais extensa.
 
 Assinale a alternativa em que o uso da crase está correto.
 
-A) Entregou o relatório à ela.  
-B) Chegou à uma conclusão precipitada.  
-C) Referiu-se à servidora responsável.  
-D) Começou à estudar cedo.  
+A) Começou à estudar cedo.  
+B) Referiu-se à servidora responsável.  
+C) Entregou o relatório à ela.  
+D) Chegou à uma conclusão precipitada.  
 E) Pediu ajuda à todos.
 
-**Gabarito:** C  
+**Gabarito:** B  
 **Comentário:** Há regência de `referir-se a` e artigo feminino antes de `servidora`. Não há crase antes de pronome pessoal, artigo indefinido, verbo ou pronome indefinido plural sem artigo.  
 **Fonte:** Edital - Língua Portuguesa.  
 **Revisar:** [[Crase]]
@@ -60,13 +60,13 @@ E) Pediu ajuda à todos.
 
 Assinale a alternativa em que a vírgula separa corretamente um adjunto adverbial deslocado.
 
-A) O candidato, realizou a prova com atenção.  
-B) Durante a ocorrência, a equipe manteve a segurança da cena.  
+A) Durante a ocorrência, a equipe manteve a segurança da cena.  
+B) O candidato, realizou a prova com atenção.  
 C) A vítima, recebeu atendimento básico.  
 D) O motorista acionou, a sirene e o giroflex.  
 E) A banca, divulgou o gabarito.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** `Durante a ocorrência` está deslocado no início da frase. As demais alternativas separam sujeito de verbo ou verbo de complemento.  
 **Fonte:** Edital - Língua Portuguesa.  
 **Revisar:** [[Pontuação]]
@@ -80,13 +80,13 @@ E) A banca, divulgou o gabarito.
 
 Assinale a alternativa correta.
 
-A) Haviam muitos candidatos na sala.  
+A) Deve haverem recursos contra o gabarito.  
 B) Fazem dois anos que o edital foi publicado.  
-C) Existia dúvidas sobre o horário.  
-D) Havia muitos candidatos na sala.  
-E) Deve haverem recursos contra o gabarito.
+C) Havia muitos candidatos na sala.  
+D) Existia dúvidas sobre o horário.  
+E) Haviam muitos candidatos na sala.
 
-**Gabarito:** D  
+**Gabarito:** C  
 **Comentário:** O verbo `haver`, no sentido de existir, é impessoal e fica no singular.  
 **Fonte:** Edital - Língua Portuguesa.  
 **Revisar:** [[Concordância Verbal e Nominal]]
@@ -101,12 +101,12 @@ E) Deve haverem recursos contra o gabarito.
 As palavras `ratificar` e `retificar` significam, respectivamente:
 
 A) corrigir e confirmar.  
-B) confirmar e corrigir.  
-C) negar e comprovar.  
+B) negar e comprovar.  
+C) substituir e aceitar.  
 D) ampliar e reduzir.  
-E) substituir e aceitar.
+E) confirmar e corrigir.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** `Ratificar` é confirmar; `retificar` é corrigir.  
 **Fonte:** Edital - Língua Portuguesa.  
 **Revisar:** [[Vocabulário e Semântica]]
@@ -120,13 +120,13 @@ E) substituir e aceitar.
 
 O Sistema Nacional de Trânsito é composto por órgãos e entidades que atuam de forma integrada. No estudo do CTB, a finalidade central desse sistema é:
 
-A) somente fiscalizar infrações municipais.  
-B) planejar, administrar, normatizar, pesquisar, registrar, licenciar, formar, habilitar, educar, fiscalizar, julgar infrações e aplicar penalidades.  
-C) substituir os órgãos municipais por órgãos federais.  
-D) limitar-se à emissão de CNH.  
+A) substituir os órgãos municipais por órgãos federais.  
+B) limitar-se à emissão de CNH.  
+C) somente fiscalizar infrações municipais.  
+D) planejar, administrar, normatizar, pesquisar, registrar, licenciar, formar, habilitar, educar, fiscalizar, julgar infrações e aplicar penalidades.  
 E) atuar apenas em rodovias federais.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** A alternativa resume o escopo sistêmico do trânsito previsto no CTB.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[Sistema Nacional de Trânsito]]
@@ -140,13 +140,13 @@ E) atuar apenas em rodovias federais.
 
 Em cruzamento não sinalizado, quando dois veículos se aproximam por vias diferentes, a regra geral de preferência é do veículo:
 
-A) que estiver à direita do condutor.  
-B) que estiver à esquerda do condutor.  
-C) de maior porte, sempre.  
-D) que estiver em maior velocidade.  
-E) conduzido por motorista profissional.
+A) que estiver em maior velocidade.  
+B) de maior porte, sempre.  
+C) conduzido por motorista profissional.  
+D) que estiver à esquerda do condutor.  
+E) que estiver à direita do condutor.
 
-**Gabarito:** A  
+**Gabarito:** E  
 **Comentário:** A regra geral do CTB dá preferência a quem vem pela direita, salvo situações específicas.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[CTB - Normas Gerais de Circulação]]
@@ -160,11 +160,11 @@ E) conduzido por motorista profissional.
 
 Veículos destinados a socorro de incêndio e salvamento têm prioridade de passagem quando:
 
-A) usam apenas farol baixo durante o dia.  
-B) estão estacionados em frente à unidade.  
+A) circulam em velocidade inferior à da via.  
+B) transportam qualquer servidor público.  
 C) estão com alarme sonoro e iluminação intermitente acionados.  
-D) transportam qualquer servidor público.  
-E) circulam em velocidade inferior à da via.
+D) usam apenas farol baixo durante o dia.  
+E) estão estacionados em frente à unidade.
 
 **Gabarito:** C  
 **Comentário:** A prioridade depende do acionamento dos dispositivos regulamentares de alarme sonoro e iluminação.  
@@ -180,13 +180,13 @@ E) circulam em velocidade inferior à da via.
 
 A sinalização vertical é composta principalmente por:
 
-A) marcas pintadas no pavimento.  
-B) placas fixadas ao lado ou suspensas sobre a via.  
-C) gestos de agentes apenas.  
-D) sons emitidos por veículos de emergência.  
+A) sons emitidos por veículos de emergência.  
+B) gestos de agentes apenas.  
+C) marcas pintadas no pavimento.  
+D) placas fixadas ao lado ou suspensas sobre a via.  
 E) cones usados somente em obras.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** Placas compõem a sinalização vertical. Marcas no pavimento são sinalização horizontal.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[Sinalização de Trânsito]]
@@ -200,13 +200,13 @@ E) cones usados somente em obras.
 
 Em acidente de trânsito com vítima, segundo a lógica do Manual CBAE usada no projeto, o atendimento inicial deve priorizar:
 
-A) retirar imediatamente o capacete de toda vítima.  
-B) aplicar protocolo externo de trauma como resposta oficial do edital.  
-C) avaliar a segurança da cena antes de iniciar contato com a vítima.  
-D) dar água à vítima consciente.  
-E) movimentar a vítima para local mais confortável.
+A) aplicar protocolo externo de trauma como resposta oficial do edital.  
+B) retirar imediatamente o capacete de toda vítima.  
+C) movimentar a vítima para local mais confortável.  
+D) avaliar a segurança da cena antes de iniciar contato com a vítima.  
+E) dar água à vítima consciente.
 
-**Gabarito:** C  
+**Gabarito:** D  
 **Comentário:** A primeira etapa é segurança e avaliação da cena. Protocolo externo sem fonte oficial do projeto não deve ser resposta principal.  
 **Fonte:** Manual CBAE / edital.  
 **Revisar:** [[Primeiros Socorros no Trânsito]]
@@ -220,13 +220,13 @@ E) movimentar a vítima para local mais confortável.
 
 No CTB, penalidade e medida administrativa:
 
-A) são sempre sinônimos.  
-B) têm natureza distinta, embora possam decorrer da mesma infração.  
-C) só existem para crimes de trânsito.  
-D) dependem sempre de processo judicial.  
+A) só existem para crimes de trânsito.  
+B) dependem sempre de processo judicial.  
+C) têm natureza distinta, embora possam decorrer da mesma infração.  
+D) são sempre sinônimos.  
 E) aplicam-se apenas a veículos de carga.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** Penalidade e medida administrativa são institutos diferentes. Uma infração pode gerar ambas.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[Infrações e Penalidades]]
@@ -240,11 +240,11 @@ E) aplicam-se apenas a veículos de carga.
 
 Direção defensiva é melhor definida como:
 
-A) condução agressiva para reduzir tempo de deslocamento.  
+A) uso exclusivo de equipamentos eletrônicos de segurança.  
 B) conjunto de práticas para prevenir acidentes, mesmo diante de erros alheios e condições adversas.  
-C) uso exclusivo de equipamentos eletrônicos de segurança.  
-D) condução aplicável somente a viaturas.  
-E) técnica usada apenas em pista molhada.
+C) condução aplicável somente a viaturas.  
+D) técnica usada apenas em pista molhada.  
+E) condução agressiva para reduzir tempo de deslocamento.
 
 **Gabarito:** B  
 **Comentário:** Direção defensiva busca antecipar riscos e evitar acidentes.  
@@ -261,12 +261,12 @@ E) técnica usada apenas em pista molhada.
 Para o cargo do edital, além do nível médio e curso de formação, é exigida CNH:
 
 A) categoria A.  
-B) categoria B.  
+B) categoria D.  
 C) categoria C.  
-D) categoria D.  
-E) categoria E exclusivamente.
+D) categoria E exclusivamente.  
+E) categoria B.
 
-**Gabarito:** D  
+**Gabarito:** B  
 **Comentário:** O edital exige Carteira Nacional de Habilitação categoria D.  
 **Fonte:** Edital.  
 **Revisar:** [[Habilitação CNH]]
@@ -280,13 +280,13 @@ E) categoria E exclusivamente.
 
 O tetraedro do fogo é formado por:
 
-A) água, espuma, CO2 e pó químico.  
-B) combustível, comburente, calor e reação em cadeia.  
-C) fumaça, chama, fuligem e calor.  
-D) prevenção, proteção, combate e rescaldo.  
-E) condução, convecção, irradiação e ventilação.
+A) fumaça, chama, fuligem e calor.  
+B) condução, convecção, irradiação e ventilação.  
+C) prevenção, proteção, combate e rescaldo.  
+D) combustível, comburente, calor e reação em cadeia.  
+E) água, espuma, CO2 e pó químico.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** O Manual CIE trabalha o fogo a partir desses quatro elementos.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Fundamentos do Fogo]]
@@ -300,13 +300,13 @@ E) condução, convecção, irradiação e ventilação.
 
 Incêndio em equipamento energizado é classificado, para fins didáticos de combate, como classe:
 
-A) A.  
-B) B.  
-C) C.  
-D) D.  
-E) K.
+A) D.  
+B) C.  
+C) B.  
+D) K.  
+E) A.
 
-**Gabarito:** C  
+**Gabarito:** B  
 **Comentário:** Classe C envolve equipamentos energizados.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Fundamentos do Fogo]]
@@ -321,10 +321,10 @@ E) K.
 Ao retirar o combustível de uma situação de incêndio, aplica-se o método de extinção por:
 
 A) resfriamento.  
-B) abafamento.  
+B) ventilação positiva.  
 C) isolamento.  
-D) reação em cadeia.  
-E) ventilação positiva.
+D) abafamento.  
+E) reação em cadeia.
 
 **Gabarito:** C  
 **Comentário:** Isolamento remove ou separa o combustível.  
@@ -340,13 +340,13 @@ E) ventilação positiva.
 
 No combate a incêndio estrutural, o equipamento de proteção respiratória é essencial porque:
 
-A) substitui a necessidade de capacete.  
-B) protege contra atmosfera perigosa e produtos da combustão.  
-C) serve apenas para comunicação interna.  
-D) deve ser usado apenas no rescaldo.  
-E) é item opcional em incêndio interior.
+A) é item opcional em incêndio interior.  
+B) deve ser usado apenas no rescaldo.  
+C) substitui a necessidade de capacete.  
+D) serve apenas para comunicação interna.  
+E) protege contra atmosfera perigosa e produtos da combustão.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Incêndios estruturais geram fumaça e gases perigosos, exigindo proteção respiratória.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - EPI - Equipamento de Proteção Individual]]
@@ -361,10 +361,10 @@ E) é item opcional em incêndio interior.
 O agente extintor mais associado ao resfriamento é:
 
 A) água.  
-B) gás carbônico.  
+B) espuma mecânica apenas por abafamento.  
 C) areia seca.  
-D) nitrogênio pressurizado.  
-E) espuma mecânica apenas por abafamento.
+D) gás carbônico.  
+E) nitrogênio pressurizado.
 
 **Gabarito:** A  
 **Comentário:** A água tem alta capacidade de absorver calor, sendo associada ao resfriamento.  
@@ -380,13 +380,13 @@ E) espuma mecânica apenas por abafamento.
 
 Flashover e backdraft são estudados no Manual CIE como:
 
-A) agentes extintores.  
-B) tipos de extintores portáteis.  
-C) fenômenos de incêndios interiores confinados.  
-D) componentes de mangueira.  
-E) classes de incêndio.
+A) tipos de extintores portáteis.  
+B) agentes extintores.  
+C) classes de incêndio.  
+D) fenômenos de incêndios interiores confinados.  
+E) componentes de mangueira.
 
-**Gabarito:** C  
+**Gabarito:** D  
 **Comentário:** São fenômenos críticos de incêndios interiores, relevantes para segurança operacional.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Comportamento do Fogo]]
@@ -400,13 +400,13 @@ E) classes de incêndio.
 
 Em operações com mangueiras, conservação e inspeção são importantes porque:
 
-A) aumentam a cor da mangueira.  
-B) reduzem risco de falha durante combate.  
-C) eliminam a necessidade de hidrante.  
-D) substituem o uso de EPI.  
-E) dispensam treinamento da guarnição.
+A) reduzem risco de falha durante combate.  
+B) garantem operação sem manutenção periódica.  
+C) substituem a necessidade de reservatório.  
+D) permitem uso em qualquer classe sem adaptação.  
+E) ampliam permanentemente a pressão de serviço.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** Equipamentos hidráulicos precisam estar íntegros para operação segura.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Equipamentos Hidráulicos e Escadas]]
@@ -421,12 +421,12 @@ E) dispensam treinamento da guarnição.
 Antes de iniciar atendimento direto à vítima, o Manual CBAE orienta:
 
 A) verificar se a vítima quer atendimento.  
-B) avaliar a segurança da cena.  
+B) procurar documentos pessoais.  
 C) iniciar compressões torácicas em qualquer caso.  
 D) remover a vítima imediatamente.  
-E) procurar documentos pessoais.
+E) avaliar a segurança da cena.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Segurança da cena vem antes do contato direto, para proteger socorrista e vítima.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Avaliação da Cena e Segurança]]
@@ -440,13 +440,13 @@ E) procurar documentos pessoais.
 
 Qual nomenclatura deve ser usada como resposta principal para a avaliação inicial no Manual CBAE?
 
-A) Protocolo externo de trauma.  
-B) ABCDE do trauma.  
-C) Avaliação Geral da Vítima.  
-D) Protocolo START.  
+A) Protocolo START.  
+B) Avaliação Geral da Vítima.  
+C) ABCDE do trauma.  
+D) Protocolo externo de trauma.  
 E) Escala de Glasgow completa.
 
-**Gabarito:** C  
+**Gabarito:** B  
 **Comentário:** O Manual CBAE usa Avaliação Geral da Vítima. ABCDE pode ser observação complementar, não resposta principal.  
 **Fonte:** Manual CBAE / auditoria CBAE.  
 **Revisar:** [[Avaliação Geral da Vítima vs ABCDE e XABCDE]]
@@ -460,13 +460,13 @@ E) Escala de Glasgow completa.
 
 Em vítima de trauma, a abertura de vias aéreas deve considerar:
 
-A) extensão de cabeça como única opção.  
-B) suspeita de lesão cervical.  
-C) retirada imediata da vítima do local sem avaliação.  
+A) retirada imediata da vítima do local sem avaliação.  
+B) extensão de cabeça como única opção.  
+C) suspeita de lesão cervical.  
 D) oferta de líquidos.  
 E) compressão abdominal em todos os casos.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** Em trauma, deve-se preservar a coluna cervical e usar técnica compatível com essa suspeita.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Vias Aéreas e Ventilação]]
@@ -480,13 +480,13 @@ E) compressão abdominal em todos os casos.
 
 Na suspeita de parada cardiorrespiratória, a conduta estudada no CBAE envolve reconhecer ausência de resposta e respiração normal para iniciar:
 
-A) aquecimento passivo.  
-B) ressuscitação cardiopulmonar.  
-C) curativo compressivo.  
-D) imobilização de fratura.  
-E) transporte sem avaliação.
+A) ressuscitação cardiopulmonar.  
+B) curativo compressivo.  
+C) transporte sem avaliação.  
+D) aquecimento passivo.  
+E) imobilização de fratura.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** A RCP é a medida básica diante de parada cardiorrespiratória reconhecida.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - RCP - Ressuscitação Cardiopulmonar]]
@@ -501,12 +501,12 @@ E) transporte sem avaliação.
 Conforme a orientação adotada a partir do Manual CBAE, a técnica básica inicial para hemorragia externa é:
 
 A) torniquete como primeira conduta.  
-B) pressão direta e curativo compressivo.  
-C) aplicação de pomada.  
-D) lavagem prolongada com água quente.  
-E) retirada de coágulos.
+B) retirada de coágulos.  
+C) lavagem prolongada com água quente.  
+D) aplicação de pomada.  
+E) pressão direta e curativo compressivo.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** O manual trata torniquete como técnica avançada e ensina pressão direta/curativo compressivo como base.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Hemorragia e Estado de Choque]]
@@ -520,13 +520,13 @@ E) retirada de coágulos.
 
 Em queimadura, é conduta inadequada:
 
-A) proteger a área.  
+A) avaliar sinais de gravidade.  
 B) acionar ajuda quando necessário.  
-C) usar substâncias caseiras como creme dental ou pó de café.  
-D) evitar contaminar a lesão.  
-E) avaliar sinais de gravidade.
+C) evitar contaminar a lesão.  
+D) proteger a área.  
+E) usar substâncias caseiras como creme dental ou pó de café.
 
-**Gabarito:** C  
+**Gabarito:** E  
 **Comentário:** Substâncias caseiras agravam risco de contaminação e dificultam atendimento.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Queimaduras]]
@@ -540,13 +540,13 @@ E) avaliar sinais de gravidade.
 
 São sinais vitais ou diagnósticos trabalhados no CBAE:
 
-A) somente altura e peso.  
-B) respiração, pulsação, pressão arterial, temperatura e avaliação de pele/pupilas.  
-C) apenas tipo sanguíneo.  
-D) apenas nível de escolaridade.  
-E) somente histórico familiar.
+A) pulsação e pressão arterial somente, sem temperatura.  
+B) frequência respiratória e temperatura somente, sem pulsação.  
+C) nível de consciência e escala de coma apenas.  
+D) respiração, pulsação, pressão arterial, temperatura e avaliação de pele/pupilas.  
+E) apenas glicemia e saturação de oxigênio.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** O Manual CBAE apresenta esses elementos no bloco de sinais vitais e diagnósticos.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Sinais Vitais]]
@@ -560,13 +560,13 @@ E) somente histórico familiar.
 
 Em intoxicação, uma conduta segura de primeiros socorros é:
 
-A) provocar vômito em toda situação.  
-B) ignorar o agente causador.  
-C) manter segurança da cena e acionar serviço adequado, preservando informações sobre o produto quando possível.  
-D) oferecer bebida alcoólica.  
-E) administrar medicamento sem orientação.
+A) manter segurança da cena e acionar serviço adequado, preservando informações sobre o produto quando possível.  
+B) administrar medicamento sem orientação.  
+C) administrar leite para neutralizar o veneno.  
+D) provocar vômito em toda situação.  
+E) ignorar o agente causador.
 
-**Gabarito:** C  
+**Gabarito:** A  
 **Comentário:** Segurança, acionamento e informação sobre o agente são condutas coerentes com atendimento básico.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Intoxicação e Envenenamento]]
@@ -580,13 +580,13 @@ E) administrar medicamento sem orientação.
 
 Segundo a IG 10-03-BM, Bombeiro Comunitário é:
 
-A) servidor militar estadual efetivo.  
-B) cidadão voluntário capacitado para atuar na prevenção de sinistros e auxiliar o CBMSC na coprodução do serviço público.  
-C) profissional privado remunerado para brigada particular.  
-D) candidato aprovado automaticamente em concurso público.  
-E) agente de trânsito municipal.
+A) profissional privado remunerado para brigada particular.  
+B) candidato aprovado automaticamente em concurso público.  
+C) agente de trânsito municipal.  
+D) cidadão voluntário capacitado para atuar na prevenção de sinistros e auxiliar o CBMSC na coprodução do serviço público.  
+E) servidor militar estadual efetivo.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** A definição é normativa e deve ser cobrada com literalidade.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Conceito, Objetivos e Definições]]
@@ -600,13 +600,13 @@ E) agente de trânsito municipal.
 
 Os cursos de capacitação à comunidade previstos na IG incluem:
 
-A) somente CIE.  
-B) CBAE e CFBC.  
-C) apenas curso superior.  
-D) apenas estágio operacional.  
-E) somente treinamento físico.
+A) CBAE e CFBC.  
+B) CBAE com 80 horas-aula e CFBC com 80 horas-aula.  
+C) somente CIE, dispensando o CBAE.  
+D) CBAE de 40 horas e estágio operacional de 80 horas.  
+E) CFBC com 20 horas e avaliação final escrita.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** A IG prevê Curso Básico de Atendimento a Emergências e Curso de Formação de Bombeiros Comunitários.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Cursos de Capacitação CBAE e CFBC]]
@@ -621,12 +621,12 @@ E) somente treinamento físico.
 Para aprovação no CBAE, a IG exige, entre outros requisitos:
 
 A) frequência mínima de 50% e nota 5.  
-B) frequência mínima de 75% e nota igual ou superior a 7.  
-C) somente presença na formatura.  
+B) somente presença na formatura.  
+C) CNH categoria E.  
 D) estágio operacional obrigatório de 240 horas.  
-E) CNH categoria E.
+E) frequência mínima de 75% e nota igual ou superior a 7.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Frequência mínima de 75% e nota igual ou superior a 7 estão na IG.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Cursos de Capacitação CBAE e CFBC]]
@@ -640,13 +640,13 @@ E) CNH categoria E.
 
 O serviço comunitário no CBMSC é juridicamente relacionado ao:
 
-A) serviço voluntário.  
+A) estágio remunerado obrigatório.  
 B) contrato militar obrigatório.  
-C) vínculo celetista automático.  
-D) cargo efetivo estadual.  
-E) estágio remunerado obrigatório.
+C) serviço voluntário.  
+D) vínculo celetista automático.  
+E) cargo efetivo estadual.
 
-**Gabarito:** A  
+**Gabarito:** C  
 **Comentário:** A IG vincula o serviço comunitário à relação formal de voluntariado.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Ingresso e Controle do Serviço]]
@@ -660,13 +660,13 @@ E) estágio remunerado obrigatório.
 
 Na IG 10-03-BM, o uso de uniforme do Bombeiro Comunitário é tema regulado em capítulo próprio porque:
 
-A) é livre e sem padronização.  
-B) integra identificação, apresentação e controle do serviço.  
-C) substitui todos os EPIs operacionais.  
-D) dispensa autorização da OBM.  
-E) é igual ao uniforme de qualquer cargo civil.
+A) substitui todos os EPIs operacionais.  
+B) dispensa autorização da OBM.  
+C) integra identificação, apresentação e controle do serviço.  
+D) é igual ao uniforme de qualquer cargo civil.  
+E) é livre e sem padronização.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** Uniforme é componente normativo de identificação e padronização do serviço comunitário.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Uniformes e Equipamentos]]
@@ -680,13 +680,13 @@ E) é igual ao uniforme de qualquer cargo civil.
 
 Questões sobre deveres, ética e disciplina na IG devem ser respondidas priorizando:
 
-A) opinião pessoal sobre voluntariado.  
-B) literalidade e finalidade normativa da instrução.  
+A) literalidade e finalidade normativa da instrução.  
+B) apenas costumes locais.  
 C) regras informais de cada candidato.  
-D) apenas costumes locais.  
+D) opinião pessoal sobre voluntariado.  
 E) conteúdo de manuais de trânsito.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** A IG é norma de referência; a banca tende a cobrar literalidade e interpretação normativa.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Deveres, Atividades e Disciplina]]
@@ -703,8 +703,8 @@ Segundo o edital, o concurso compreende:
 A) apenas prova objetiva.  
 B) prova objetiva e prova de aptidão física.  
 C) prova discursiva, oral e sindicância.  
-D) somente análise curricular.  
-E) entrevista eliminatória e redação.
+D) entrevista eliminatória e redação.  
+E) somente análise curricular.
 
 **Gabarito:** B  
 **Comentário:** O edital prevê prova objetiva e prova de aptidão física.  

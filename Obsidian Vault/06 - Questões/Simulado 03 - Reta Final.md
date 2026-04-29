@@ -19,13 +19,13 @@ tags: [simulado, fucap, reta-final]
 
 Assinale a alternativa correta.
 
-A) Não entendi o porque da ausência.  
-B) Ele faltou por quê estava doente.  
-C) Por que você chegou atrasado?  
-D) A rua foi interditada por quê? não sei.  
-E) O candidato perguntou porque?
+A) A rua foi interditada por quê? não sei.  
+B) Por que você chegou atrasado?  
+C) O candidato perguntou porque?  
+D) Ele faltou por quê estava doente.  
+E) Não entendi o porque da ausência.
 
-**Gabarito:** C  
+**Gabarito:** B  
 **Comentário:** Em pergunta direta no início, usa-se `por que`.  
 **Fonte:** Edital - Língua Portuguesa.  
 **Revisar:** [[Usos dos Porquês]]
@@ -39,10 +39,10 @@ E) O candidato perguntou porque?
 
 Assinale a alternativa correta quanto à regência.
 
-A) O candidato assistiu o treinamento no quartel.  
+A) O servidor informou o candidato do resultado, única forma correta.  
 B) O bombeiro obedeceu às normas da OBM.  
-C) O aluno chegou no local com antecedência, em norma culta obrigatória.  
-D) O servidor informou o candidato do resultado, única forma correta.  
+C) O candidato assistiu o treinamento no quartel.  
+D) O aluno chegou no local com antecedência, em norma culta obrigatória.  
 E) O motorista preferiu mais dirigir do que aguardar.
 
 **Gabarito:** B  
@@ -59,13 +59,13 @@ E) O motorista preferiu mais dirigir do que aguardar.
 
 Na frase `A equipe chegou rapidamente`, a palavra `rapidamente` é:
 
-A) substantivo.  
-B) adjetivo.  
-C) advérbio.  
+A) advérbio.  
+B) substantivo.  
+C) adjetivo.  
 D) pronome.  
 E) preposição.
 
-**Gabarito:** C  
+**Gabarito:** A  
 **Comentário:** Modifica o verbo `chegou`, indicando modo.  
 **Fonte:** Edital - Língua Portuguesa.  
 **Revisar:** [[Classes Gramaticais]]
@@ -79,11 +79,11 @@ E) preposição.
 
 As palavras `médico`, `público` e `técnico` são acentuadas por serem:
 
-A) oxítonas terminadas em o.  
+A) hiatos obrigatórios.  
 B) paroxítonas terminadas em ditongo.  
 C) proparoxítonas.  
 D) monossílabos tônicos.  
-E) hiatos obrigatórios.
+E) oxítonas terminadas em o.
 
 **Gabarito:** C  
 **Comentário:** Toda proparoxítona é acentuada.  
@@ -100,12 +100,12 @@ E) hiatos obrigatórios.
 Em `A cidade acordou assustada`, há:
 
 A) pleonasmo vicioso.  
-B) prosopopeia/personificação.  
-C) metonímia obrigatória.  
+B) metonímia obrigatória.  
+C) solecismo.  
 D) cacofonia.  
-E) solecismo.
+E) prosopopeia/personificação.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Atribui-se ação humana à cidade.  
 **Fonte:** Edital - Língua Portuguesa.  
 **Revisar:** [[Figuras e Vícios de Linguagem]]
@@ -119,13 +119,13 @@ E) solecismo.
 
 A prioridade de passagem de veículo de emergência:
 
-A) dispensa prudência do condutor.  
-B) existe quando em serviço de urgência, com dispositivos regulamentares acionados.  
-C) vale para qualquer veículo oficial, mesmo sem urgência.  
-D) autoriza sempre transitar sem qualquer cuidado.  
+A) vale para qualquer veículo oficial, mesmo sem urgência.  
+B) autoriza sempre transitar sem qualquer cuidado.  
+C) dispensa prudência do condutor.  
+D) existe quando em serviço de urgência, com dispositivos regulamentares acionados.  
 E) aplica-se apenas fora de área urbana.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** Prioridade não elimina dever de segurança e depende da condição legal.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[Transporte de Urgência e Emergência]]
@@ -139,13 +139,13 @@ E) aplica-se apenas fora de área urbana.
 
 As infrações de trânsito são classificadas, quanto à gravidade, como:
 
-A) simples, composta e complexa.  
-B) leve, média, grave e gravíssima.  
-C) civil, penal e administrativa.  
-D) urbana e rural apenas.  
-E) federal, estadual e municipal.
+A) urbana e rural apenas.  
+B) civil, penal e administrativa.  
+C) federal, estadual e municipal.  
+D) simples, composta e complexa.  
+E) leve, média, grave e gravíssima.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Essa é a classificação básica do CTB.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[Infrações e Penalidades]]
@@ -159,13 +159,13 @@ E) federal, estadual e municipal.
 
 Retenção e remoção do veículo são exemplos de:
 
-A) figuras de linguagem.  
-B) medidas administrativas.  
-C) classes de incêndio.  
-D) sinais vitais.  
-E) cursos comunitários.
+A) penalidades de natureza criminal.  
+B) classes de infração de trânsito.  
+C) medidas administrativas.  
+D) sanções disciplinares dos agentes de trânsito.  
+E) agravantes de pena judicial.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** São providências administrativas previstas no sistema de trânsito.  
 **Fonte:** CTB / edital.  
 **Revisar:** [[Medidas Administrativas]]
@@ -179,13 +179,13 @@ E) cursos comunitários.
 
 Antes de deslocamento operacional, uma checagem coerente do veículo inclui:
 
-A) ignorar pneus e freios.  
-B) verificar itens básicos como pneus, freios, luzes e nível de combustível.  
-C) remover equipamentos obrigatórios.  
-D) dirigir sem documentação.  
+A) dirigir sem documentação.  
+B) remover equipamentos obrigatórios.  
+C) ignorar pneus e freios.  
+D) verificar itens básicos como pneus, freios, luzes e nível de combustível.  
 E) desligar toda sinalização.
 
-**Gabarito:** B  
+**Gabarito:** D  
 **Comentário:** Noções de funcionamento do veículo envolvem manutenção e segurança básica.  
 **Fonte:** Edital.  
 **Revisar:** [[Funcionamento do Veículo]]
@@ -199,13 +199,13 @@ E) desligar toda sinalização.
 
 O edital exige certificado de curso de:
 
-A) condutor de veículo de emergência.  
-B) literatura brasileira.  
-C) operador de drones.  
-D) mergulho profissional.  
-E) informática avançada.
+A) condutor de veículo de carga pesada — categoria C.  
+B) motociclista profissional — categoria A específica.  
+C) motorista de transporte coletivo — categoria D.  
+D) condutor de veículo de emergência.  
+E) operador de máquinas pesadas — categoria especial.
 
-**Gabarito:** A  
+**Gabarito:** D  
 **Comentário:** O requisito aparece no quadro do cargo.  
 **Fonte:** Edital 001/2026.  
 **Revisar:** [[Habilitação CNH]]
@@ -219,13 +219,13 @@ E) informática avançada.
 
 Incêndios em materiais sólidos comuns, como madeira e papel, são típicos da classe:
 
-A) A.  
-B) B.  
-C) C.  
-D) D.  
+A) C.  
+B) D.  
+C) A.  
+D) B.  
 E) K.
 
-**Gabarito:** A  
+**Gabarito:** C  
 **Comentário:** Classe A envolve combustíveis sólidos comuns.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Fundamentos do Fogo]]
@@ -239,13 +239,13 @@ E) K.
 
 Abafamento atua principalmente sobre:
 
-A) retirada do comburente/oxigênio da reação.  
-B) aumento da temperatura.  
-C) criação de combustível.  
-D) ampliação da reação em cadeia.  
-E) ventilação da fumaça.
+A) criação de combustível.  
+B) retirada do comburente/oxigênio da reação.  
+C) ampliação da reação em cadeia.  
+D) ventilação da fumaça.  
+E) aumento da temperatura.
 
-**Gabarito:** A  
+**Gabarito:** B  
 **Comentário:** Abafamento reduz contato do combustível com o comburente.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Técnicas de Ataque e Extinção]]
@@ -261,9 +261,9 @@ Capacete, balaclava, roupa de combate, botas e luvas são:
 
 A) componentes de sinalização horizontal.  
 B) equipamentos de proteção individual.  
-C) medidas administrativas de trânsito.  
-D) tipos de prova.  
-E) formas de crase.
+C) tipos de prova.  
+D) formas de crase.  
+E) medidas administrativas de trânsito.
 
 **Gabarito:** B  
 **Comentário:** São EPIs tratados no Manual CIE.  
@@ -279,13 +279,13 @@ E) formas de crase.
 
 Escada simples, escada de gancho e escada prolongável aparecem no Manual CIE como:
 
-A) tipos de escadas de bombeiros.  
-B) métodos de punição.  
-C) classes de infração.  
-D) sinais vitais.  
-E) formas verbais.
+A) classes de incêndio segundo o Manual CIE.  
+B) tipos de extintores portáteis.  
+C) métodos de abastecimento hidráulico.  
+D) tipos de escadas de bombeiros.  
+E) níveis de proteção individual do bombeiro.
 
-**Gabarito:** A  
+**Gabarito:** D  
 **Comentário:** O manual dedica lição a escadas de bombeiros.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Equipamentos Hidráulicos e Escadas]]
@@ -299,11 +299,11 @@ E) formas verbais.
 
 Ventilação em incêndio estrutural deve ser coordenada porque:
 
-A) nunca altera comportamento do fogo.  
+A) dispensa comando.  
 B) pode influenciar fumaça, calor e dinâmica do incêndio.  
 C) substitui a linha de ataque.  
-D) dispensa comando.  
-E) é sempre improvisada sem técnica.
+D) é sempre improvisada sem técnica.  
+E) nunca altera comportamento do fogo.
 
 **Gabarito:** B  
 **Comentário:** Ventilação mal coordenada pode piorar condições do incêndio.  
@@ -319,13 +319,13 @@ E) é sempre improvisada sem técnica.
 
 Os métodos de abastecimento citados no Manual CIE incluem:
 
-A) bombeamento, gravidade e modo combinado.  
-B) crase, regência e concordância.  
-C) leve, média, grave e gravíssima.  
-D) CBAE, CFBC e TAF.  
-E) resfriamento, literatura e semântica.
+A) pressão, temperatura e densidade do agente extintor.  
+B) hidrante, mangueira e extintor portátil.  
+C) bombeamento, gravidade e modo combinado.  
+D) leve, média, grave e gravíssima.  
+E) jato sólido, jato neblina e jato indireto.
 
-**Gabarito:** A  
+**Gabarito:** C  
 **Comentário:** São formas de abastecimento de água em CIE.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Equipamentos Hidráulicos e Escadas]]
@@ -339,13 +339,13 @@ E) resfriamento, literatura e semântica.
 
 Assinale a alternativa correta para prova, conforme Manual CBAE.
 
-A) O Manual CBAE usa protocolo externo de trauma como eixo oficial.  
-B) O Manual CBAE usa ABCDE como título principal da avaliação.  
-C) O Manual CBAE usa Avaliação da Cena e Avaliação Geral da Vítima.  
-D) O Manual CBAE não trata avaliação de vítima.  
-E) O Manual CBAE substitui avaliação por transporte imediato.
+A) O Manual CBAE substitui avaliação por transporte imediato.  
+B) O Manual CBAE não trata avaliação de vítima.  
+C) O Manual CBAE usa protocolo externo de trauma como eixo oficial.  
+D) O Manual CBAE usa ABCDE como título principal da avaliação.  
+E) O Manual CBAE usa Avaliação da Cena e Avaliação Geral da Vítima.
 
-**Gabarito:** C  
+**Gabarito:** E  
 **Comentário:** Essa é a decisão metodológica central da auditoria CBAE.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[Avaliação Geral da Vítima vs ABCDE e XABCDE]]
@@ -360,10 +360,10 @@ E) O Manual CBAE substitui avaliação por transporte imediato.
 Na Avaliação Geral da Vítima, o nível de consciência aparece:
 
 A) antes da avaliação de vias aéreas.  
-B) somente depois do transporte.  
+B) fora do manual.  
 C) apenas em incêndios estruturais.  
-D) como tema de trânsito, não de CBAE.  
-E) fora do manual.
+D) somente depois do transporte.  
+E) como tema de trânsito, não de CBAE.
 
 **Gabarito:** A  
 **Comentário:** A sequência do Manual CBAE coloca consciência antes de vias aéreas.  
@@ -379,13 +379,13 @@ E) fora do manual.
 
 Em obstrução de vias aéreas, a prioridade é:
 
-A) restaurar passagem de ar conforme técnica adequada.  
-B) discutir gabarito.  
-C) aplicar agente extintor.  
-D) registrar infração.  
-E) avaliar literatura brasileira.
+A) aplicar compressões torácicas imediatamente.  
+B) posicionar a vítima em decúbito ventral.  
+C) retirar a vítima do local sem avaliação prévia.  
+D) restaurar passagem de ar conforme técnica adequada.  
+E) imobilizar a coluna antes de qualquer outra ação.
 
-**Gabarito:** A  
+**Gabarito:** D  
 **Comentário:** Obstrução compromete ventilação e exige ação imediata conforme o caso.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Vias Aéreas e Ventilação]]
@@ -400,10 +400,10 @@ E) avaliar literatura brasileira.
 Em queimadura química, quando possível e seguro, é útil:
 
 A) levar informação ou recipiente do produto para avaliação.  
-B) aplicar pó de café.  
-C) furar bolhas.  
+B) furar bolhas.  
+C) ignorar o agente causador.  
 D) cobrir com creme dental.  
-E) ignorar o agente causador.
+E) aplicar pó de café.
 
 **Gabarito:** A  
 **Comentário:** Identificar o agente ajuda o atendimento especializado; substâncias caseiras são inadequadas.  
@@ -419,13 +419,13 @@ E) ignorar o agente causador.
 
 Movimentar vítima sem suspeita de trauma pode ser considerado quando:
 
-A) houver segurança e técnica compatível com a situação.  
-B) o socorrista quiser encerrar rápido.  
+A) o socorrista quiser encerrar rápido.  
+B) for para testar dor.  
 C) a vítima estiver sempre inconsciente.  
 D) não houver avaliação da cena.  
-E) for para testar dor.
+E) houver segurança e técnica compatível com a situação.
 
-**Gabarito:** A  
+**Gabarito:** E  
 **Comentário:** Transporte e manipulação devem respeitar segurança, avaliação e suspeita de trauma.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Imobilização e Transporte de Vítimas]]
@@ -439,10 +439,10 @@ E) for para testar dor.
 
 O CBAE tem forte ênfase em:
 
-A) apenas combate ofensivo avançado.  
+A) somente gramática.  
 B) prevenção, percepção de riscos e atuação inicial segura.  
 C) exclusivamente legislação de trânsito.  
-D) somente gramática.  
+D) apenas combate ofensivo avançado.  
 E) apenas prova física.
 
 **Gabarito:** B  
@@ -459,13 +459,13 @@ E) apenas prova física.
 
 Agente comunitário de proteção civil é:
 
-A) cidadão capacitado para compor força organizada de defesa civil na comunidade.  
+A) condutor de ambulância por definição.  
 B) servidor efetivo estadual automaticamente.  
-C) condutor de ambulância por definição.  
+C) cidadão capacitado para compor força organizada de defesa civil na comunidade.  
 D) fiscal de trânsito municipal.  
-E) candidato aprovado em literatura.
+E) profissional concursado para cargo de apoio municipal.
 
-**Gabarito:** A  
+**Gabarito:** C  
 **Comentário:** A definição é apresentada no art. 2º da IG.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Conceito, Objetivos e Definições]]
@@ -479,13 +479,13 @@ E) candidato aprovado em literatura.
 
 O CBAE possui, conforme IG:
 
-A) 20 horas-aula.  
-B) 40 horas-aula.  
-C) 104 horas-aula.  
-D) 240 horas-aula.  
-E) 3h30.
+A) 40 horas-aula.  
+B) 104 horas-aula.  
+C) 3h30.  
+D) 20 horas-aula.  
+E) 240 horas-aula.
 
-**Gabarito:** B  
+**Gabarito:** A  
 **Comentário:** A IG define CBAE com 40 horas-aula.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Cursos de Capacitação CBAE e CFBC]]
@@ -499,13 +499,13 @@ E) 3h30.
 
 Para matrícula no CFBC, a IG exige, entre outros requisitos:
 
-A) ter sido aprovado no CBAE dentro do prazo ou passar por certificação quando aplicável.  
-B) apenas ter 16 anos em qualquer hipótese.  
-C) não assinar qualquer termo.  
-D) nunca passar por inspeção de saúde antes de prática.  
-E) ser automaticamente servidor público.
+A) apenas ter 16 anos em qualquer hipótese.  
+B) ser automaticamente servidor público.  
+C) nunca passar por inspeção de saúde antes de prática.  
+D) não assinar qualquer termo.  
+E) ter sido aprovado no CBAE dentro do prazo ou passar por certificação quando aplicável.
 
-**Gabarito:** A  
+**Gabarito:** E  
 **Comentário:** A IG detalha requisitos para ingresso no CFBC.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Recrutamento e Seleção de Bombeiro Comunitário]]
@@ -519,13 +519,13 @@ E) ser automaticamente servidor público.
 
 Promoção e graus do Bombeiro Comunitário são tratados na IG como parte:
 
-A) da organização e reconhecimento do serviço.  
-B) do CTB.  
-C) da ortografia oficial.  
-D) do Manual CIE exclusivamente.  
-E) do sistema de crase.
+A) do sistema de crase.  
+B) da ortografia oficial.  
+C) do Manual CIE exclusivamente.  
+D) do CTB.  
+E) da organização e reconhecimento do serviço.
 
-**Gabarito:** A  
+**Gabarito:** E  
 **Comentário:** A IG regula promoção, uniforme, reconhecimento e graus.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Promoção, Uniforme e Reconhecimento]]
@@ -539,13 +539,13 @@ E) do sistema de crase.
 
 Na IG, OBM significa:
 
-A) Organização Bombeiro Militar.  
+A) Operação Básica Municipal.  
 B) Ordem Brasileira de Motoristas.  
-C) Operação Básica Municipal.  
-D) Oficial de Banca Municipal.  
+C) Oficial de Banca Municipal.  
+D) Organização Bombeiro Militar.  
 E) Organização de Bombeiros Mirins apenas.
 
-**Gabarito:** A  
+**Gabarito:** D  
 **Comentário:** A sigla aparece nas definições da instrução.  
 **Fonte:** IG 10-03-BM.  
 **Revisar:** [[IG - Organização e Estrutura do Serviço Comunitário]]
@@ -560,10 +560,10 @@ E) Organização de Bombeiros Mirins apenas.
 Termos e declarações anexos à IG servem para:
 
 A) formalizar responsabilidades e adesão ao serviço comunitário.  
-B) substituir a prova objetiva.  
-C) criar questões de literatura.  
-D) dispensar controle da OBM.  
-E) alterar o edital municipal.
+B) alterar o edital municipal.  
+C) dispensar controle da OBM.  
+D) substituir a prova objetiva.  
+E) registrar ocorrências de trânsito do voluntário.
 
 **Gabarito:** A  
 **Comentário:** Os anexos compõem a formalização documental do serviço.  
@@ -579,13 +579,13 @@ E) alterar o edital municipal.
 
 O TAF do edital inclui:
 
-A) barra fixa, abdominal, flexão de braço e corrida de 12 minutos.  
-B) apenas natação.  
-C) somente entrevista.  
-D) redação e prova oral.  
-E) digitação e informática.
+A) somente entrevista.  
+B) redação e prova oral.  
+C) digitação e informática.  
+D) barra fixa, abdominal, flexão de braço e corrida de 12 minutos.  
+E) apenas natação.
 
-**Gabarito:** A  
+**Gabarito:** D  
 **Comentário:** Esses testes constam no Anexo III do edital.  
 **Fonte:** Edital 001/2026.  
 **Revisar:** [[🏃 Preparação Física]]
@@ -599,13 +599,13 @@ E) digitação e informática.
 
 A nota mínima indicada no resumo operacional do edital no vault é:
 
-A) 2,0.  
-B) 3,0.  
-C) 4,0.  
-D) 5,0.  
-E) 7,0.
+A) 5,0.  
+B) 7,0.  
+C) 3,0.  
+D) 2,0.  
+E) 4,0.
 
-**Gabarito:** D  
+**Gabarito:** A  
 **Comentário:** A prova objetiva tem nota mínima de 5,0.  
 **Fonte:** Edital 001/2026.  
 **Revisar:** [[Edital Completo]]
@@ -620,12 +620,12 @@ E) 7,0.
 Em incêndio interior, avançar sem EPI/EPR adequado:
 
 A) é aceitável em qualquer ocorrência pequena.  
-B) aumenta risco grave à guarnição.  
-C) melhora a ventilação.  
+B) melhora a ventilação.  
+C) é exigência do Manual CIE.  
 D) substitui abastecimento.  
-E) é exigência do Manual CIE.
+E) aumenta risco grave à guarnição.
 
-**Gabarito:** B  
+**Gabarito:** E  
 **Comentário:** Segurança operacional é condição para combate seguro.  
 **Fonte:** Manual CIE.  
 **Revisar:** [[CIE - Técnicas de Combate Interno]]
@@ -639,13 +639,13 @@ E) é exigência do Manual CIE.
 
 Vítima com dificuldade respiratória exige atenção prioritária porque:
 
-A) respiração inadequada ameaça rapidamente a vida.  
+A) é tema exclusivo de Português.  
 B) respiração nunca é sinal vital.  
-C) só importa após preencher formulário.  
-D) não tem relação com vias aéreas.  
-E) é tema exclusivo de Português.
+C) respiração inadequada ameaça rapidamente a vida.  
+D) só importa após preencher formulário.  
+E) não tem relação com vias aéreas.
 
-**Gabarito:** A  
+**Gabarito:** C  
 **Comentário:** Respiração é etapa essencial na avaliação geral da vítima.  
 **Fonte:** Manual CBAE.  
 **Revisar:** [[CBAE - Vias Aéreas e Ventilação]]
@@ -659,13 +659,13 @@ E) é tema exclusivo de Português.
 
 Em acidente de trânsito com motociclista caído, a conduta básica mais segura é:
 
-A) retirar o capacete imediatamente em qualquer situação.  
-B) suspeitar de trauma e evitar movimentação desnecessária.  
-C) sentar a vítima à força.  
-D) oferecer água.  
-E) pedir que caminhe para testar.
+A) sentar a vítima à força.  
+B) oferecer água.  
+C) suspeitar de trauma e evitar movimentação desnecessária.  
+D) pedir que caminhe para testar.  
+E) retirar o capacete imediatamente em qualquer situação.
 
-**Gabarito:** B  
+**Gabarito:** C  
 **Comentário:** Acidente de trânsito sugere trauma; proteção cervical e mínima movimentação são essenciais.  
 **Fonte:** Manual CBAE / CTB.  
 **Revisar:** [[Primeiros Socorros no Trânsito]]
@@ -680,9 +680,9 @@ E) pedir que caminhe para testar.
 Literatura Brasileira consta no edital como:
 
 A) conteúdo de Língua Portuguesa.  
-B) conteúdo de CIE.  
+B) critério do TAF.  
 C) conteúdo da IG.  
-D) critério do TAF.  
+D) conteúdo de CIE.  
 E) requisito de CNH.
 
 **Gabarito:** A  
@@ -702,8 +702,8 @@ Se uma fonte externa ensina protocolo diferente do PDF oficial do projeto, a res
 A) seguir a fonte externa mais conhecida.  
 B) seguir o edital e o PDF oficial, registrando a divergência se necessário.  
 C) misturar as duas fontes sem aviso.  
-D) ignorar o edital.  
-E) apagar toda observação complementar.
+D) apagar toda observação complementar.  
+E) ignorar o edital.
 
 **Gabarito:** B  
 **Comentário:** A hierarquia de fontes do projeto exige prevalência do edital e dos PDFs oficiais.  
