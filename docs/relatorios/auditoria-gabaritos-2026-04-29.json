@@ -1,0 +1,121 @@
+{
+  "date": "2026-04-29",
+  "mode": "audit",
+  "seed": null,
+  "total": 100,
+  "aggregate_distribution": {
+    "A": {
+      "count": 20,
+      "pct": 20.0
+    },
+    "B": {
+      "count": 20,
+      "pct": 20.0
+    },
+    "C": {
+      "count": 20,
+      "pct": 20.0
+    },
+    "D": {
+      "count": 20,
+      "pct": 20.0
+    },
+    "E": {
+      "count": 20,
+      "pct": 20.0
+    }
+  },
+  "correct_is_longest_count": 58,
+  "simulados": [
+    {
+      "name": "Simulado 01 - Diagnóstico",
+      "total": 35,
+      "distribution": {
+        "A": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "B": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "C": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "D": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "E": {
+          "count": 7,
+          "pct": 20.0
+        }
+      },
+      "correct_is_longest": 20,
+      "absolutism_in_wrong": 16,
+      "hedge_in_correct": 1,
+      "issues": []
+    },
+    {
+      "name": "Simulado 02 - Conhecimentos Específicos",
+      "total": 30,
+      "distribution": {
+        "A": {
+          "count": 6,
+          "pct": 20.0
+        },
+        "B": {
+          "count": 6,
+          "pct": 20.0
+        },
+        "C": {
+          "count": 6,
+          "pct": 20.0
+        },
+        "D": {
+          "count": 6,
+          "pct": 20.0
+        },
+        "E": {
+          "count": 6,
+          "pct": 20.0
+        }
+      },
+      "correct_is_longest": 19,
+      "absolutism_in_wrong": 16,
+      "hedge_in_correct": 2,
+      "issues": []
+    },
+    {
+      "name": "Simulado 03 - Reta Final",
+      "total": 35,
+      "distribution": {
+        "A": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "B": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "C": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "D": {
+          "count": 7,
+          "pct": 20.0
+        },
+        "E": {
+          "count": 7,
+          "pct": 20.0
+        }
+      },
+      "correct_is_longest": 19,
+      "absolutism_in_wrong": 14,
+      "hedge_in_correct": 1,
+      "issues": []
+    }
+  ]
+}
